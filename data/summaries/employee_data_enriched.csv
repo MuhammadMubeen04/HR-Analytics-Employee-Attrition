@@ -1,0 +1,1201 @@
+EmployeeID,Age,Gender,Department,JobRole,Education,EducationField,MaritalStatus,BusinessTravel,MonthlyIncome,PercentSalaryHike,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,TotalWorkingYears,NumCompaniesWorked,OverTime,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,RelationshipSatisfaction,JobInvolvement,PerformanceRating,DistanceFromHome,Attrition,TenureBand,IncomeBand,PromotionStatus
+EMP0001,36,Female,Research & Development,Research Scientist,Bachelor,Technical Degree,Single,Travel_Rarely,8035,21,10,7,4,16,5,Yes,3,4,1,4,4,4,29,No,6-10 years,High (6-9k),4+ years ago
+EMP0002,48,Male,Research & Development,Research Scientist,Below College,Medical,Married,Travel_Rarely,7477,15,9,2,6,12,6,No,3,3,1,1,3,3,12,No,6-10 years,High (6-9k),4+ years ago
+EMP0003,56,Male,Research & Development,Research Director,Doctor,Other,Single,Non-Travel,14433,24,13,0,3,14,7,No,2,2,2,4,2,3,21,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0004,45,Female,Research & Development,Laboratory Technician,Master,Human Resources,Divorced,Travel_Rarely,4581,17,12,8,12,18,3,No,1,4,1,4,4,3,7,No,10+ years,Medium (4-6k),4+ years ago
+EMP0005,55,Female,IT,IT Manager,Master,Medical,Single,Travel_Rarely,11480,18,0,0,0,7,2,No,1,3,4,4,2,4,9,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0006,34,Female,Finance,Financial Analyst,Master,Technical Degree,Divorced,Travel_Frequently,6009,14,2,2,2,2,0,Yes,2,1,3,3,1,3,21,No,1-2 years,High (6-9k),1-3 years ago
+EMP0007,41,Male,IT,IT Manager,Bachelor,Human Resources,Married,Travel_Rarely,12823,11,10,9,6,13,7,No,1,1,3,2,1,4,15,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0008,33,Male,Sales,Sales Executive,College,Technical Degree,Married,Travel_Rarely,5810,11,6,1,2,6,6,Yes,3,1,2,2,4,3,4,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0009,38,Male,Sales,Sales Manager,Bachelor,Marketing,Married,Non-Travel,10932,11,5,4,3,6,0,No,1,4,3,2,4,3,1,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0010,39,Male,Research & Development,Research Director,Bachelor,Other,Divorced,Travel_Frequently,14632,17,7,0,2,10,2,No,3,2,2,3,3,3,23,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0011,40,Male,Research & Development,Research Director,Master,Human Resources,Single,Travel_Rarely,16138,18,15,15,2,18,1,No,4,3,1,4,4,4,22,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0012,57,Male,Research & Development,Research Scientist,Bachelor,Other,Married,Travel_Frequently,5858,14,0,0,0,3,2,No,4,4,4,3,3,3,22,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0013,55,Female,IT,Data Analyst,Bachelor,Life Sciences,Divorced,Travel_Rarely,10571,13,20,0,14,27,5,No,4,3,4,1,4,3,21,No,10+ years,Very High (9k+),4+ years ago
+EMP0014,42,Female,Human Resources,HR Executive,College,Marketing,Single,Travel_Rarely,4698,19,0,0,0,7,7,Yes,2,3,2,2,3,3,1,No,0 years,Medium (4-6k),Recently Promoted
+EMP0015,50,Female,Sales,Sales Representative,Master,Technical Degree,Married,Travel_Rarely,3974,23,9,6,9,11,6,No,4,2,3,1,4,4,22,No,6-10 years,Low (<4k),4+ years ago
+EMP0016,43,Female,Research & Development,Laboratory Technician,College,Other,Married,Travel_Rarely,6094,21,21,16,19,22,3,No,4,1,1,4,1,3,16,No,10+ years,High (6-9k),4+ years ago
+EMP0017,51,Male,Marketing,Marketing Manager,Bachelor,Other,Single,Travel_Rarely,13141,15,18,16,18,21,4,No,2,1,2,3,3,3,21,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0018,26,Male,Finance,Accountant,College,Human Resources,Married,Travel_Rarely,5423,19,4,2,3,5,5,No,1,2,4,1,3,3,5,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0019,26,Male,Research & Development,Laboratory Technician,Bachelor,Marketing,Divorced,Travel_Rarely,2691,20,3,1,3,9,2,Yes,4,1,4,1,1,3,28,No,3-5 years,Low (<4k),1-3 years ago
+EMP0020,33,Female,Sales,Sales Executive,Bachelor,Medical,Single,Travel_Frequently,6912,23,2,0,0,9,0,No,1,4,3,2,2,3,7,No,1-2 years,High (6-9k),Recently Promoted
+EMP0021,32,Female,Sales,Sales Executive,Bachelor,Other,Married,Travel_Rarely,7608,20,7,3,0,11,6,No,1,1,4,4,3,4,13,No,6-10 years,High (6-9k),Recently Promoted
+EMP0022,51,Female,IT,Data Analyst,Bachelor,Medical,Married,Travel_Rarely,8565,13,16,16,15,16,2,No,1,4,4,1,1,4,12,No,10+ years,High (6-9k),4+ years ago
+EMP0023,42,Male,Research & Development,Research Director,College,Medical,Divorced,Travel_Frequently,14386,20,3,0,2,10,5,No,2,3,2,3,2,3,7,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0024,30,Female,Research & Development,Manager,Bachelor,Technical Degree,Single,Travel_Rarely,9823,16,1,0,1,2,5,Yes,3,4,4,1,1,4,7,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0025,40,Male,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Single,Travel_Frequently,3418,24,6,5,2,10,5,No,2,4,4,4,1,4,21,No,6-10 years,Low (<4k),1-3 years ago
+EMP0026,53,Male,Marketing,Marketing Executive,Doctor,Other,Married,Travel_Frequently,6304,22,12,12,4,19,0,Yes,1,4,3,3,4,3,11,Yes,10+ years,High (6-9k),4+ years ago
+EMP0027,37,Male,Research & Development,Manager,Bachelor,Life Sciences,Single,Travel_Rarely,12687,20,7,5,3,14,4,Yes,4,4,2,4,2,3,28,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0028,56,Female,Sales,Sales Executive,Doctor,Life Sciences,Married,Travel_Rarely,6473,12,5,1,2,12,0,Yes,2,4,2,2,3,3,22,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0029,34,Female,IT,Software Engineer,Master,Medical,Divorced,Travel_Rarely,6226,15,0,0,0,1,5,No,4,3,2,4,1,3,9,No,0 years,High (6-9k),Recently Promoted
+EMP0030,34,Female,Sales,Sales Manager,Bachelor,Human Resources,Single,Travel_Rarely,11290,22,3,1,0,3,0,No,3,4,3,2,2,3,16,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0031,36,Male,Research & Development,Research Director,Bachelor,Technical Degree,Single,Travel_Rarely,11690,22,4,4,1,6,0,No,2,2,2,2,2,3,5,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0032,38,Male,IT,IT Support,College,Other,Married,Travel_Rarely,3804,15,9,0,3,16,3,Yes,2,1,2,3,3,3,24,Yes,6-10 years,Low (<4k),1-3 years ago
+EMP0033,24,Male,Research & Development,Manager,Master,Life Sciences,Married,Travel_Rarely,10392,15,2,0,1,6,0,No,1,2,4,2,1,3,26,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0034,43,Female,IT,Software Engineer,Bachelor,Technical Degree,Married,Travel_Rarely,10732,11,14,7,13,16,4,No,2,4,1,4,1,3,26,No,10+ years,Very High (9k+),4+ years ago
+EMP0035,28,Male,Sales,Sales Manager,Bachelor,Medical,Married,Travel_Rarely,11117,20,2,2,2,7,4,No,2,3,3,3,4,3,20,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0036,24,Female,Research & Development,Laboratory Technician,Master,Marketing,Married,Travel_Frequently,2917,16,0,0,0,4,4,No,2,3,4,4,1,3,25,Yes,0 years,Low (<4k),Recently Promoted
+EMP0037,42,Female,Sales,Sales Representative,Master,Technical Degree,Divorced,Travel_Frequently,3663,24,5,5,3,10,5,Yes,3,4,3,1,3,3,22,No,3-5 years,Low (<4k),1-3 years ago
+EMP0038,23,Male,Sales,Sales Representative,Master,Other,Single,Travel_Rarely,3451,23,0,0,0,2,2,Yes,4,1,2,2,2,4,4,No,0 years,Low (<4k),Recently Promoted
+EMP0039,54,Male,Research & Development,Research Director,Master,Marketing,Married,Travel_Frequently,11119,12,5,1,1,9,5,Yes,1,4,2,4,1,3,28,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0040,32,Male,Marketing,Marketing Manager,Master,Marketing,Married,Travel_Frequently,11885,16,8,1,2,10,0,Yes,4,4,1,4,3,4,13,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0041,29,Male,Human Resources,HR Manager,Bachelor,Marketing,Married,Travel_Rarely,9346,11,6,5,2,10,7,Yes,1,1,1,3,3,3,20,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0042,54,Female,IT,Software Engineer,College,Human Resources,Single,Travel_Frequently,9900,23,19,6,3,23,7,No,1,3,3,1,2,3,20,No,10+ years,Very High (9k+),1-3 years ago
+EMP0043,29,Male,Research & Development,Research Scientist,Bachelor,Medical,Divorced,Travel_Rarely,7608,13,4,4,3,7,4,No,3,4,4,2,3,3,8,No,3-5 years,High (6-9k),1-3 years ago
+EMP0044,54,Male,Research & Development,Research Scientist,Master,Life Sciences,Divorced,Travel_Rarely,10087,14,14,7,11,16,5,No,1,4,1,4,3,3,5,No,10+ years,Very High (9k+),4+ years ago
+EMP0045,57,Male,Marketing,Marketing Manager,Bachelor,Marketing,Divorced,Travel_Rarely,10254,15,21,0,21,27,2,Yes,3,1,1,1,2,4,2,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0046,45,Male,Marketing,Content Specialist,Bachelor,Other,Single,Travel_Frequently,5510,23,6,3,5,10,0,No,3,3,2,2,4,3,7,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0047,51,Male,Human Resources,HR Executive,Bachelor,Life Sciences,Married,Travel_Rarely,6570,11,22,18,18,27,6,No,1,1,2,4,4,3,4,No,10+ years,High (6-9k),4+ years ago
+EMP0048,24,Male,Sales,Sales Executive,Master,Human Resources,Married,Travel_Rarely,6009,17,1,1,0,6,4,Yes,3,4,4,2,3,3,3,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0049,29,Male,IT,IT Manager,College,Human Resources,Single,Travel_Rarely,13222,21,1,0,1,8,3,No,4,4,4,1,2,3,29,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0050,22,Male,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Single,Travel_Frequently,3079,20,0,0,0,6,3,No,3,2,3,3,3,3,24,Yes,0 years,Low (<4k),Recently Promoted
+EMP0051,44,Male,Sales,Sales Representative,Below College,Medical,Married,Travel_Frequently,5077,17,16,16,13,16,0,No,1,2,2,3,2,4,6,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0052,46,Male,Sales,Sales Executive,Doctor,Medical,Married,Travel_Rarely,5734,15,5,1,3,11,5,No,3,1,3,2,3,3,2,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0053,22,Female,Sales,Sales Manager,Bachelor,Other,Single,Travel_Rarely,8418,23,0,0,0,2,1,No,1,3,4,3,4,4,4,No,0 years,High (6-9k),Recently Promoted
+EMP0054,56,Female,Human Resources,Recruiter,Bachelor,Marketing,Divorced,Travel_Rarely,8044,19,19,10,16,24,3,No,2,2,1,1,1,3,19,No,10+ years,High (6-9k),4+ years ago
+EMP0055,33,Female,Sales,Sales Representative,Master,Other,Married,Travel_Frequently,4143,20,2,0,2,4,1,No,1,3,1,3,4,3,25,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0056,47,Female,Finance,Finance Manager,Bachelor,Other,Single,Travel_Rarely,12579,20,8,6,0,14,2,No,3,2,3,1,3,3,10,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0057,52,Female,Finance,Financial Analyst,Bachelor,Medical,Married,Travel_Rarely,7932,15,23,2,11,26,3,No,3,4,2,3,3,3,2,No,10+ years,High (6-9k),4+ years ago
+EMP0058,55,Female,Sales,Sales Representative,Bachelor,Life Sciences,Married,Travel_Rarely,7838,21,22,12,12,23,6,Yes,3,2,4,1,2,3,20,No,10+ years,High (6-9k),4+ years ago
+EMP0059,24,Male,IT,IT Support,College,Marketing,Divorced,Travel_Rarely,3390,12,0,0,0,5,2,Yes,2,1,1,4,1,4,28,Yes,0 years,Low (<4k),Recently Promoted
+EMP0060,45,Male,Research & Development,Manager,Below College,Medical,Married,Travel_Rarely,15091,18,10,1,8,16,4,Yes,4,1,3,2,1,4,22,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0061,30,Male,Marketing,Marketing Executive,Bachelor,Other,Divorced,Travel_Rarely,4235,12,2,1,0,6,7,Yes,2,2,1,4,3,4,3,Yes,1-2 years,Medium (4-6k),Recently Promoted
+EMP0062,30,Female,Sales,Sales Executive,Bachelor,Other,Divorced,Non-Travel,5068,18,2,0,1,5,3,No,1,1,3,3,2,3,5,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0063,53,Female,Marketing,Marketing Manager,Master,Life Sciences,Divorced,Non-Travel,12202,23,18,2,7,19,2,No,1,2,4,3,4,3,6,No,10+ years,Very High (9k+),4+ years ago
+EMP0064,52,Male,Sales,Sales Executive,Bachelor,Life Sciences,Married,Travel_Rarely,7810,17,22,9,9,29,3,Yes,3,2,4,2,2,4,24,Yes,10+ years,High (6-9k),4+ years ago
+EMP0065,27,Female,IT,IT Manager,College,Technical Degree,Single,Travel_Rarely,12117,22,2,1,2,3,0,Yes,4,3,2,1,1,4,22,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0066,39,Male,Finance,Finance Manager,Below College,Medical,Single,Travel_Frequently,13824,14,17,13,14,21,0,No,1,4,3,1,3,4,3,No,10+ years,Very High (9k+),4+ years ago
+EMP0067,36,Female,Research & Development,Research Director,Bachelor,Marketing,Divorced,Travel_Rarely,11745,24,6,4,4,8,4,Yes,4,2,3,3,3,4,3,No,6-10 years,Very High (9k+),4+ years ago
+EMP0068,36,Female,Research & Development,Laboratory Technician,Master,Other,Married,Non-Travel,3455,22,1,0,0,8,4,Yes,2,3,4,4,3,4,12,No,1-2 years,Low (<4k),Recently Promoted
+EMP0069,24,Male,Sales,Sales Representative,Bachelor,Marketing,Divorced,Non-Travel,2966,24,1,0,0,6,4,Yes,4,4,4,1,2,3,18,No,1-2 years,Low (<4k),Recently Promoted
+EMP0070,52,Male,Finance,Financial Analyst,Master,Technical Degree,Married,Travel_Rarely,7525,18,5,2,4,5,1,No,3,2,3,4,1,3,28,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0071,54,Female,Sales,Sales Executive,College,Marketing,Single,Travel_Frequently,6708,16,8,0,3,9,6,Yes,3,2,2,2,2,4,9,No,6-10 years,High (6-9k),1-3 years ago
+EMP0072,49,Female,Finance,Financial Analyst,Bachelor,Technical Degree,Single,Travel_Frequently,8582,16,19,14,6,21,1,Yes,2,2,2,3,3,3,19,Yes,10+ years,High (6-9k),4+ years ago
+EMP0073,29,Male,Marketing,Marketing Executive,Bachelor,Life Sciences,Divorced,Travel_Rarely,4891,13,4,4,2,7,4,Yes,2,1,4,4,1,3,26,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0074,25,Female,IT,IT Manager,Bachelor,Medical,Divorced,Travel_Rarely,12484,11,3,3,1,6,4,No,3,4,1,4,2,4,12,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0075,42,Male,Research & Development,Laboratory Technician,Master,Other,Married,Travel_Rarely,5603,17,14,0,2,15,1,No,2,4,2,2,2,3,7,No,10+ years,Medium (4-6k),1-3 years ago
+EMP0076,46,Male,Sales,Sales Manager,Bachelor,Medical,Married,Non-Travel,11565,18,24,1,2,28,4,Yes,4,4,4,1,3,3,20,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0077,41,Male,Human Resources,HR Executive,Bachelor,Medical,Single,Non-Travel,5909,18,10,4,4,13,5,Yes,4,3,3,2,4,3,5,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0078,54,Male,Marketing,Marketing Executive,Bachelor,Other,Single,Non-Travel,6909,21,16,13,11,17,4,No,3,2,2,1,2,4,20,Yes,10+ years,High (6-9k),4+ years ago
+EMP0079,29,Male,Finance,Financial Analyst,Bachelor,Medical,Divorced,Travel_Rarely,6665,16,1,0,0,7,3,No,1,3,2,3,2,3,27,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0080,25,Male,Marketing,Marketing Manager,Master,Life Sciences,Divorced,Travel_Rarely,8239,24,0,0,0,0,4,Yes,1,4,1,1,2,3,9,No,0 years,High (6-9k),Recently Promoted
+EMP0081,25,Male,Sales,Sales Representative,Bachelor,Human Resources,Married,Travel_Rarely,3797,13,1,0,1,2,0,Yes,1,3,1,4,2,3,17,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP0082,47,Male,Human Resources,Recruiter,Bachelor,Medical,Married,Travel_Rarely,5656,24,10,2,7,15,3,No,1,3,1,2,4,3,15,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0083,27,Male,Research & Development,Research Director,Doctor,Other,Single,Travel_Rarely,13201,17,5,1,3,7,3,Yes,3,3,4,3,1,4,16,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0084,48,Female,Research & Development,Laboratory Technician,Master,Life Sciences,Married,Travel_Rarely,4338,24,14,11,2,21,3,No,2,2,1,1,4,4,20,Yes,10+ years,Medium (4-6k),1-3 years ago
+EMP0085,22,Female,Research & Development,Research Director,Bachelor,Human Resources,Divorced,Travel_Rarely,10408,21,0,0,0,3,0,Yes,1,3,2,2,1,4,26,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0086,45,Male,Sales,Sales Representative,College,Human Resources,Married,Travel_Rarely,5520,14,18,3,6,19,7,No,2,1,3,2,1,3,11,No,10+ years,Medium (4-6k),4+ years ago
+EMP0087,34,Male,Sales,Sales Representative,College,Medical,Married,Travel_Frequently,4103,15,12,8,8,13,4,No,2,3,2,2,1,4,14,No,10+ years,Medium (4-6k),4+ years ago
+EMP0088,54,Male,Sales,Sales Executive,Master,Medical,Married,Travel_Rarely,5929,19,3,2,0,10,1,No,3,4,1,1,4,3,3,No,3-5 years,Medium (4-6k),Recently Promoted
+EMP0089,44,Male,Sales,Sales Representative,Bachelor,Other,Married,Travel_Frequently,5820,24,11,1,5,11,3,Yes,4,4,2,4,2,4,17,No,10+ years,Medium (4-6k),4+ years ago
+EMP0090,41,Female,Research & Development,Manager,Master,Human Resources,Divorced,Travel_Rarely,11274,14,2,1,0,8,1,Yes,4,4,4,1,1,3,29,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0091,44,Male,Sales,Sales Executive,Master,Other,Married,Travel_Rarely,7757,19,17,12,1,17,3,No,1,1,3,3,4,3,15,No,10+ years,High (6-9k),1-3 years ago
+EMP0092,39,Male,Research & Development,Laboratory Technician,Doctor,Medical,Married,Travel_Frequently,4372,13,12,2,7,13,0,Yes,4,3,4,2,1,3,29,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0093,52,Male,IT,IT Manager,Doctor,Technical Degree,Married,Non-Travel,14996,13,13,0,13,20,3,Yes,3,1,2,1,1,3,13,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0094,50,Male,Marketing,Marketing Manager,Master,Life Sciences,Married,Travel_Rarely,10110,13,5,4,2,10,4,Yes,3,3,1,3,2,3,9,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0095,28,Female,IT,IT Support,Bachelor,Human Resources,Married,Travel_Rarely,4658,15,3,0,3,6,5,No,3,4,4,1,4,3,14,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0096,43,Female,Sales,Sales Executive,College,Human Resources,Divorced,Travel_Rarely,5349,15,4,1,2,8,2,No,2,3,2,4,3,3,17,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0097,42,Female,Human Resources,Recruiter,Master,Life Sciences,Divorced,Travel_Frequently,6659,18,19,3,1,22,7,No,3,1,1,4,1,3,29,No,10+ years,High (6-9k),1-3 years ago
+EMP0098,42,Male,Sales,Sales Representative,Below College,Life Sciences,Married,Travel_Rarely,5375,11,10,6,1,17,2,Yes,3,1,4,3,4,4,24,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0099,26,Female,Sales,Sales Executive,Master,Medical,Single,Non-Travel,6228,21,3,0,3,4,3,Yes,4,3,3,3,3,3,17,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0100,46,Male,Research & Development,Manager,Doctor,Other,Married,Travel_Frequently,11060,24,8,1,1,10,7,No,1,1,1,2,3,3,28,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0101,36,Male,Sales,Sales Representative,College,Other,Single,Travel_Frequently,3486,19,0,0,0,7,1,No,4,3,2,4,2,3,23,Yes,0 years,Low (<4k),Recently Promoted
+EMP0102,39,Female,IT,IT Manager,College,Human Resources,Married,Travel_Frequently,14158,17,12,4,7,17,6,Yes,4,4,3,4,2,4,15,No,10+ years,Very High (9k+),4+ years ago
+EMP0103,34,Male,Research & Development,Manager,Bachelor,Life Sciences,Married,Travel_Frequently,13031,16,5,2,4,9,3,No,3,3,1,2,3,3,8,No,3-5 years,Very High (9k+),4+ years ago
+EMP0104,55,Male,Sales,Sales Representative,Master,Other,Married,Travel_Rarely,5358,21,10,8,9,14,3,Yes,2,1,4,1,1,3,11,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0105,27,Male,IT,Data Analyst,Master,Technical Degree,Single,Travel_Rarely,6692,14,2,0,1,5,0,No,2,4,2,3,2,3,23,No,1-2 years,High (6-9k),1-3 years ago
+EMP0106,35,Male,IT,Software Engineer,Bachelor,Other,Divorced,Travel_Rarely,8350,12,2,0,1,8,3,No,2,2,3,3,4,4,19,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0107,51,Female,Research & Development,Manager,College,Other,Divorced,Travel_Rarely,13501,21,22,16,22,22,6,No,3,3,1,4,2,3,9,No,10+ years,Very High (9k+),4+ years ago
+EMP0108,31,Female,Marketing,Marketing Executive,College,Life Sciences,Married,Travel_Frequently,3759,11,1,0,0,3,3,No,3,1,3,1,3,3,6,No,1-2 years,Low (<4k),Recently Promoted
+EMP0109,56,Male,Finance,Financial Analyst,Bachelor,Medical,Single,Travel_Rarely,6622,19,0,0,0,7,2,No,2,2,4,4,4,3,23,No,0 years,High (6-9k),Recently Promoted
+EMP0110,31,Male,IT,IT Manager,Bachelor,Medical,Married,Travel_Rarely,11768,23,5,1,0,9,7,Yes,4,4,3,4,2,4,15,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0111,47,Female,IT,Software Engineer,College,Life Sciences,Single,Travel_Rarely,10717,15,11,7,8,15,1,No,3,3,2,1,4,3,25,No,10+ years,Very High (9k+),4+ years ago
+EMP0112,54,Female,IT,Data Analyst,Master,Medical,Divorced,Travel_Rarely,9631,11,16,1,10,16,6,Yes,2,2,2,2,2,3,22,No,10+ years,Very High (9k+),4+ years ago
+EMP0113,31,Female,Research & Development,Research Director,College,Other,Single,Travel_Rarely,11338,15,2,2,2,2,1,Yes,4,2,3,4,2,4,28,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0114,23,Male,IT,Data Analyst,Bachelor,Marketing,Single,Travel_Rarely,6731,22,0,0,0,7,7,No,1,2,4,3,2,3,28,Yes,0 years,High (6-9k),Recently Promoted
+EMP0115,42,Male,IT,IT Manager,Doctor,Life Sciences,Married,Non-Travel,11802,20,7,6,0,13,7,No,4,4,2,4,2,3,5,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0116,25,Female,IT,IT Manager,College,Other,Divorced,Travel_Rarely,13804,22,1,1,1,6,7,No,3,2,3,4,1,3,27,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0117,54,Female,Finance,Finance Manager,Doctor,Technical Degree,Married,Travel_Rarely,10057,13,3,0,3,4,1,Yes,1,4,1,1,4,4,22,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0118,51,Female,IT,IT Manager,Bachelor,Human Resources,Divorced,Travel_Frequently,11856,15,15,4,11,22,2,No,3,4,2,1,3,3,3,No,10+ years,Very High (9k+),4+ years ago
+EMP0119,37,Female,Sales,Sales Executive,Bachelor,Other,Married,Non-Travel,4809,17,1,1,0,8,0,Yes,2,1,4,4,1,4,21,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0120,35,Male,Research & Development,Manager,Master,Other,Married,Travel_Frequently,13370,12,3,3,0,9,5,Yes,3,1,2,3,3,3,27,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0121,45,Male,Research & Development,Research Scientist,Master,Life Sciences,Single,Travel_Frequently,7692,24,13,9,5,19,5,No,3,3,2,3,1,4,24,No,10+ years,High (6-9k),4+ years ago
+EMP0122,57,Female,Finance,Accountant,Master,Life Sciences,Married,Travel_Rarely,5020,19,7,0,5,7,7,No,2,3,1,3,1,3,23,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0123,51,Male,Human Resources,HR Manager,Master,Medical,Divorced,Travel_Rarely,12294,15,11,2,10,18,4,No,1,4,4,1,3,3,23,No,10+ years,Very High (9k+),4+ years ago
+EMP0124,33,Male,Research & Development,Manager,Bachelor,Other,Single,Travel_Rarely,10900,13,8,2,3,12,2,No,2,4,1,1,3,3,23,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0125,27,Male,Marketing,Content Specialist,Master,Human Resources,Married,Travel_Rarely,3802,20,5,0,1,5,4,No,3,4,3,4,2,4,6,No,3-5 years,Low (<4k),1-3 years ago
+EMP0126,29,Male,IT,Software Engineer,Bachelor,Life Sciences,Single,Travel_Rarely,8687,24,2,0,1,8,5,Yes,2,3,2,2,1,3,19,No,1-2 years,High (6-9k),1-3 years ago
+EMP0127,22,Female,Research & Development,Research Director,Master,Life Sciences,Married,Non-Travel,12224,18,0,0,0,7,4,No,4,1,1,1,4,3,15,No,0 years,Very High (9k+),Recently Promoted
+EMP0128,41,Male,Sales,Sales Manager,Doctor,Human Resources,Married,Travel_Rarely,11488,12,17,17,1,20,2,Yes,1,3,3,4,4,4,13,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0129,30,Male,Sales,Sales Representative,College,Medical,Divorced,Travel_Frequently,4184,23,8,6,2,11,6,No,2,3,4,2,4,4,25,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0130,49,Female,Finance,Accountant,Bachelor,Marketing,Married,Travel_Rarely,8412,15,20,10,17,23,0,No,2,2,2,4,4,4,22,No,10+ years,High (6-9k),4+ years ago
+EMP0131,45,Male,Finance,Accountant,College,Other,Married,Non-Travel,6015,18,6,1,3,10,7,No,1,1,3,4,3,3,5,No,6-10 years,High (6-9k),1-3 years ago
+EMP0132,22,Male,Human Resources,HR Manager,Bachelor,Medical,Married,Travel_Rarely,10127,15,0,0,0,6,4,No,2,4,4,3,3,4,15,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0133,56,Male,Research & Development,Laboratory Technician,Bachelor,Medical,Single,Travel_Rarely,5681,23,22,5,3,23,6,No,3,3,2,4,1,3,19,No,10+ years,Medium (4-6k),1-3 years ago
+EMP0134,53,Female,Research & Development,Laboratory Technician,Bachelor,Marketing,Married,Travel_Rarely,4148,22,12,2,9,12,1,Yes,3,3,4,3,1,3,8,No,10+ years,Medium (4-6k),4+ years ago
+EMP0135,40,Male,Research & Development,Manager,Master,Technical Degree,Single,Travel_Rarely,11902,16,4,4,3,8,0,No,3,3,4,3,1,3,14,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0136,38,Male,Sales,Sales Representative,Bachelor,Marketing,Divorced,Travel_Rarely,5835,20,15,11,11,18,3,No,4,2,3,1,2,4,19,No,10+ years,Medium (4-6k),4+ years ago
+EMP0137,25,Male,Human Resources,Recruiter,Bachelor,Other,Single,Travel_Rarely,5046,14,2,0,2,9,1,Yes,1,1,1,1,1,4,22,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0138,24,Male,Finance,Finance Manager,Doctor,Other,Single,Travel_Rarely,10341,22,1,1,1,8,0,No,2,1,4,3,4,3,5,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0139,34,Male,IT,Software Engineer,College,Marketing,Married,Travel_Rarely,8576,14,7,7,4,10,4,Yes,3,2,3,4,3,3,13,No,6-10 years,High (6-9k),4+ years ago
+EMP0140,40,Male,Finance,Accountant,Bachelor,Other,Single,Non-Travel,6171,16,5,1,0,11,6,Yes,4,2,2,2,1,3,21,No,3-5 years,High (6-9k),Recently Promoted
+EMP0141,51,Male,IT,Software Engineer,Master,Medical,Single,Travel_Rarely,9870,19,20,12,20,22,3,No,2,3,1,3,3,4,21,No,10+ years,Very High (9k+),4+ years ago
+EMP0142,51,Male,IT,IT Support,Below College,Medical,Married,Travel_Rarely,4256,17,3,0,2,9,5,Yes,3,2,2,2,4,3,6,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0143,29,Female,IT,IT Manager,Master,Human Resources,Married,Travel_Rarely,10910,23,0,0,0,5,7,No,4,3,1,1,3,3,12,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0144,44,Female,Finance,Accountant,Master,Other,Single,Travel_Rarely,5294,20,0,0,0,3,2,No,3,3,1,1,3,3,12,No,0 years,Medium (4-6k),Recently Promoted
+EMP0145,49,Male,Marketing,Marketing Executive,Master,Life Sciences,Married,Travel_Rarely,5389,19,8,2,1,15,4,Yes,1,2,1,1,4,4,2,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0146,28,Male,Research & Development,Manager,College,Medical,Married,Non-Travel,14007,15,3,1,2,6,1,No,4,4,2,2,1,4,14,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0147,45,Female,Sales,Sales Representative,Bachelor,Other,Married,Travel_Rarely,4048,19,1,1,0,4,7,Yes,3,3,2,1,4,3,15,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0148,33,Male,Sales,Sales Representative,Master,Technical Degree,Single,Travel_Rarely,5435,19,10,5,4,11,3,No,2,1,2,3,4,3,13,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0149,30,Female,Marketing,Content Specialist,Bachelor,Medical,Married,Travel_Frequently,4637,16,7,0,6,7,6,Yes,3,4,4,3,1,3,5,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0150,32,Female,Human Resources,HR Manager,Bachelor,Technical Degree,Married,Travel_Frequently,11012,20,5,0,0,7,6,Yes,1,2,1,2,3,3,20,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0151,52,Female,Research & Development,Laboratory Technician,Doctor,Other,Single,Travel_Frequently,3436,19,8,1,0,9,1,No,3,4,2,1,2,3,14,No,6-10 years,Low (<4k),Recently Promoted
+EMP0152,52,Female,Human Resources,HR Executive,Bachelor,Marketing,Divorced,Travel_Rarely,4915,11,2,1,1,6,2,No,4,3,1,2,3,3,5,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0153,44,Female,Research & Development,Research Director,Bachelor,Medical,Married,Travel_Rarely,16735,22,22,5,21,23,6,No,3,1,3,1,2,3,1,No,10+ years,Very High (9k+),4+ years ago
+EMP0154,41,Female,Research & Development,Research Scientist,Bachelor,Marketing,Single,Travel_Rarely,8199,22,17,11,8,21,4,Yes,2,3,3,1,4,4,13,No,10+ years,High (6-9k),4+ years ago
+EMP0155,48,Male,Sales,Sales Executive,Master,Technical Degree,Married,Travel_Rarely,5952,11,1,0,0,8,1,No,3,4,4,1,2,4,4,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0156,47,Male,IT,Software Engineer,Master,Marketing,Married,Travel_Rarely,9425,19,12,3,3,18,2,No,1,1,2,1,1,3,19,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0157,28,Female,Sales,Sales Manager,Bachelor,Life Sciences,Married,Travel_Rarely,11076,20,1,1,0,5,2,Yes,4,3,2,4,1,3,5,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0158,45,Female,Research & Development,Research Director,Bachelor,Human Resources,Married,Non-Travel,14250,18,7,6,4,10,0,Yes,2,4,3,2,1,3,28,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0159,31,Female,Research & Development,Research Scientist,Master,Medical,Single,Travel_Rarely,6436,13,7,6,6,12,0,Yes,4,3,2,3,4,4,16,No,6-10 years,High (6-9k),4+ years ago
+EMP0160,57,Female,IT,IT Support,Below College,Life Sciences,Married,Travel_Frequently,4371,21,6,5,4,11,6,No,3,3,2,2,4,3,25,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0161,22,Male,Sales,Sales Executive,College,Human Resources,Divorced,Travel_Rarely,5794,11,0,0,0,6,2,Yes,1,3,4,2,4,3,9,No,0 years,Medium (4-6k),Recently Promoted
+EMP0162,27,Male,Sales,Sales Executive,Bachelor,Technical Degree,Married,Non-Travel,7269,11,5,3,3,9,3,No,4,4,3,1,3,3,3,No,3-5 years,High (6-9k),1-3 years ago
+EMP0163,54,Male,Sales,Sales Representative,College,Other,Married,Travel_Rarely,4814,23,13,1,12,19,2,No,3,2,1,1,1,3,11,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0164,52,Male,IT,IT Manager,Master,Technical Degree,Single,Non-Travel,14191,15,3,3,2,4,4,No,4,3,2,4,3,3,11,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0165,27,Male,Sales,Sales Executive,Bachelor,Technical Degree,Divorced,Travel_Rarely,6286,15,0,0,0,4,6,No,2,4,3,1,2,3,15,No,0 years,High (6-9k),Recently Promoted
+EMP0166,40,Female,Sales,Sales Manager,Bachelor,Marketing,Married,Non-Travel,10515,23,17,9,8,17,2,No,2,1,2,2,2,3,10,No,10+ years,Very High (9k+),4+ years ago
+EMP0167,37,Female,Research & Development,Research Director,Master,Medical,Single,Non-Travel,13615,21,1,1,1,2,2,No,3,3,3,1,3,4,6,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0168,30,Female,Sales,Sales Representative,Master,Human Resources,Single,Travel_Rarely,3500,14,0,0,0,7,1,Yes,3,4,2,1,4,4,25,Yes,0 years,Low (<4k),Recently Promoted
+EMP0169,25,Male,Sales,Sales Executive,Bachelor,Marketing,Divorced,Non-Travel,6920,14,2,0,0,5,0,No,1,1,2,2,4,3,28,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0170,50,Male,IT,IT Manager,Bachelor,Life Sciences,Single,Non-Travel,13556,20,8,2,7,11,1,No,2,4,1,4,3,3,8,No,6-10 years,Very High (9k+),4+ years ago
+EMP0171,24,Male,Research & Development,Laboratory Technician,Bachelor,Marketing,Married,Non-Travel,3219,17,1,1,0,3,1,No,2,2,2,3,3,3,17,No,1-2 years,Low (<4k),Recently Promoted
+EMP0172,46,Male,Marketing,Marketing Manager,Bachelor,Technical Degree,Single,Travel_Rarely,11397,19,6,0,3,9,1,Yes,2,4,3,1,2,3,2,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0173,32,Male,Research & Development,Manager,Doctor,Human Resources,Single,Non-Travel,12821,21,9,8,3,14,1,No,2,4,4,4,3,3,28,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0174,24,Female,Finance,Finance Manager,College,Life Sciences,Divorced,Travel_Rarely,11802,14,0,0,0,6,6,No,1,1,4,4,4,3,5,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0175,37,Male,Research & Development,Laboratory Technician,Bachelor,Other,Married,Travel_Rarely,2494,16,0,0,0,0,4,No,3,1,3,3,2,3,15,No,0 years,Low (<4k),Recently Promoted
+EMP0176,53,Male,Finance,Accountant,Master,Other,Single,Travel_Rarely,6529,12,13,3,6,17,2,Yes,1,2,4,2,2,3,4,Yes,10+ years,High (6-9k),4+ years ago
+EMP0177,49,Female,Sales,Sales Representative,Master,Medical,Single,Travel_Rarely,4200,16,10,6,6,16,2,No,3,2,4,4,4,4,13,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0178,50,Female,IT,IT Support,Master,Human Resources,Married,Travel_Rarely,5967,23,15,14,12,22,2,Yes,1,3,4,4,2,3,25,No,10+ years,Medium (4-6k),4+ years ago
+EMP0179,36,Male,Finance,Finance Manager,Bachelor,Life Sciences,Married,Travel_Rarely,13066,19,12,4,10,19,2,No,2,4,1,4,4,4,2,No,10+ years,Very High (9k+),4+ years ago
+EMP0180,24,Female,Research & Development,Research Director,College,Life Sciences,Divorced,Travel_Rarely,13503,13,2,0,1,7,4,No,4,4,2,4,4,4,13,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0181,50,Male,Marketing,Marketing Executive,Bachelor,Other,Divorced,Travel_Rarely,5033,21,2,2,2,7,6,No,3,2,4,3,4,4,28,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0182,46,Male,Sales,Sales Manager,Master,Technical Degree,Married,Travel_Rarely,10529,24,3,3,0,4,7,Yes,3,4,2,4,1,3,23,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0183,47,Female,Human Resources,HR Executive,Master,Other,Divorced,Travel_Rarely,5326,22,3,1,0,7,6,No,2,1,1,3,2,3,16,Yes,3-5 years,Medium (4-6k),Recently Promoted
+EMP0184,33,Male,Sales,Sales Representative,Master,Human Resources,Married,Travel_Frequently,4228,16,2,1,2,3,1,No,1,3,3,2,3,3,7,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0185,25,Male,IT,Data Analyst,Bachelor,Other,Married,Travel_Rarely,8059,22,3,2,2,8,7,Yes,1,4,4,1,1,3,14,No,3-5 years,High (6-9k),1-3 years ago
+EMP0186,50,Female,IT,IT Manager,Master,Marketing,Divorced,Travel_Rarely,14585,11,6,4,5,7,6,No,2,1,4,2,4,4,16,No,6-10 years,Very High (9k+),4+ years ago
+EMP0187,56,Male,Research & Development,Research Scientist,Bachelor,Medical,Married,Travel_Rarely,9087,15,19,10,18,24,4,No,3,2,2,3,2,4,29,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0188,25,Male,Human Resources,HR Executive,Master,Marketing,Married,Travel_Rarely,5187,12,0,0,0,4,1,No,2,1,3,1,4,3,4,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0189,41,Female,IT,IT Support,Master,Life Sciences,Single,Travel_Rarely,5003,12,5,0,5,7,0,Yes,3,3,2,2,4,4,7,No,3-5 years,Medium (4-6k),4+ years ago
+EMP0190,33,Female,Human Resources,Recruiter,Doctor,Marketing,Married,Travel_Frequently,4543,24,5,5,1,11,4,No,2,4,2,4,1,3,13,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0191,23,Male,Human Resources,HR Executive,Master,Marketing,Single,Travel_Frequently,5011,21,1,1,1,3,6,No,2,4,4,1,4,3,24,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0192,44,Female,Sales,Sales Executive,Master,Medical,Divorced,Non-Travel,6430,17,8,2,2,11,2,No,1,4,3,3,1,3,2,Yes,6-10 years,High (6-9k),1-3 years ago
+EMP0193,55,Female,Sales,Sales Representative,Bachelor,Human Resources,Single,Non-Travel,5338,15,19,17,5,26,6,No,4,3,1,2,1,4,28,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0194,34,Female,Research & Development,Research Scientist,College,Other,Married,Travel_Rarely,7980,16,3,0,1,8,7,No,3,4,3,4,3,3,3,No,3-5 years,High (6-9k),1-3 years ago
+EMP0195,44,Female,Sales,Sales Representative,Bachelor,Human Resources,Divorced,Travel_Frequently,5747,18,16,0,9,16,3,No,2,1,2,1,1,3,26,No,10+ years,Medium (4-6k),4+ years ago
+EMP0196,34,Female,Sales,Sales Representative,College,Marketing,Married,Travel_Rarely,4606,12,8,5,2,11,5,Yes,4,3,3,4,3,4,22,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP0197,29,Male,Sales,Sales Manager,Doctor,Other,Single,Travel_Rarely,10589,16,0,0,0,4,2,Yes,4,4,1,2,3,3,10,No,0 years,Very High (9k+),Recently Promoted
+EMP0198,33,Male,Research & Development,Research Director,Below College,Medical,Married,Travel_Rarely,14256,24,0,0,0,2,4,No,4,1,3,1,3,3,17,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0199,22,Female,Sales,Sales Executive,Bachelor,Life Sciences,Married,Travel_Rarely,5113,20,0,0,0,6,6,Yes,4,2,3,1,3,3,2,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0200,38,Female,IT,Data Analyst,Bachelor,Human Resources,Single,Non-Travel,8332,23,6,4,1,10,0,No,3,1,2,1,4,3,25,No,6-10 years,High (6-9k),1-3 years ago
+EMP0201,22,Male,Research & Development,Laboratory Technician,Bachelor,Medical,Married,Travel_Rarely,2407,19,0,0,0,3,2,No,4,3,4,1,1,3,17,Yes,0 years,Low (<4k),Recently Promoted
+EMP0202,50,Male,Sales,Sales Representative,Below College,Marketing,Single,Non-Travel,7207,12,20,20,7,26,6,No,2,1,1,4,3,3,28,Yes,10+ years,High (6-9k),4+ years ago
+EMP0203,40,Male,Human Resources,HR Manager,Bachelor,Marketing,Single,Travel_Rarely,11794,16,5,3,1,10,7,No,2,1,3,4,2,3,24,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0204,39,Male,Research & Development,Research Scientist,Bachelor,Medical,Single,Non-Travel,10217,12,15,7,0,21,5,No,4,2,4,3,1,3,10,No,10+ years,Very High (9k+),Recently Promoted
+EMP0205,31,Male,IT,IT Manager,Master,Technical Degree,Single,Travel_Rarely,13575,11,2,2,0,4,0,No,3,3,4,1,1,3,22,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0206,24,Female,Sales,Sales Representative,Master,Life Sciences,Married,Travel_Rarely,3948,15,1,0,0,4,2,No,2,1,1,4,2,3,16,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0207,25,Male,Sales,Sales Manager,Bachelor,Human Resources,Single,Travel_Frequently,11596,13,2,1,0,5,4,No,4,2,2,1,4,3,5,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0208,22,Male,Sales,Sales Representative,Bachelor,Other,Single,Travel_Frequently,2761,21,0,0,0,7,4,No,4,4,4,3,2,4,24,No,0 years,Low (<4k),Recently Promoted
+EMP0209,52,Male,Research & Development,Research Director,Bachelor,Life Sciences,Married,Travel_Rarely,12767,11,19,11,0,25,0,No,1,3,2,2,2,4,6,No,10+ years,Very High (9k+),Recently Promoted
+EMP0210,27,Female,Research & Development,Laboratory Technician,Master,Life Sciences,Married,Travel_Frequently,2724,16,2,1,1,8,1,No,1,3,1,1,3,3,20,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP0211,39,Male,Sales,Sales Manager,Master,Medical,Divorced,Travel_Frequently,11543,22,3,0,0,8,4,No,3,3,3,3,3,3,29,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0212,22,Male,Research & Development,Research Director,Doctor,Technical Degree,Married,Travel_Rarely,11903,16,0,0,0,2,4,No,2,4,2,1,4,3,2,No,0 years,Very High (9k+),Recently Promoted
+EMP0213,29,Male,Human Resources,HR Manager,Bachelor,Medical,Married,Travel_Rarely,11967,12,7,6,2,13,3,No,4,3,4,4,3,3,2,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0214,44,Male,IT,Software Engineer,Bachelor,Marketing,Married,Travel_Frequently,7117,17,4,1,4,9,2,No,2,4,2,2,3,3,17,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0215,25,Female,Finance,Finance Manager,Below College,Technical Degree,Single,Travel_Rarely,9810,16,0,0,0,0,1,No,4,2,3,2,1,3,17,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0216,44,Male,Research & Development,Research Scientist,Bachelor,Life Sciences,Single,Travel_Rarely,7996,24,9,2,4,15,7,No,1,4,2,1,4,3,2,No,6-10 years,High (6-9k),4+ years ago
+EMP0217,32,Male,Sales,Sales Manager,Master,Marketing,Married,Non-Travel,9161,24,4,4,4,10,3,Yes,4,2,4,1,2,4,11,No,3-5 years,Very High (9k+),4+ years ago
+EMP0218,33,Male,Research & Development,Manager,Bachelor,Marketing,Divorced,Travel_Rarely,13262,21,11,3,6,16,7,No,3,3,3,4,3,3,4,No,10+ years,Very High (9k+),4+ years ago
+EMP0219,47,Female,IT,Software Engineer,Bachelor,Other,Married,Travel_Rarely,9416,15,15,3,11,20,4,No,2,3,4,2,2,3,5,No,10+ years,Very High (9k+),4+ years ago
+EMP0220,50,Female,IT,IT Manager,Bachelor,Technical Degree,Divorced,Travel_Rarely,13458,12,19,5,3,20,6,No,1,2,4,2,1,3,19,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0221,36,Male,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Divorced,Travel_Rarely,4591,15,8,3,8,15,7,Yes,4,3,2,3,1,3,3,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0222,52,Male,Human Resources,HR Executive,Master,Medical,Married,Travel_Rarely,7944,11,18,1,9,19,0,No,4,4,4,2,3,4,1,No,10+ years,High (6-9k),4+ years ago
+EMP0223,22,Female,Research & Development,Manager,Bachelor,Medical,Divorced,Travel_Frequently,10275,12,0,0,0,6,0,No,2,4,4,4,3,3,16,No,0 years,Very High (9k+),Recently Promoted
+EMP0224,51,Female,Sales,Sales Representative,Below College,Life Sciences,Divorced,Travel_Rarely,7271,23,19,5,9,22,0,Yes,4,1,2,2,3,3,2,No,10+ years,High (6-9k),4+ years ago
+EMP0225,33,Female,Research & Development,Research Scientist,Doctor,Human Resources,Divorced,Travel_Rarely,8413,14,9,8,9,16,3,Yes,3,4,2,1,3,3,29,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0226,31,Female,Sales,Sales Executive,Master,Technical Degree,Married,Travel_Rarely,6977,18,4,1,1,11,6,No,2,4,1,4,2,3,13,No,3-5 years,High (6-9k),1-3 years ago
+EMP0227,26,Female,Sales,Sales Manager,Doctor,Other,Divorced,Travel_Rarely,10852,24,3,0,3,5,4,Yes,2,4,4,1,1,4,27,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0228,35,Male,Research & Development,Manager,College,Life Sciences,Married,Travel_Rarely,12479,13,10,0,4,16,4,No,2,2,2,3,4,4,28,No,6-10 years,Very High (9k+),4+ years ago
+EMP0229,22,Female,Sales,Sales Manager,Master,Medical,Married,Travel_Rarely,8599,21,0,0,0,3,1,No,3,3,2,4,3,3,29,No,0 years,High (6-9k),Recently Promoted
+EMP0230,50,Female,IT,IT Manager,Master,Human Resources,Married,Travel_Rarely,15392,21,15,2,0,17,3,No,4,4,4,1,4,4,20,No,10+ years,Very High (9k+),Recently Promoted
+EMP0231,43,Female,Research & Development,Research Scientist,Bachelor,Other,Single,Travel_Rarely,8326,13,10,2,7,13,2,No,2,3,3,1,4,4,6,No,6-10 years,High (6-9k),4+ years ago
+EMP0232,27,Female,Research & Development,Research Director,Master,Other,Married,Travel_Rarely,13865,13,5,3,5,5,4,Yes,4,4,3,4,2,4,5,No,3-5 years,Very High (9k+),4+ years ago
+EMP0233,34,Male,Sales,Sales Executive,Bachelor,Life Sciences,Married,Non-Travel,7465,21,8,5,5,8,2,No,4,1,3,2,2,3,1,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0234,56,Male,Research & Development,Laboratory Technician,Bachelor,Life Sciences,Divorced,Travel_Rarely,5529,23,16,2,15,21,1,No,3,2,4,1,3,3,17,No,10+ years,Medium (4-6k),4+ years ago
+EMP0235,28,Male,Sales,Sales Representative,College,Human Resources,Single,Travel_Rarely,3628,22,4,1,2,7,3,Yes,2,4,1,4,3,3,27,Yes,3-5 years,Low (<4k),1-3 years ago
+EMP0236,39,Male,Finance,Financial Analyst,Master,Technical Degree,Divorced,Travel_Rarely,7179,15,15,2,14,17,4,No,1,3,4,2,2,3,7,Yes,10+ years,High (6-9k),4+ years ago
+EMP0237,47,Female,Finance,Finance Manager,Doctor,Marketing,Married,Travel_Frequently,13725,16,22,12,5,27,3,No,3,1,2,3,2,4,23,No,10+ years,Very High (9k+),4+ years ago
+EMP0238,36,Female,Sales,Sales Manager,Master,Medical,Single,Travel_Rarely,8614,13,1,1,0,5,7,No,3,3,2,4,2,3,22,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0239,27,Male,Sales,Sales Manager,Master,Medical,Single,Travel_Frequently,8225,24,1,0,0,1,2,No,3,4,4,4,3,3,7,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0240,50,Male,Research & Development,Research Director,Bachelor,Marketing,Single,Non-Travel,13383,13,14,2,2,15,6,No,2,4,3,2,1,4,16,No,10+ years,Very High (9k+),1-3 years ago
+EMP0241,35,Male,Human Resources,HR Executive,College,Technical Degree,Divorced,Travel_Rarely,6125,19,12,4,8,18,5,No,2,4,1,1,4,3,16,No,10+ years,High (6-9k),4+ years ago
+EMP0242,44,Male,Finance,Accountant,Bachelor,Technical Degree,Married,Non-Travel,5580,23,10,5,4,12,0,No,3,2,4,2,3,3,2,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0243,29,Male,Sales,Sales Representative,Bachelor,Life Sciences,Married,Travel_Frequently,3431,16,5,5,4,9,6,No,2,3,2,2,2,3,21,No,3-5 years,Low (<4k),4+ years ago
+EMP0244,45,Male,Finance,Financial Analyst,College,Other,Single,Travel_Rarely,8015,18,8,0,2,10,1,No,2,3,2,4,3,3,3,No,6-10 years,High (6-9k),1-3 years ago
+EMP0245,34,Female,Research & Development,Laboratory Technician,Bachelor,Marketing,Married,Travel_Rarely,3215,22,6,3,5,11,6,No,1,2,4,4,3,4,13,No,6-10 years,Low (<4k),4+ years ago
+EMP0246,36,Male,Human Resources,Recruiter,Master,Marketing,Married,Travel_Rarely,3947,21,0,0,0,4,6,Yes,1,4,2,4,3,4,21,Yes,0 years,Low (<4k),Recently Promoted
+EMP0247,34,Female,IT,IT Manager,Below College,Other,Single,Non-Travel,11234,11,0,0,0,6,4,No,4,1,2,1,2,3,3,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0248,39,Male,Sales,Sales Manager,Master,Marketing,Single,Travel_Rarely,12178,23,16,12,2,21,0,No,1,4,2,3,2,4,2,No,10+ years,Very High (9k+),1-3 years ago
+EMP0249,39,Male,Sales,Sales Manager,Bachelor,Technical Degree,Married,Travel_Rarely,10458,19,1,0,0,5,0,No,4,3,3,3,2,4,26,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0250,56,Female,Marketing,Content Specialist,Below College,Other,Single,Non-Travel,8140,12,24,19,4,30,2,No,3,2,1,1,4,4,3,Yes,10+ years,High (6-9k),4+ years ago
+EMP0251,34,Female,IT,IT Support,Bachelor,Marketing,Divorced,Travel_Rarely,3930,14,3,3,0,6,6,No,3,2,2,4,4,3,18,No,3-5 years,Low (<4k),Recently Promoted
+EMP0252,38,Male,Research & Development,Research Director,Bachelor,Marketing,Married,Travel_Frequently,14307,20,12,1,8,16,7,No,3,2,3,2,3,3,24,No,10+ years,Very High (9k+),4+ years ago
+EMP0253,46,Male,IT,Data Analyst,Bachelor,Technical Degree,Married,Travel_Rarely,7679,16,11,6,2,17,4,No,4,3,2,3,1,3,13,Yes,10+ years,High (6-9k),1-3 years ago
+EMP0254,55,Male,IT,IT Support,Master,Other,Single,Travel_Rarely,3366,23,3,0,1,10,7,No,2,1,3,1,2,3,21,Yes,3-5 years,Low (<4k),1-3 years ago
+EMP0255,51,Female,Finance,Finance Manager,Bachelor,Marketing,Divorced,Travel_Rarely,11205,17,7,2,3,14,6,No,1,1,1,1,3,3,12,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0256,32,Male,Sales,Sales Manager,Master,Human Resources,Divorced,Non-Travel,10645,19,9,4,0,10,3,No,3,3,1,3,4,4,24,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0257,35,Male,Sales,Sales Representative,College,Other,Divorced,Travel_Rarely,3296,14,1,0,0,6,1,No,3,4,3,3,2,4,15,No,1-2 years,Low (<4k),Recently Promoted
+EMP0258,50,Female,Research & Development,Research Scientist,Bachelor,Human Resources,Married,Travel_Frequently,7562,23,1,1,1,7,4,Yes,1,2,2,4,3,3,16,No,1-2 years,High (6-9k),1-3 years ago
+EMP0259,38,Male,IT,IT Manager,Bachelor,Human Resources,Divorced,Non-Travel,15826,12,15,9,6,16,2,No,2,2,1,3,1,3,4,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0260,43,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Single,Travel_Rarely,3376,12,1,0,0,6,3,No,3,1,3,1,1,3,6,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0261,44,Male,Sales,Sales Representative,Master,Medical,Single,Travel_Frequently,5084,23,17,9,16,21,1,No,1,1,3,3,1,3,10,No,10+ years,Medium (4-6k),4+ years ago
+EMP0262,43,Male,Human Resources,HR Manager,Below College,Technical Degree,Divorced,Non-Travel,11221,12,0,0,0,3,0,No,3,1,1,2,2,4,22,No,0 years,Very High (9k+),Recently Promoted
+EMP0263,28,Female,Sales,Sales Manager,Bachelor,Medical,Single,Travel_Rarely,9538,24,2,1,2,2,5,No,2,1,2,3,4,4,23,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0264,43,Female,Sales,Sales Representative,College,Marketing,Divorced,Non-Travel,3038,12,2,2,2,2,7,Yes,1,1,4,1,1,3,28,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP0265,38,Male,IT,IT Support,Bachelor,Other,Married,Travel_Rarely,4358,24,6,3,4,12,0,No,1,4,2,2,4,3,22,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0266,27,Male,Sales,Sales Representative,Doctor,Human Resources,Married,Travel_Frequently,3162,20,2,1,1,6,7,Yes,1,3,3,4,3,3,23,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP0267,50,Male,Finance,Financial Analyst,Bachelor,Other,Married,Non-Travel,6751,19,2,2,2,8,1,No,1,3,3,3,2,3,4,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0268,54,Male,Human Resources,HR Executive,College,Human Resources,Married,Travel_Rarely,6197,19,9,2,9,11,5,No,4,3,2,3,4,3,26,No,6-10 years,High (6-9k),4+ years ago
+EMP0269,46,Male,Research & Development,Laboratory Technician,Bachelor,Life Sciences,Single,Travel_Rarely,3274,18,4,2,4,9,5,Yes,2,4,1,1,4,4,8,Yes,3-5 years,Low (<4k),4+ years ago
+EMP0270,42,Female,Finance,Accountant,Bachelor,Marketing,Single,Travel_Rarely,7226,15,17,9,12,17,2,No,1,2,1,1,2,4,15,No,10+ years,High (6-9k),4+ years ago
+EMP0271,40,Male,Sales,Sales Manager,Master,Marketing,Divorced,Travel_Rarely,12292,12,13,11,0,14,5,No,1,2,3,1,4,4,7,Yes,10+ years,Very High (9k+),Recently Promoted
+EMP0272,37,Male,Research & Development,Manager,Master,Marketing,Single,Travel_Rarely,12040,20,7,4,5,12,0,No,2,4,4,2,4,4,26,No,6-10 years,Very High (9k+),4+ years ago
+EMP0273,24,Female,Sales,Sales Manager,Bachelor,Technical Degree,Single,Non-Travel,11712,22,0,0,0,1,6,No,2,1,4,2,4,3,15,No,0 years,Very High (9k+),Recently Promoted
+EMP0274,23,Male,Research & Development,Research Scientist,College,Medical,Married,Travel_Frequently,6849,18,1,1,0,6,5,No,2,4,4,2,4,3,21,No,1-2 years,High (6-9k),Recently Promoted
+EMP0275,53,Male,Research & Development,Research Director,College,Other,Single,Non-Travel,16279,17,15,2,5,18,4,No,3,1,3,3,4,4,25,No,10+ years,Very High (9k+),4+ years ago
+EMP0276,45,Female,Human Resources,HR Manager,Bachelor,Technical Degree,Single,Travel_Rarely,10421,16,2,2,1,8,4,Yes,4,3,2,2,1,4,22,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0277,26,Male,IT,IT Support,Master,Human Resources,Divorced,Travel_Rarely,3977,23,2,1,0,3,4,No,3,3,3,1,3,3,10,No,1-2 years,Low (<4k),Recently Promoted
+EMP0278,42,Female,Research & Development,Laboratory Technician,Below College,Other,Married,Travel_Rarely,6764,17,20,11,17,25,7,No,3,1,1,2,2,4,19,Yes,10+ years,High (6-9k),4+ years ago
+EMP0279,27,Male,Sales,Sales Executive,Bachelor,Marketing,Married,Travel_Rarely,7081,19,4,0,0,6,7,No,4,4,4,4,2,3,23,No,3-5 years,High (6-9k),Recently Promoted
+EMP0280,54,Female,Sales,Sales Manager,Bachelor,Technical Degree,Divorced,Travel_Frequently,13217,14,20,1,17,26,1,No,3,3,2,1,2,3,4,No,10+ years,Very High (9k+),4+ years ago
+EMP0281,46,Male,Research & Development,Research Scientist,Bachelor,Medical,Married,Travel_Rarely,6694,20,3,1,2,4,4,No,3,3,2,4,1,3,3,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0282,33,Female,IT,Data Analyst,Master,Human Resources,Married,Travel_Rarely,7075,22,1,0,1,4,3,No,2,3,1,3,2,4,13,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0283,36,Male,Sales,Sales Representative,Bachelor,Life Sciences,Divorced,Travel_Rarely,4837,14,9,7,6,16,6,No,1,2,1,4,3,3,27,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0284,25,Male,Sales,Sales Executive,Master,Human Resources,Divorced,Travel_Rarely,5743,22,3,3,2,7,6,No,2,1,4,4,1,3,10,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0285,35,Male,Research & Development,Laboratory Technician,Bachelor,Marketing,Single,Travel_Frequently,4583,18,10,9,5,13,6,No,1,4,1,4,3,3,18,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0286,44,Male,Sales,Sales Executive,College,Medical,Married,Travel_Rarely,7170,15,11,1,3,15,3,Yes,2,3,3,2,3,3,20,No,10+ years,High (6-9k),1-3 years ago
+EMP0287,22,Female,Research & Development,Laboratory Technician,College,Marketing,Married,Travel_Rarely,3123,21,0,0,0,6,1,Yes,3,4,3,2,2,3,17,Yes,0 years,Low (<4k),Recently Promoted
+EMP0288,52,Male,Finance,Finance Manager,Bachelor,Technical Degree,Married,Travel_Rarely,11938,12,14,14,14,21,0,No,3,4,1,4,2,3,22,No,10+ years,Very High (9k+),4+ years ago
+EMP0289,33,Male,IT,IT Support,Master,Other,Married,Travel_Rarely,5020,17,6,4,3,12,3,No,2,1,4,3,3,4,4,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP0290,28,Male,Finance,Finance Manager,Bachelor,Marketing,Married,Non-Travel,9241,12,0,0,0,3,0,Yes,1,3,2,4,2,3,7,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0291,42,Female,Finance,Financial Analyst,Bachelor,Marketing,Married,Travel_Rarely,7231,14,16,8,16,20,1,No,1,4,2,3,3,3,6,Yes,10+ years,High (6-9k),4+ years ago
+EMP0292,48,Female,IT,Data Analyst,Bachelor,Medical,Married,Non-Travel,8316,19,20,15,13,26,2,No,4,1,4,1,2,3,25,No,10+ years,High (6-9k),4+ years ago
+EMP0293,41,Female,Research & Development,Laboratory Technician,College,Medical,Divorced,Travel_Rarely,5265,17,19,11,12,20,0,Yes,2,3,1,1,1,4,27,No,10+ years,Medium (4-6k),4+ years ago
+EMP0294,57,Female,Sales,Sales Manager,Bachelor,Marketing,Single,Travel_Rarely,14070,11,18,16,4,24,1,No,3,4,4,1,4,4,25,No,10+ years,Very High (9k+),4+ years ago
+EMP0295,38,Female,Finance,Financial Analyst,Bachelor,Life Sciences,Married,Travel_Rarely,8118,22,10,2,6,10,2,No,1,3,4,4,4,4,27,No,6-10 years,High (6-9k),4+ years ago
+EMP0296,43,Male,Sales,Sales Manager,College,Marketing,Married,Travel_Frequently,11894,21,17,15,13,24,5,No,3,1,1,2,4,3,8,No,10+ years,Very High (9k+),4+ years ago
+EMP0297,39,Male,Marketing,Content Specialist,Master,Life Sciences,Married,Travel_Rarely,5238,22,4,3,3,10,3,Yes,4,2,3,2,2,3,10,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0298,33,Male,Research & Development,Laboratory Technician,Bachelor,Medical,Single,Travel_Rarely,3541,14,6,1,1,7,6,Yes,3,2,1,3,3,3,14,No,6-10 years,Low (<4k),1-3 years ago
+EMP0299,53,Female,IT,Software Engineer,Bachelor,Marketing,Married,Travel_Rarely,9157,23,2,2,1,7,2,No,4,1,4,1,3,3,13,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0300,25,Male,Research & Development,Manager,Master,Life Sciences,Single,Travel_Rarely,11662,16,3,2,2,5,0,No,3,3,4,4,1,4,13,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0301,49,Male,Research & Development,Manager,Bachelor,Human Resources,Divorced,Travel_Rarely,12028,13,10,10,9,15,7,No,3,4,2,4,4,4,22,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0302,56,Female,Human Resources,HR Executive,College,Technical Degree,Married,Travel_Rarely,5394,20,2,0,1,4,0,No,2,4,2,3,4,3,12,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0303,32,Male,Sales,Sales Executive,Bachelor,Medical,Married,Non-Travel,6786,16,5,4,2,10,5,No,4,1,3,4,1,4,19,No,3-5 years,High (6-9k),1-3 years ago
+EMP0304,36,Male,Research & Development,Laboratory Technician,Master,Human Resources,Single,Non-Travel,3521,12,9,1,6,9,2,No,4,2,2,1,1,3,26,Yes,6-10 years,Low (<4k),4+ years ago
+EMP0305,26,Female,Sales,Sales Representative,Master,Marketing,Single,Travel_Rarely,3682,13,3,1,0,9,2,No,1,4,1,2,1,3,1,Yes,3-5 years,Low (<4k),Recently Promoted
+EMP0306,23,Female,IT,Data Analyst,Bachelor,Medical,Divorced,Travel_Rarely,7661,21,0,0,0,3,7,No,1,3,3,3,3,3,10,No,0 years,High (6-9k),Recently Promoted
+EMP0307,55,Female,Sales,Sales Representative,Master,Technical Degree,Single,Travel_Rarely,3938,11,5,4,1,6,6,No,3,2,4,1,3,3,27,No,3-5 years,Low (<4k),1-3 years ago
+EMP0308,24,Male,Sales,Sales Executive,Bachelor,Other,Single,Travel_Frequently,7037,12,2,2,0,9,6,Yes,2,3,2,2,2,3,21,No,1-2 years,High (6-9k),Recently Promoted
+EMP0309,29,Female,IT,IT Manager,Bachelor,Human Resources,Single,Non-Travel,11438,24,1,1,0,2,5,Yes,2,2,1,2,4,4,14,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0310,30,Male,Marketing,Marketing Executive,Master,Marketing,Divorced,Travel_Rarely,5989,18,8,7,2,8,3,No,3,1,1,2,3,3,25,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0311,27,Male,Sales,Sales Manager,Doctor,Technical Degree,Divorced,Travel_Rarely,8988,17,4,1,4,5,2,No,2,4,2,1,4,4,14,No,3-5 years,High (6-9k),4+ years ago
+EMP0312,43,Male,IT,IT Manager,Bachelor,Life Sciences,Married,Travel_Rarely,11692,18,11,9,0,18,2,Yes,4,4,4,4,4,4,5,No,10+ years,Very High (9k+),Recently Promoted
+EMP0313,32,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Married,Travel_Rarely,2943,17,1,1,0,1,7,Yes,3,3,3,4,3,4,28,No,1-2 years,Low (<4k),Recently Promoted
+EMP0314,56,Male,Research & Development,Manager,College,Technical Degree,Single,Travel_Rarely,12503,20,15,13,5,18,7,No,3,1,1,4,3,3,9,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0315,42,Male,Research & Development,Laboratory Technician,Master,Other,Married,Travel_Rarely,2723,16,3,3,3,9,1,No,2,1,1,4,4,3,7,No,3-5 years,Low (<4k),1-3 years ago
+EMP0316,41,Male,Sales,Sales Manager,Doctor,Human Resources,Divorced,Travel_Rarely,11492,14,1,0,0,3,0,No,4,1,3,2,3,3,4,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0317,50,Male,Sales,Sales Executive,Bachelor,Other,Single,Travel_Frequently,8093,23,17,13,14,22,6,Yes,4,2,2,1,1,4,20,No,10+ years,High (6-9k),4+ years ago
+EMP0318,34,Female,IT,Software Engineer,Bachelor,Medical,Single,Travel_Frequently,9248,18,3,2,1,3,0,No,4,2,4,1,2,4,29,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0319,23,Female,Sales,Sales Representative,Master,Medical,Single,Travel_Rarely,3344,17,1,0,1,4,1,Yes,4,3,3,3,1,3,12,No,1-2 years,Low (<4k),1-3 years ago
+EMP0320,46,Female,Finance,Finance Manager,Master,Technical Degree,Married,Travel_Rarely,9595,13,1,0,1,7,1,No,1,3,2,1,2,4,18,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0321,43,Female,Sales,Sales Representative,College,Marketing,Single,Travel_Rarely,5121,18,20,17,10,26,5,No,2,1,3,1,3,4,19,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0322,50,Male,Research & Development,Laboratory Technician,Bachelor,Human Resources,Single,Travel_Frequently,3847,11,6,3,0,6,0,No,3,4,3,3,2,3,11,No,6-10 years,Low (<4k),Recently Promoted
+EMP0323,39,Female,Research & Development,Research Director,Bachelor,Medical,Single,Travel_Rarely,14794,11,17,15,12,23,1,No,1,2,2,1,2,4,6,No,10+ years,Very High (9k+),4+ years ago
+EMP0324,27,Male,IT,IT Support,College,Medical,Divorced,Travel_Frequently,3996,17,1,0,1,3,1,No,4,3,4,2,1,3,2,No,1-2 years,Low (<4k),1-3 years ago
+EMP0325,27,Female,Sales,Sales Manager,Master,Human Resources,Married,Non-Travel,8491,14,0,0,0,2,7,No,4,1,3,3,1,4,16,No,0 years,High (6-9k),Recently Promoted
+EMP0326,57,Male,Sales,Sales Representative,Below College,Other,Divorced,Travel_Rarely,4742,22,10,6,9,15,4,No,3,2,1,3,4,4,3,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0327,22,Male,Finance,Accountant,Below College,Technical Degree,Divorced,Travel_Frequently,5275,12,0,0,0,4,7,No,1,2,3,1,1,3,26,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0328,33,Female,Marketing,Content Specialist,Below College,Technical Degree,Married,Travel_Rarely,4973,19,1,1,1,6,0,No,1,3,1,3,3,3,2,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0329,56,Female,Finance,Finance Manager,Bachelor,Life Sciences,Divorced,Travel_Rarely,10491,23,1,0,0,5,4,No,1,1,4,3,1,3,13,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0330,56,Male,Sales,Sales Executive,Master,Medical,Single,Travel_Rarely,6756,16,11,4,1,16,1,No,3,4,1,4,3,3,7,No,10+ years,High (6-9k),1-3 years ago
+EMP0331,45,Male,Marketing,Marketing Manager,Master,Medical,Single,Travel_Frequently,10328,12,15,14,11,15,1,Yes,1,4,3,4,2,3,5,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0332,47,Male,Sales,Sales Manager,Bachelor,Other,Divorced,Travel_Frequently,10074,11,17,13,14,17,1,No,3,1,3,1,2,3,9,No,10+ years,Very High (9k+),4+ years ago
+EMP0333,38,Male,Research & Development,Research Scientist,Master,Marketing,Married,Travel_Rarely,6833,20,5,2,4,6,3,Yes,2,4,1,3,3,4,3,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0334,57,Male,Research & Development,Laboratory Technician,Bachelor,Other,Divorced,Travel_Rarely,4527,14,15,0,15,15,4,No,1,2,1,4,1,3,26,No,10+ years,Medium (4-6k),4+ years ago
+EMP0335,28,Male,IT,IT Support,Doctor,Medical,Single,Travel_Frequently,4244,11,5,1,2,11,0,No,2,4,4,4,2,3,28,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0336,41,Female,Research & Development,Manager,Master,Human Resources,Married,Travel_Rarely,11452,21,9,5,2,14,1,No,3,3,3,1,4,3,12,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0337,25,Male,Sales,Sales Manager,Bachelor,Life Sciences,Divorced,Travel_Rarely,11456,22,1,1,1,7,3,No,4,2,3,4,1,3,3,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0338,49,Male,Sales,Sales Representative,Bachelor,Life Sciences,Single,Travel_Rarely,4614,13,10,6,8,14,4,Yes,4,2,1,4,4,3,26,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0339,38,Female,Research & Development,Manager,Below College,Life Sciences,Single,Travel_Rarely,10304,14,10,1,5,15,7,Yes,4,1,2,2,3,3,6,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0340,45,Male,Sales,Sales Executive,Bachelor,Technical Degree,Divorced,Travel_Rarely,5737,12,5,1,2,10,1,Yes,4,4,1,3,4,3,14,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0341,29,Female,Research & Development,Manager,Bachelor,Technical Degree,Divorced,Travel_Rarely,11284,14,1,1,0,5,6,No,1,1,1,2,2,3,14,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0342,25,Male,Sales,Sales Representative,Bachelor,Human Resources,Single,Travel_Rarely,3471,15,1,1,1,8,2,Yes,3,4,3,3,2,4,26,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP0343,39,Female,Research & Development,Research Director,Master,Other,Single,Non-Travel,11397,17,8,8,3,13,5,No,3,3,4,3,4,3,22,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0344,39,Female,Sales,Sales Executive,Master,Other,Married,Travel_Frequently,6079,22,10,1,5,15,3,No,1,3,2,2,1,3,8,No,6-10 years,High (6-9k),4+ years ago
+EMP0345,48,Female,IT,IT Manager,Bachelor,Technical Degree,Married,Travel_Rarely,11541,15,0,0,0,2,5,Yes,1,2,4,1,2,3,23,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0346,43,Male,Finance,Financial Analyst,Bachelor,Technical Degree,Married,Travel_Rarely,7644,16,10,7,6,12,0,No,4,2,1,3,4,3,28,No,6-10 years,High (6-9k),4+ years ago
+EMP0347,42,Male,Sales,Sales Executive,College,Life Sciences,Divorced,Travel_Rarely,7874,11,20,4,9,25,3,No,4,1,3,2,4,3,7,No,10+ years,High (6-9k),4+ years ago
+EMP0348,22,Female,Research & Development,Laboratory Technician,Bachelor,Life Sciences,Single,Travel_Frequently,3233,22,0,0,0,7,6,No,4,3,1,4,3,3,12,No,0 years,Low (<4k),Recently Promoted
+EMP0349,47,Female,Sales,Sales Manager,Master,Life Sciences,Divorced,Travel_Rarely,12604,17,7,0,0,8,0,No,4,1,4,4,1,3,23,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0350,48,Male,Marketing,Marketing Manager,Master,Human Resources,Divorced,Travel_Rarely,12718,15,24,12,22,28,7,No,1,4,3,1,3,3,17,No,10+ years,Very High (9k+),4+ years ago
+EMP0351,38,Male,Finance,Accountant,Bachelor,Life Sciences,Married,Travel_Rarely,7012,21,9,7,6,12,3,No,2,1,2,4,4,3,12,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0352,30,Female,Sales,Sales Manager,Bachelor,Life Sciences,Single,Travel_Rarely,12135,16,6,1,3,13,5,No,2,4,3,4,3,3,11,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0353,33,Male,Sales,Sales Executive,College,Medical,Divorced,Travel_Rarely,6242,20,4,3,2,7,6,Yes,3,1,4,2,2,4,27,No,3-5 years,High (6-9k),1-3 years ago
+EMP0354,28,Female,Human Resources,HR Manager,Doctor,Medical,Married,Travel_Rarely,9582,17,1,0,1,6,4,No,2,1,1,3,3,3,12,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0355,57,Male,Research & Development,Laboratory Technician,Master,Marketing,Divorced,Non-Travel,6374,12,22,9,10,27,7,Yes,4,1,1,4,4,3,18,No,10+ years,High (6-9k),4+ years ago
+EMP0356,33,Male,Research & Development,Research Director,Bachelor,Marketing,Single,Travel_Rarely,12965,15,9,6,6,9,3,No,4,4,3,1,3,3,4,No,6-10 years,Very High (9k+),4+ years ago
+EMP0357,44,Female,Human Resources,HR Executive,College,Technical Degree,Single,Travel_Rarely,7364,22,18,9,4,24,7,No,2,3,3,3,1,3,7,No,10+ years,High (6-9k),4+ years ago
+EMP0358,42,Female,Sales,Sales Executive,Bachelor,Marketing,Married,Travel_Rarely,7194,15,11,11,2,17,1,Yes,2,1,2,3,4,3,6,No,10+ years,High (6-9k),1-3 years ago
+EMP0359,49,Female,IT,Software Engineer,Master,Marketing,Married,Non-Travel,8240,12,6,0,0,6,3,No,2,4,3,1,1,3,5,Yes,6-10 years,High (6-9k),Recently Promoted
+EMP0360,43,Male,IT,Software Engineer,Master,Human Resources,Divorced,Travel_Frequently,6752,14,1,0,1,5,7,No,1,1,2,1,3,3,20,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0361,45,Female,Research & Development,Manager,Bachelor,Marketing,Married,Travel_Frequently,13695,22,2,0,2,2,5,Yes,2,2,2,2,1,3,3,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0362,33,Male,Sales,Sales Representative,Doctor,Marketing,Single,Non-Travel,5095,19,11,11,10,11,0,Yes,3,4,4,3,1,3,13,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0363,27,Female,Sales,Sales Executive,College,Technical Degree,Single,Travel_Rarely,6131,20,1,1,0,8,1,No,4,3,4,4,2,3,7,No,1-2 years,High (6-9k),Recently Promoted
+EMP0364,52,Male,Research & Development,Manager,Master,Other,Divorced,Travel_Rarely,11658,18,0,0,0,4,6,No,4,1,4,3,3,3,13,No,0 years,Very High (9k+),Recently Promoted
+EMP0365,28,Male,IT,IT Support,Bachelor,Medical,Married,Travel_Rarely,4033,18,6,1,1,9,4,Yes,4,2,3,2,3,3,24,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP0366,41,Male,Sales,Sales Representative,Bachelor,Life Sciences,Single,Travel_Frequently,6269,21,17,0,0,24,2,No,4,4,3,3,1,3,29,No,10+ years,High (6-9k),Recently Promoted
+EMP0367,49,Female,Finance,Financial Analyst,Bachelor,Life Sciences,Married,Travel_Rarely,7693,22,10,2,3,11,3,No,3,2,2,4,4,3,27,No,6-10 years,High (6-9k),1-3 years ago
+EMP0368,22,Female,Research & Development,Laboratory Technician,Bachelor,Marketing,Married,Travel_Rarely,2679,14,0,0,0,0,7,No,4,4,1,4,1,3,5,No,0 years,Low (<4k),Recently Promoted
+EMP0369,40,Male,Human Resources,Recruiter,College,Human Resources,Married,Travel_Frequently,3930,18,4,4,0,11,1,Yes,1,1,1,2,2,3,29,Yes,3-5 years,Low (<4k),Recently Promoted
+EMP0370,54,Male,Sales,Sales Representative,Bachelor,Technical Degree,Married,Travel_Frequently,5414,11,18,8,2,18,6,No,2,1,1,4,3,4,2,Yes,10+ years,Medium (4-6k),1-3 years ago
+EMP0371,54,Female,Marketing,Marketing Executive,Master,Other,Married,Travel_Frequently,7741,23,18,5,4,24,5,No,2,2,4,4,1,4,10,Yes,10+ years,High (6-9k),4+ years ago
+EMP0372,39,Female,Sales,Sales Manager,Bachelor,Human Resources,Married,Non-Travel,10594,11,9,9,6,10,4,No,3,4,4,1,4,4,1,No,6-10 years,Very High (9k+),4+ years ago
+EMP0373,49,Female,Finance,Finance Manager,Bachelor,Human Resources,Married,Travel_Rarely,13440,23,22,15,12,24,5,No,2,3,4,2,4,3,17,No,10+ years,Very High (9k+),4+ years ago
+EMP0374,23,Female,Finance,Accountant,Bachelor,Other,Single,Travel_Rarely,4532,20,0,0,0,0,3,No,1,3,1,2,3,4,1,No,0 years,Medium (4-6k),Recently Promoted
+EMP0375,34,Female,Research & Development,Manager,Bachelor,Other,Single,Travel_Rarely,11340,16,4,3,1,9,3,No,3,3,1,3,4,3,29,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0376,25,Male,Human Resources,HR Manager,Doctor,Marketing,Divorced,Travel_Rarely,11050,11,1,0,1,7,3,No,2,3,1,3,4,3,23,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0377,23,Male,Finance,Accountant,Master,Technical Degree,Single,Non-Travel,4706,23,1,1,0,4,1,No,3,1,4,2,2,4,23,Yes,1-2 years,Medium (4-6k),Recently Promoted
+EMP0378,31,Male,Human Resources,HR Manager,College,Medical,Married,Travel_Rarely,8912,21,5,3,4,5,6,No,1,1,3,1,2,4,29,No,3-5 years,High (6-9k),4+ years ago
+EMP0379,24,Male,Sales,Sales Manager,College,Technical Degree,Divorced,Travel_Rarely,9302,13,2,2,1,2,6,Yes,1,2,2,1,4,4,12,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0380,42,Male,IT,Data Analyst,College,Life Sciences,Married,Travel_Rarely,8515,14,19,19,3,21,4,No,4,1,1,4,4,4,2,No,10+ years,High (6-9k),1-3 years ago
+EMP0381,34,Male,Research & Development,Laboratory Technician,Doctor,Technical Degree,Single,Travel_Frequently,4600,11,9,8,0,14,7,No,1,4,2,2,1,4,14,No,6-10 years,Medium (4-6k),Recently Promoted
+EMP0382,54,Male,Human Resources,HR Executive,Bachelor,Marketing,Single,Travel_Rarely,6972,11,11,1,11,16,3,No,1,2,3,3,3,3,22,Yes,10+ years,High (6-9k),4+ years ago
+EMP0383,23,Female,Sales,Sales Manager,Bachelor,Other,Married,Travel_Rarely,9567,12,1,1,0,8,3,Yes,1,3,1,3,1,3,18,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0384,24,Male,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Single,Non-Travel,2780,21,1,0,0,7,0,No,3,1,1,3,3,3,7,No,1-2 years,Low (<4k),Recently Promoted
+EMP0385,44,Male,Human Resources,Recruiter,Below College,Other,Married,Non-Travel,5949,14,20,15,8,24,2,No,1,2,4,1,2,4,9,No,10+ years,Medium (4-6k),4+ years ago
+EMP0386,32,Female,Research & Development,Manager,Master,Other,Single,Travel_Rarely,11878,19,1,1,1,8,7,No,4,1,1,3,4,3,5,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0387,40,Female,Research & Development,Research Director,Bachelor,Marketing,Married,Travel_Rarely,14796,24,8,5,1,15,1,No,1,2,2,1,4,3,3,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0388,49,Female,Research & Development,Manager,Bachelor,Technical Degree,Single,Non-Travel,14108,11,22,3,13,28,4,No,4,4,3,4,1,3,24,No,10+ years,Very High (9k+),4+ years ago
+EMP0389,36,Female,Research & Development,Laboratory Technician,Below College,Human Resources,Divorced,Travel_Frequently,4522,11,9,8,8,12,5,Yes,3,4,2,3,1,4,20,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0390,31,Male,Research & Development,Research Director,Master,Technical Degree,Married,Travel_Rarely,11802,15,9,6,4,15,1,Yes,4,1,4,4,4,3,1,No,6-10 years,Very High (9k+),4+ years ago
+EMP0391,39,Female,Sales,Sales Executive,Bachelor,Technical Degree,Single,Travel_Rarely,6763,16,6,1,1,13,6,No,2,3,1,1,1,4,24,No,6-10 years,High (6-9k),1-3 years ago
+EMP0392,42,Female,IT,IT Support,Bachelor,Technical Degree,Married,Travel_Rarely,4052,22,0,0,0,7,3,No,3,1,2,2,4,3,29,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0393,53,Female,Finance,Accountant,Bachelor,Technical Degree,Married,Travel_Rarely,6449,21,20,5,13,23,3,Yes,4,3,3,1,3,3,13,No,10+ years,High (6-9k),4+ years ago
+EMP0394,25,Female,IT,Software Engineer,Bachelor,Life Sciences,Single,Travel_Rarely,7994,11,1,0,0,3,5,No,2,2,4,3,3,3,18,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0395,47,Male,IT,Data Analyst,Bachelor,Other,Single,Travel_Rarely,8876,24,6,1,5,11,2,No,1,3,3,3,3,3,5,No,6-10 years,High (6-9k),4+ years ago
+EMP0396,48,Male,Finance,Finance Manager,Bachelor,Technical Degree,Single,Travel_Frequently,13133,16,14,8,14,19,3,No,4,4,1,1,2,3,28,No,10+ years,Very High (9k+),4+ years ago
+EMP0397,35,Male,Sales,Sales Representative,Bachelor,Life Sciences,Divorced,Travel_Rarely,5067,14,9,8,1,16,5,No,2,4,3,1,2,3,11,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0398,38,Male,Research & Development,Laboratory Technician,Below College,Technical Degree,Married,Travel_Rarely,3462,19,3,3,2,4,4,No,3,3,2,1,2,3,26,No,3-5 years,Low (<4k),1-3 years ago
+EMP0399,28,Female,Marketing,Marketing Manager,Bachelor,Other,Divorced,Travel_Frequently,9902,22,1,1,1,2,0,Yes,1,1,1,3,1,3,15,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0400,45,Male,Human Resources,HR Executive,Master,Technical Degree,Single,Travel_Rarely,5391,11,5,0,0,5,2,Yes,3,4,3,1,2,3,25,No,3-5 years,Medium (4-6k),Recently Promoted
+EMP0401,36,Male,Research & Development,Research Scientist,Bachelor,Life Sciences,Married,Travel_Rarely,5924,16,0,0,0,7,2,No,4,1,4,2,4,3,27,No,0 years,Medium (4-6k),Recently Promoted
+EMP0402,52,Female,IT,Software Engineer,Bachelor,Other,Married,Travel_Rarely,7821,24,11,8,10,15,2,No,1,2,4,3,4,3,3,No,10+ years,High (6-9k),4+ years ago
+EMP0403,48,Female,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Married,Travel_Rarely,3217,20,4,0,2,7,7,Yes,1,4,3,2,1,4,6,No,3-5 years,Low (<4k),1-3 years ago
+EMP0404,34,Female,Sales,Sales Executive,Master,Other,Single,Travel_Frequently,7288,24,10,10,1,11,6,No,2,1,1,1,3,3,2,Yes,6-10 years,High (6-9k),1-3 years ago
+EMP0405,52,Female,Finance,Finance Manager,Master,Life Sciences,Divorced,Travel_Rarely,13023,24,0,0,0,5,0,No,4,3,4,3,1,3,9,No,0 years,Very High (9k+),Recently Promoted
+EMP0406,33,Male,Sales,Sales Manager,Bachelor,Marketing,Married,Travel_Rarely,10530,21,6,5,5,11,3,Yes,4,3,2,4,3,3,3,No,6-10 years,Very High (9k+),4+ years ago
+EMP0407,36,Male,Sales,Sales Representative,College,Medical,Single,Non-Travel,3772,15,4,3,1,7,2,No,4,3,1,4,3,3,3,No,3-5 years,Low (<4k),1-3 years ago
+EMP0408,46,Male,Sales,Sales Executive,Master,Marketing,Single,Travel_Frequently,4955,14,0,0,0,3,1,No,1,2,2,3,1,3,3,No,0 years,Medium (4-6k),Recently Promoted
+EMP0409,50,Male,Finance,Finance Manager,Master,Technical Degree,Married,Travel_Rarely,12584,16,14,6,11,16,0,Yes,3,2,1,2,2,3,1,No,10+ years,Very High (9k+),4+ years ago
+EMP0410,52,Female,IT,IT Support,College,Human Resources,Married,Travel_Rarely,5872,14,15,14,8,22,0,Yes,2,4,2,1,3,3,24,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0411,28,Male,Marketing,Content Specialist,Master,Life Sciences,Single,Travel_Rarely,4414,12,6,5,4,10,1,Yes,4,4,1,3,1,4,26,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0412,47,Male,Finance,Finance Manager,Master,Marketing,Married,Travel_Rarely,9705,15,0,0,0,0,1,No,1,3,4,3,2,3,19,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0413,35,Female,Marketing,Marketing Manager,Master,Technical Degree,Divorced,Travel_Frequently,10268,23,12,2,1,12,0,Yes,2,3,4,3,1,3,25,No,10+ years,Very High (9k+),1-3 years ago
+EMP0414,41,Male,IT,Data Analyst,Master,Human Resources,Married,Travel_Rarely,7158,16,9,8,9,13,3,No,4,2,4,3,3,4,22,No,6-10 years,High (6-9k),4+ years ago
+EMP0415,56,Male,Human Resources,HR Manager,Bachelor,Technical Degree,Married,Travel_Rarely,9485,19,4,0,4,7,7,No,2,4,2,2,3,4,27,No,3-5 years,Very High (9k+),4+ years ago
+EMP0416,42,Female,Finance,Finance Manager,Master,Medical,Divorced,Travel_Frequently,12162,18,8,8,8,10,7,Yes,4,2,1,3,1,3,3,No,6-10 years,Very High (9k+),4+ years ago
+EMP0417,26,Male,Sales,Sales Representative,Master,Other,Married,Non-Travel,3314,23,2,1,1,6,4,No,1,3,4,3,4,4,16,No,1-2 years,Low (<4k),1-3 years ago
+EMP0418,48,Male,Sales,Sales Executive,Bachelor,Human Resources,Married,Travel_Rarely,8799,13,24,12,7,31,2,Yes,3,1,1,2,2,3,5,Yes,10+ years,High (6-9k),4+ years ago
+EMP0419,51,Male,Finance,Finance Manager,Bachelor,Medical,Single,Non-Travel,15057,12,17,12,9,17,4,No,3,4,1,1,2,3,8,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0420,33,Female,IT,Software Engineer,Master,Human Resources,Married,Travel_Rarely,7751,17,3,0,0,9,4,No,4,3,1,1,1,3,15,Yes,3-5 years,High (6-9k),Recently Promoted
+EMP0421,39,Male,IT,Data Analyst,Master,Marketing,Single,Travel_Rarely,7136,23,3,1,1,9,7,No,1,3,4,3,3,3,1,No,3-5 years,High (6-9k),1-3 years ago
+EMP0422,52,Male,Human Resources,HR Executive,Bachelor,Technical Degree,Married,Travel_Rarely,7669,21,18,2,3,20,5,No,3,1,2,4,4,3,4,Yes,10+ years,High (6-9k),1-3 years ago
+EMP0423,52,Female,Research & Development,Research Director,Below College,Other,Married,Travel_Frequently,12765,15,8,4,6,11,5,No,3,3,2,2,2,3,16,No,6-10 years,Very High (9k+),4+ years ago
+EMP0424,29,Male,Research & Development,Research Scientist,Master,Marketing,Married,Travel_Rarely,6630,16,5,3,2,12,0,Yes,1,1,2,3,3,3,20,No,3-5 years,High (6-9k),1-3 years ago
+EMP0425,22,Female,IT,IT Support,Bachelor,Human Resources,Married,Travel_Rarely,3196,14,0,0,0,3,0,No,1,3,4,2,1,3,7,No,0 years,Low (<4k),Recently Promoted
+EMP0426,34,Female,Finance,Financial Analyst,Master,Technical Degree,Divorced,Non-Travel,7568,15,6,5,5,10,7,No,2,3,3,2,3,3,7,No,6-10 years,High (6-9k),4+ years ago
+EMP0427,43,Female,Research & Development,Research Director,College,Life Sciences,Single,Non-Travel,13749,11,12,12,4,12,0,Yes,4,2,3,3,4,3,10,No,10+ years,Very High (9k+),4+ years ago
+EMP0428,26,Male,Research & Development,Manager,Bachelor,Life Sciences,Married,Non-Travel,12002,13,4,3,3,9,6,No,2,1,3,1,3,3,18,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0429,28,Male,Research & Development,Research Director,Bachelor,Life Sciences,Single,Travel_Frequently,14426,21,1,1,0,3,7,Yes,1,4,1,4,1,3,17,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0430,56,Female,Research & Development,Research Scientist,Bachelor,Marketing,Single,Travel_Rarely,8828,13,12,2,10,13,6,No,2,4,2,3,1,3,13,No,10+ years,High (6-9k),4+ years ago
+EMP0431,52,Female,Finance,Finance Manager,Master,Marketing,Married,Travel_Frequently,12834,22,15,9,12,22,4,No,4,4,2,2,2,4,18,No,10+ years,Very High (9k+),4+ years ago
+EMP0432,25,Male,Research & Development,Laboratory Technician,Bachelor,Other,Single,Travel_Rarely,2845,21,0,0,0,3,6,No,2,1,4,4,3,3,3,Yes,0 years,Low (<4k),Recently Promoted
+EMP0433,56,Female,Research & Development,Laboratory Technician,College,Life Sciences,Divorced,Non-Travel,3427,14,6,4,5,6,7,No,3,2,1,3,3,3,11,Yes,6-10 years,Low (<4k),4+ years ago
+EMP0434,24,Male,Finance,Finance Manager,College,Marketing,Single,Travel_Rarely,11786,23,2,0,2,2,1,No,2,3,1,3,1,3,27,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0435,41,Male,Finance,Accountant,Master,Life Sciences,Single,Non-Travel,7279,16,13,3,4,19,7,No,1,3,3,3,1,3,12,No,10+ years,High (6-9k),4+ years ago
+EMP0436,31,Female,Marketing,Marketing Manager,Bachelor,Other,Divorced,Travel_Rarely,11340,20,6,2,4,7,3,No,3,3,4,2,3,4,7,No,6-10 years,Very High (9k+),4+ years ago
+EMP0437,26,Male,Research & Development,Research Scientist,Below College,Human Resources,Married,Travel_Rarely,8169,24,4,4,1,6,4,No,3,1,2,3,3,3,3,No,3-5 years,High (6-9k),1-3 years ago
+EMP0438,34,Male,Finance,Financial Analyst,Bachelor,Life Sciences,Married,Travel_Rarely,8548,19,12,2,12,17,1,Yes,2,2,1,4,3,3,10,Yes,10+ years,High (6-9k),4+ years ago
+EMP0439,47,Female,Research & Development,Research Scientist,Master,Medical,Divorced,Travel_Rarely,9009,18,23,22,23,26,3,No,3,3,2,1,2,3,21,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0440,24,Male,Sales,Sales Manager,College,Human Resources,Single,Travel_Rarely,11019,15,1,0,0,4,6,No,4,1,1,4,3,4,6,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0441,28,Male,Research & Development,Manager,College,Life Sciences,Divorced,Travel_Rarely,10530,13,0,0,0,0,4,No,4,1,2,1,3,3,28,No,0 years,Very High (9k+),Recently Promoted
+EMP0442,29,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Married,Travel_Rarely,3304,14,3,0,0,8,1,Yes,4,4,2,3,3,4,1,Yes,3-5 years,Low (<4k),Recently Promoted
+EMP0443,44,Male,IT,Software Engineer,Bachelor,Other,Single,Travel_Frequently,8557,20,8,5,1,11,5,No,1,1,3,3,1,4,13,No,6-10 years,High (6-9k),1-3 years ago
+EMP0444,50,Male,Research & Development,Laboratory Technician,Doctor,Technical Degree,Married,Travel_Rarely,4048,20,5,1,2,12,1,No,1,4,2,3,1,3,4,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0445,35,Female,IT,Software Engineer,College,Life Sciences,Single,Travel_Rarely,8833,13,9,5,9,9,5,No,2,3,1,4,3,3,13,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0446,57,Male,Sales,Sales Executive,Master,Human Resources,Married,Travel_Rarely,7525,24,18,1,8,21,5,No,1,4,4,2,1,3,17,No,10+ years,High (6-9k),4+ years ago
+EMP0447,46,Female,Finance,Financial Analyst,College,Life Sciences,Married,Travel_Rarely,9005,18,18,17,3,25,6,No,3,4,3,2,2,3,22,No,10+ years,Very High (9k+),1-3 years ago
+EMP0448,56,Male,Sales,Sales Manager,College,Life Sciences,Single,Travel_Rarely,10548,18,0,0,0,3,1,Yes,3,3,3,4,1,3,24,No,0 years,Very High (9k+),Recently Promoted
+EMP0449,38,Female,Marketing,Content Specialist,Below College,Life Sciences,Divorced,Travel_Rarely,5106,20,9,5,0,10,4,No,1,2,4,4,4,3,26,No,6-10 years,Medium (4-6k),Recently Promoted
+EMP0450,46,Male,Sales,Sales Executive,Master,Medical,Divorced,Travel_Rarely,5192,15,1,0,1,8,4,No,1,4,4,1,4,3,3,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0451,56,Female,Research & Development,Laboratory Technician,College,Other,Single,Travel_Rarely,5998,18,24,9,14,29,1,No,1,3,1,1,1,3,24,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0452,36,Female,Sales,Sales Executive,College,Life Sciences,Divorced,Travel_Rarely,6542,13,4,2,4,8,7,Yes,4,3,4,4,4,4,21,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0453,33,Female,Sales,Sales Manager,College,Life Sciences,Married,Non-Travel,11770,19,11,2,9,17,4,Yes,3,4,2,2,2,3,24,No,10+ years,Very High (9k+),4+ years ago
+EMP0454,27,Female,Marketing,Content Specialist,Master,Marketing,Divorced,Travel_Rarely,4124,23,1,0,0,5,1,Yes,4,3,1,2,4,3,9,Yes,1-2 years,Medium (4-6k),Recently Promoted
+EMP0455,30,Female,Sales,Sales Representative,Doctor,Technical Degree,Single,Travel_Frequently,3562,13,5,4,3,5,2,No,3,4,3,3,3,3,26,No,3-5 years,Low (<4k),1-3 years ago
+EMP0456,46,Male,IT,Data Analyst,College,Medical,Married,Travel_Rarely,11101,15,23,7,8,28,7,Yes,4,4,4,1,4,4,24,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0457,42,Male,Research & Development,Laboratory Technician,Master,Other,Married,Travel_Frequently,4564,16,10,10,6,11,4,No,4,4,3,2,4,3,6,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0458,45,Male,Research & Development,Research Scientist,Bachelor,Medical,Married,Travel_Rarely,8067,12,15,3,15,20,1,Yes,4,2,1,4,1,3,11,Yes,10+ years,High (6-9k),4+ years ago
+EMP0459,29,Male,Sales,Sales Manager,Master,Other,Divorced,Travel_Rarely,10638,22,2,1,0,6,2,No,1,2,3,4,2,4,9,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0460,50,Male,Sales,Sales Representative,Bachelor,Technical Degree,Divorced,Travel_Rarely,5977,23,23,15,4,27,6,No,2,2,3,1,4,4,27,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0461,29,Female,Sales,Sales Manager,Below College,Life Sciences,Single,Travel_Rarely,9680,14,7,2,7,7,4,No,2,4,4,2,3,3,8,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0462,24,Male,Sales,Sales Representative,Master,Life Sciences,Married,Travel_Rarely,3313,19,2,2,2,8,0,No,4,1,2,1,4,3,24,No,1-2 years,Low (<4k),1-3 years ago
+EMP0463,56,Female,Sales,Sales Executive,Doctor,Life Sciences,Single,Non-Travel,9161,18,23,0,15,30,3,Yes,1,2,3,2,3,4,13,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0464,50,Female,IT,Data Analyst,Below College,Medical,Single,Travel_Frequently,11476,23,21,0,20,27,7,Yes,1,4,1,4,3,3,17,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0465,48,Female,Research & Development,Research Scientist,College,Marketing,Married,Non-Travel,6096,15,0,0,0,3,3,No,1,3,1,1,3,3,22,Yes,0 years,High (6-9k),Recently Promoted
+EMP0466,42,Male,Marketing,Marketing Executive,Bachelor,Human Resources,Married,Non-Travel,7134,15,18,17,10,25,1,No,4,4,1,1,1,4,16,No,10+ years,High (6-9k),4+ years ago
+EMP0467,25,Male,Finance,Finance Manager,Master,Technical Degree,Married,Travel_Rarely,11537,17,0,0,0,6,3,No,3,1,3,1,3,4,5,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0468,28,Male,Sales,Sales Manager,Master,Medical,Married,Travel_Rarely,11430,22,3,1,3,6,4,No,1,4,4,3,1,3,9,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0469,30,Male,Sales,Sales Manager,Bachelor,Medical,Single,Travel_Rarely,9671,14,4,0,3,6,1,No,1,1,3,3,1,4,12,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0470,49,Male,Research & Development,Manager,Master,Human Resources,Married,Travel_Rarely,12500,11,17,2,8,20,4,No,3,3,3,2,1,4,1,No,10+ years,Very High (9k+),4+ years ago
+EMP0471,22,Male,Research & Development,Laboratory Technician,College,Life Sciences,Married,Travel_Frequently,2381,20,0,0,0,2,0,No,3,2,2,4,4,3,2,Yes,0 years,Low (<4k),Recently Promoted
+EMP0472,35,Female,Sales,Sales Representative,Master,Life Sciences,Divorced,Travel_Rarely,3503,24,7,5,3,8,2,No,1,1,1,4,3,3,22,No,6-10 years,Low (<4k),1-3 years ago
+EMP0473,50,Male,Finance,Financial Analyst,Bachelor,Human Resources,Married,Travel_Rarely,5879,21,0,0,0,5,7,No,4,3,3,2,3,3,5,No,0 years,Medium (4-6k),Recently Promoted
+EMP0474,33,Female,Marketing,Marketing Executive,Bachelor,Other,Single,Travel_Frequently,5676,24,4,2,3,6,2,Yes,2,2,1,1,4,3,8,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0475,50,Female,Marketing,Content Specialist,College,Marketing,Single,Non-Travel,6077,20,14,6,6,15,4,Yes,2,3,4,3,2,3,11,No,10+ years,High (6-9k),4+ years ago
+EMP0476,38,Male,Sales,Sales Manager,College,Technical Degree,Married,Travel_Rarely,9261,11,3,1,1,9,0,No,4,2,4,1,4,3,10,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0477,54,Female,Finance,Financial Analyst,Master,Life Sciences,Single,Travel_Rarely,9974,16,21,11,4,25,7,No,2,3,4,1,2,3,25,No,10+ years,Very High (9k+),4+ years ago
+EMP0478,42,Female,IT,IT Manager,Bachelor,Technical Degree,Married,Travel_Frequently,14233,22,1,0,1,1,3,No,3,1,1,4,4,3,2,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0479,42,Male,Sales,Sales Executive,Master,Human Resources,Single,Travel_Rarely,6611,12,14,11,2,20,3,Yes,1,3,4,4,1,3,27,Yes,10+ years,High (6-9k),1-3 years ago
+EMP0480,57,Male,Research & Development,Research Director,Bachelor,Life Sciences,Divorced,Travel_Frequently,14600,15,5,0,5,12,2,No,2,4,3,1,4,3,22,No,3-5 years,Very High (9k+),4+ years ago
+EMP0481,27,Male,Sales,Sales Manager,Bachelor,Marketing,Single,Non-Travel,9505,22,4,1,4,4,1,No,3,2,2,4,4,3,5,No,3-5 years,Very High (9k+),4+ years ago
+EMP0482,53,Female,Marketing,Marketing Manager,Master,Other,Single,Travel_Rarely,11021,11,19,19,15,26,1,No,2,1,1,3,4,3,28,No,10+ years,Very High (9k+),4+ years ago
+EMP0483,37,Female,Finance,Finance Manager,College,Other,Single,Travel_Rarely,12202,22,6,2,5,11,7,No,4,1,3,4,3,3,13,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0484,33,Male,Human Resources,HR Executive,Master,Technical Degree,Married,Travel_Frequently,6229,17,7,2,5,12,1,No,1,1,4,2,1,3,25,No,6-10 years,High (6-9k),4+ years ago
+EMP0485,43,Female,Finance,Financial Analyst,Master,Other,Divorced,Travel_Rarely,8949,24,12,6,0,12,4,No,4,3,1,3,3,3,8,No,10+ years,High (6-9k),Recently Promoted
+EMP0486,50,Male,Human Resources,HR Executive,Master,Human Resources,Married,Non-Travel,6838,12,22,17,2,28,5,No,1,3,3,2,3,3,15,No,10+ years,High (6-9k),1-3 years ago
+EMP0487,27,Male,IT,IT Support,Doctor,Human Resources,Divorced,Travel_Rarely,3555,24,3,0,2,6,4,No,2,3,3,4,4,3,27,No,3-5 years,Low (<4k),1-3 years ago
+EMP0488,35,Male,Sales,Sales Representative,Doctor,Technical Degree,Married,Travel_Rarely,4793,12,13,12,7,16,7,Yes,2,3,4,4,2,4,25,No,10+ years,Medium (4-6k),4+ years ago
+EMP0489,46,Male,Sales,Sales Executive,Bachelor,Medical,Married,Non-Travel,8472,24,15,8,5,17,4,No,2,1,3,2,4,3,8,No,10+ years,High (6-9k),4+ years ago
+EMP0490,36,Male,Research & Development,Laboratory Technician,Master,Medical,Married,Travel_Rarely,3230,18,3,3,0,5,3,Yes,1,3,3,2,1,4,2,No,3-5 years,Low (<4k),Recently Promoted
+EMP0491,44,Female,Finance,Accountant,Master,Other,Single,Travel_Rarely,6286,19,21,14,8,23,0,No,1,1,1,1,3,3,12,No,10+ years,High (6-9k),4+ years ago
+EMP0492,34,Male,Research & Development,Laboratory Technician,Bachelor,Human Resources,Single,Travel_Rarely,4184,20,6,3,4,8,6,No,3,3,4,4,4,4,28,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0493,42,Male,Research & Development,Manager,Bachelor,Marketing,Single,Travel_Rarely,13926,15,12,0,7,16,7,No,2,3,4,1,1,3,14,No,10+ years,Very High (9k+),4+ years ago
+EMP0494,54,Male,Research & Development,Research Director,Bachelor,Medical,Divorced,Travel_Rarely,10632,21,0,0,0,4,7,Yes,2,1,2,2,3,3,6,No,0 years,Very High (9k+),Recently Promoted
+EMP0495,28,Female,Research & Development,Manager,College,Human Resources,Divorced,Travel_Rarely,11039,23,1,1,1,2,3,No,4,2,1,2,4,3,9,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0496,42,Female,Sales,Sales Representative,Bachelor,Marketing,Divorced,Travel_Frequently,4170,21,3,1,1,10,7,No,2,2,2,4,3,3,28,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0497,27,Female,IT,IT Manager,Master,Life Sciences,Single,Travel_Rarely,10003,12,1,1,0,4,7,No,1,3,1,1,3,3,13,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0498,26,Male,Research & Development,Research Scientist,Bachelor,Life Sciences,Single,Travel_Frequently,7387,13,0,0,0,4,3,No,1,4,4,4,2,3,2,No,0 years,High (6-9k),Recently Promoted
+EMP0499,56,Male,Human Resources,Recruiter,Bachelor,Life Sciences,Married,Travel_Rarely,4381,11,6,1,6,11,3,No,1,1,2,1,1,4,19,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0500,23,Female,Finance,Finance Manager,Bachelor,Human Resources,Married,Travel_Rarely,10723,23,0,0,0,5,1,No,4,1,2,1,3,3,14,No,0 years,Very High (9k+),Recently Promoted
+EMP0501,47,Male,Human Resources,Recruiter,College,Medical,Married,Travel_Rarely,6835,20,22,17,15,26,3,No,2,2,1,2,2,3,2,Yes,10+ years,High (6-9k),4+ years ago
+EMP0502,25,Male,Sales,Sales Executive,Doctor,Human Resources,Single,Travel_Rarely,4952,15,0,0,0,3,7,No,1,1,4,1,2,4,1,No,0 years,Medium (4-6k),Recently Promoted
+EMP0503,26,Male,Sales,Sales Manager,College,Medical,Married,Travel_Frequently,9361,15,3,1,2,3,4,Yes,2,3,3,4,4,3,5,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0504,46,Male,Research & Development,Research Scientist,Master,Technical Degree,Married,Travel_Rarely,9083,19,14,3,3,20,2,Yes,2,2,3,4,4,3,17,No,10+ years,Very High (9k+),1-3 years ago
+EMP0505,24,Male,Sales,Sales Representative,Bachelor,Other,Single,Non-Travel,3614,20,1,1,0,3,2,No,1,1,1,4,3,3,4,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0506,40,Male,Human Resources,HR Manager,Master,Technical Degree,Single,Travel_Rarely,10232,19,10,10,5,17,1,Yes,2,3,3,4,4,3,13,No,6-10 years,Very High (9k+),4+ years ago
+EMP0507,43,Female,IT,Data Analyst,Bachelor,Technical Degree,Married,Travel_Frequently,9116,15,20,13,17,26,7,Yes,2,1,3,4,4,3,6,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0508,36,Female,Sales,Sales Executive,Bachelor,Other,Married,Travel_Rarely,6028,13,10,2,9,16,3,Yes,3,4,1,1,4,3,16,No,6-10 years,High (6-9k),4+ years ago
+EMP0509,57,Male,Human Resources,Recruiter,Bachelor,Other,Married,Travel_Rarely,5189,19,5,4,3,10,7,No,4,2,1,4,1,3,15,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0510,27,Female,Finance,Accountant,Bachelor,Technical Degree,Single,Travel_Rarely,4690,15,5,2,3,8,2,No,3,3,4,4,1,3,1,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0511,45,Female,Research & Development,Manager,Master,Medical,Married,Travel_Frequently,14323,14,20,10,16,27,6,No,2,3,2,4,2,4,15,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0512,48,Male,IT,Data Analyst,Doctor,Technical Degree,Divorced,Travel_Rarely,10745,12,24,4,4,28,5,No,2,2,3,4,4,3,16,No,10+ years,Very High (9k+),4+ years ago
+EMP0513,47,Female,Research & Development,Research Director,Bachelor,Technical Degree,Single,Travel_Frequently,12542,20,7,6,6,7,1,No,1,4,3,4,2,4,14,No,6-10 years,Very High (9k+),4+ years ago
+EMP0514,53,Male,Sales,Sales Representative,College,Life Sciences,Married,Travel_Rarely,5124,22,15,6,7,16,1,No,4,3,2,4,3,3,7,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0515,37,Male,IT,IT Manager,College,Marketing,Married,Travel_Rarely,12565,24,2,0,1,3,3,No,1,3,3,1,3,3,17,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0516,43,Male,Research & Development,Research Scientist,Master,Human Resources,Single,Travel_Rarely,7836,14,16,3,5,19,7,No,1,1,2,3,1,4,17,No,10+ years,High (6-9k),4+ years ago
+EMP0517,42,Male,Marketing,Marketing Executive,Below College,Other,Married,Travel_Rarely,6809,17,20,15,19,21,7,No,3,1,1,3,2,3,23,No,10+ years,High (6-9k),4+ years ago
+EMP0518,53,Male,Marketing,Marketing Executive,Master,Human Resources,Married,Travel_Rarely,6339,21,17,13,3,24,1,No,4,4,1,4,2,3,4,No,10+ years,High (6-9k),1-3 years ago
+EMP0519,25,Female,Sales,Sales Representative,Master,Life Sciences,Married,Travel_Rarely,3789,16,0,0,0,4,2,No,1,4,4,2,1,3,24,No,0 years,Low (<4k),Recently Promoted
+EMP0520,34,Female,Sales,Sales Executive,Bachelor,Life Sciences,Married,Travel_Rarely,4987,14,2,1,2,8,6,No,4,1,4,4,3,3,22,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0521,39,Male,Sales,Sales Executive,Master,Life Sciences,Single,Travel_Rarely,7261,17,15,13,11,15,4,No,2,2,1,2,3,3,16,No,10+ years,High (6-9k),4+ years ago
+EMP0522,34,Male,Sales,Sales Representative,Bachelor,Marketing,Married,Travel_Rarely,4696,23,11,6,10,16,0,No,4,4,4,2,1,3,14,No,10+ years,Medium (4-6k),4+ years ago
+EMP0523,24,Male,IT,Data Analyst,Doctor,Life Sciences,Divorced,Travel_Rarely,6072,17,0,0,0,2,5,Yes,4,4,2,2,4,3,2,Yes,0 years,High (6-9k),Recently Promoted
+EMP0524,41,Female,Sales,Sales Executive,Bachelor,Marketing,Single,Travel_Frequently,8081,18,9,4,1,13,6,No,1,3,4,1,2,3,2,No,6-10 years,High (6-9k),1-3 years ago
+EMP0525,43,Male,Sales,Sales Representative,Bachelor,Technical Degree,Married,Travel_Rarely,4018,24,9,1,0,14,1,Yes,1,4,2,3,1,3,2,Yes,6-10 years,Medium (4-6k),Recently Promoted
+EMP0526,38,Male,Sales,Sales Representative,Bachelor,Medical,Single,Travel_Rarely,4062,20,5,4,5,10,6,No,4,3,1,4,1,3,26,Yes,3-5 years,Medium (4-6k),4+ years ago
+EMP0527,45,Female,IT,Software Engineer,Bachelor,Marketing,Divorced,Travel_Rarely,11417,24,20,10,0,21,0,Yes,2,2,1,4,3,3,27,Yes,10+ years,Very High (9k+),Recently Promoted
+EMP0528,23,Male,Marketing,Content Specialist,Master,Medical,Single,Travel_Rarely,4352,20,0,0,0,1,4,No,3,1,3,2,1,3,23,No,0 years,Medium (4-6k),Recently Promoted
+EMP0529,50,Female,IT,Software Engineer,Doctor,Other,Married,Travel_Rarely,7469,22,6,4,4,10,2,No,2,4,2,3,1,4,3,No,6-10 years,High (6-9k),4+ years ago
+EMP0530,35,Male,Sales,Sales Representative,Bachelor,Medical,Married,Travel_Rarely,4800,23,9,0,5,13,3,No,3,1,3,2,2,3,25,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0531,24,Male,Marketing,Marketing Executive,Doctor,Technical Degree,Married,Travel_Rarely,4152,11,1,1,1,8,7,No,2,4,1,3,2,3,15,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0532,32,Male,IT,Software Engineer,Master,Technical Degree,Married,Travel_Rarely,8535,24,10,5,0,15,4,Yes,2,2,1,1,2,3,29,Yes,6-10 years,High (6-9k),Recently Promoted
+EMP0533,26,Female,Research & Development,Manager,Master,Marketing,Single,Travel_Rarely,12210,16,4,1,3,11,5,No,4,4,4,4,3,4,8,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0534,52,Female,Research & Development,Manager,Bachelor,Other,Single,Travel_Rarely,15569,24,24,20,15,30,0,No,3,3,1,1,3,4,17,No,10+ years,Very High (9k+),4+ years ago
+EMP0535,30,Female,Sales,Sales Executive,Bachelor,Human Resources,Married,Travel_Rarely,7629,21,6,0,3,12,6,Yes,3,4,3,4,2,4,18,No,6-10 years,High (6-9k),1-3 years ago
+EMP0536,57,Female,Human Resources,Recruiter,Bachelor,Human Resources,Married,Travel_Rarely,7023,12,16,4,11,16,3,Yes,4,1,4,1,3,3,1,Yes,10+ years,High (6-9k),4+ years ago
+EMP0537,56,Male,Marketing,Marketing Executive,Bachelor,Other,Single,Non-Travel,4155,12,3,0,1,3,7,Yes,2,1,4,1,2,3,10,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0538,33,Male,IT,Data Analyst,Bachelor,Life Sciences,Married,Travel_Rarely,7842,23,8,2,3,9,6,No,2,1,2,2,4,4,28,No,6-10 years,High (6-9k),1-3 years ago
+EMP0539,43,Female,Sales,Sales Representative,Bachelor,Marketing,Single,Non-Travel,7159,13,20,3,13,24,0,Yes,3,2,2,4,2,4,22,Yes,10+ years,High (6-9k),4+ years ago
+EMP0540,28,Female,Research & Development,Manager,Bachelor,Human Resources,Single,Travel_Rarely,12221,15,5,5,4,10,1,No,1,1,1,4,1,3,18,No,3-5 years,Very High (9k+),4+ years ago
+EMP0541,53,Male,Finance,Financial Analyst,Master,Human Resources,Divorced,Travel_Frequently,7941,21,21,1,12,27,6,No,1,4,2,2,1,4,16,No,10+ years,High (6-9k),4+ years ago
+EMP0542,33,Male,Research & Development,Research Scientist,Bachelor,Medical,Divorced,Travel_Rarely,8042,23,7,1,2,10,1,No,2,1,1,2,4,4,25,Yes,6-10 years,High (6-9k),1-3 years ago
+EMP0543,41,Female,Sales,Sales Representative,Master,Human Resources,Married,Travel_Rarely,5688,12,16,15,5,23,7,No,2,2,4,1,4,3,28,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0544,52,Female,Finance,Accountant,Doctor,Human Resources,Single,Travel_Frequently,6447,17,3,3,0,3,4,No,4,3,3,3,2,3,24,No,3-5 years,High (6-9k),Recently Promoted
+EMP0545,25,Female,Sales,Sales Executive,Master,Technical Degree,Divorced,Travel_Rarely,5816,20,1,1,1,2,2,No,3,3,2,4,2,3,6,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0546,49,Male,IT,IT Manager,Bachelor,Human Resources,Married,Travel_Rarely,13091,15,20,12,17,26,2,Yes,2,3,2,3,3,4,4,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0547,49,Female,Human Resources,Recruiter,College,Life Sciences,Single,Travel_Rarely,6548,24,21,6,16,23,0,No,3,4,4,2,3,3,5,No,10+ years,High (6-9k),4+ years ago
+EMP0548,53,Female,Sales,Sales Manager,Bachelor,Medical,Married,Non-Travel,10868,24,3,1,0,10,5,No,1,2,1,3,4,3,24,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0549,51,Male,Sales,Sales Executive,Bachelor,Marketing,Divorced,Travel_Frequently,8034,17,9,9,7,15,0,No,2,3,3,4,1,3,26,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0550,26,Male,Research & Development,Research Director,Bachelor,Technical Degree,Married,Travel_Frequently,12901,16,0,0,0,3,4,No,1,1,4,1,3,3,20,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0551,41,Male,Finance,Finance Manager,Master,Other,Divorced,Travel_Rarely,10112,12,3,1,1,7,2,No,3,1,1,1,2,3,15,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0552,27,Female,IT,Software Engineer,Master,Other,Married,Travel_Rarely,7804,12,5,3,5,7,1,Yes,3,3,3,3,1,4,20,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0553,37,Male,IT,Software Engineer,Master,Human Resources,Married,Travel_Rarely,8255,21,7,6,3,14,3,No,2,4,1,3,2,3,22,Yes,6-10 years,High (6-9k),1-3 years ago
+EMP0554,56,Female,Research & Development,Research Director,Doctor,Technical Degree,Single,Travel_Rarely,11657,24,2,1,0,7,6,No,3,3,3,1,2,3,22,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0555,34,Male,Finance,Finance Manager,Master,Medical,Single,Travel_Frequently,12197,17,7,1,5,14,4,Yes,2,4,4,1,3,3,12,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0556,35,Male,Research & Development,Manager,Bachelor,Marketing,Divorced,Travel_Frequently,14741,15,11,1,10,18,3,No,2,3,3,1,2,3,29,No,10+ years,Very High (9k+),4+ years ago
+EMP0557,43,Male,Finance,Finance Manager,Master,Marketing,Married,Travel_Rarely,13657,19,16,14,0,17,2,No,2,4,3,1,1,3,16,No,10+ years,Very High (9k+),Recently Promoted
+EMP0558,38,Female,Research & Development,Manager,Bachelor,Marketing,Married,Travel_Frequently,10755,14,6,5,6,9,2,No,4,3,1,1,1,3,19,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0559,56,Female,Sales,Sales Representative,Master,Other,Divorced,Travel_Rarely,4107,18,7,3,2,8,5,No,3,4,3,3,4,3,29,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0560,50,Male,Research & Development,Research Scientist,Bachelor,Human Resources,Married,Travel_Rarely,8784,23,17,14,9,19,2,No,4,2,1,1,2,4,6,Yes,10+ years,High (6-9k),4+ years ago
+EMP0561,39,Female,Marketing,Content Specialist,College,Life Sciences,Single,Travel_Rarely,3743,20,0,0,0,0,0,No,1,3,4,3,4,4,24,Yes,0 years,Low (<4k),Recently Promoted
+EMP0562,55,Male,Sales,Sales Representative,Doctor,Human Resources,Married,Travel_Rarely,5096,17,8,1,6,15,5,No,3,1,4,1,3,3,28,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0563,26,Female,Finance,Finance Manager,Master,Human Resources,Divorced,Travel_Rarely,9268,14,1,0,0,3,5,No,1,2,1,1,2,3,23,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0564,44,Female,Marketing,Marketing Manager,Bachelor,Other,Divorced,Travel_Rarely,10961,15,10,5,10,14,5,Yes,3,3,4,1,4,3,9,No,6-10 years,Very High (9k+),4+ years ago
+EMP0565,52,Male,IT,IT Manager,Bachelor,Life Sciences,Single,Travel_Rarely,13111,11,12,9,11,15,5,Yes,1,4,4,3,4,3,26,No,10+ years,Very High (9k+),4+ years ago
+EMP0566,47,Female,Marketing,Marketing Manager,Doctor,Technical Degree,Married,Travel_Frequently,8538,12,0,0,0,7,5,Yes,2,4,2,1,4,3,26,Yes,0 years,High (6-9k),Recently Promoted
+EMP0567,57,Male,Human Resources,HR Manager,College,Other,Married,Travel_Rarely,10883,24,16,1,15,23,5,Yes,3,2,4,4,1,3,4,No,10+ years,Very High (9k+),4+ years ago
+EMP0568,40,Male,IT,IT Support,Bachelor,Marketing,Married,Travel_Rarely,3971,19,6,2,0,6,1,No,4,2,4,2,4,3,29,No,6-10 years,Low (<4k),Recently Promoted
+EMP0569,33,Female,Sales,Sales Manager,Master,Life Sciences,Divorced,Travel_Rarely,10741,19,1,0,0,8,3,No,3,1,3,3,4,3,20,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0570,45,Female,IT,Data Analyst,Master,Life Sciences,Married,Travel_Rarely,7089,22,7,7,7,14,4,Yes,1,4,3,3,1,4,1,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0571,57,Male,Research & Development,Manager,Bachelor,Marketing,Divorced,Non-Travel,10185,14,3,0,1,6,4,No,3,2,3,3,2,3,4,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0572,37,Female,Sales,Sales Executive,Bachelor,Marketing,Single,Travel_Rarely,7392,17,8,1,5,13,5,No,2,3,4,3,1,3,9,No,6-10 years,High (6-9k),4+ years ago
+EMP0573,39,Male,Sales,Sales Representative,Bachelor,Life Sciences,Single,Travel_Rarely,4826,24,11,6,2,15,2,Yes,2,2,2,1,2,3,23,Yes,10+ years,Medium (4-6k),1-3 years ago
+EMP0574,53,Male,Marketing,Marketing Executive,Doctor,Life Sciences,Single,Travel_Rarely,5287,24,6,2,1,11,4,No,4,1,3,2,3,3,23,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0575,29,Female,Sales,Sales Representative,Bachelor,Marketing,Married,Travel_Rarely,3252,13,1,1,1,5,5,No,4,1,4,4,1,4,25,No,1-2 years,Low (<4k),1-3 years ago
+EMP0576,30,Male,Human Resources,Recruiter,Master,Technical Degree,Divorced,Travel_Rarely,5122,18,7,4,0,12,3,No,3,3,1,2,1,3,8,No,6-10 years,Medium (4-6k),Recently Promoted
+EMP0577,25,Male,Human Resources,Recruiter,Bachelor,Technical Degree,Married,Non-Travel,4826,22,2,0,1,3,1,No,3,1,2,1,2,4,25,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0578,33,Male,Human Resources,HR Manager,Bachelor,Marketing,Married,Non-Travel,10140,13,10,3,0,13,6,Yes,3,3,1,3,1,3,27,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0579,49,Male,Finance,Accountant,Bachelor,Marketing,Single,Travel_Rarely,6243,16,17,7,2,23,4,No,1,1,1,4,1,3,24,Yes,10+ years,High (6-9k),1-3 years ago
+EMP0580,49,Female,IT,IT Manager,Master,Other,Married,Travel_Rarely,12219,17,13,11,5,16,2,No,4,1,2,1,4,3,26,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0581,34,Male,Sales,Sales Representative,Doctor,Other,Married,Travel_Frequently,3986,18,10,5,3,13,4,No,1,2,2,1,2,3,15,No,6-10 years,Low (<4k),1-3 years ago
+EMP0582,30,Male,IT,Data Analyst,Below College,Medical,Single,Travel_Rarely,7522,22,4,4,2,7,5,Yes,4,4,4,2,1,3,12,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0583,36,Female,Research & Development,Laboratory Technician,Bachelor,Medical,Married,Travel_Rarely,3861,21,4,4,1,11,0,No,3,1,4,3,3,3,18,No,3-5 years,Low (<4k),1-3 years ago
+EMP0584,55,Female,Marketing,Content Specialist,Bachelor,Human Resources,Married,Travel_Rarely,5496,22,6,2,1,12,1,No,4,3,2,4,2,4,24,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0585,44,Female,Sales,Sales Representative,Below College,Human Resources,Single,Travel_Rarely,3959,17,6,0,2,13,0,No,3,4,3,4,3,4,16,No,6-10 years,Low (<4k),1-3 years ago
+EMP0586,29,Female,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Single,Non-Travel,3274,16,0,0,0,4,3,No,4,2,2,2,3,3,18,No,0 years,Low (<4k),Recently Promoted
+EMP0587,28,Female,Sales,Sales Executive,Bachelor,Other,Single,Travel_Rarely,6618,13,5,5,4,7,6,No,1,4,4,2,3,3,15,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0588,22,Male,Sales,Sales Representative,Below College,Medical,Married,Travel_Rarely,3371,20,0,0,0,1,0,No,3,4,2,1,4,4,25,No,0 years,Low (<4k),Recently Promoted
+EMP0589,38,Male,Sales,Sales Manager,Bachelor,Medical,Married,Travel_Rarely,8944,18,4,4,2,7,0,No,4,1,4,3,2,4,17,No,3-5 years,High (6-9k),1-3 years ago
+EMP0590,40,Female,Finance,Accountant,Bachelor,Other,Married,Non-Travel,7151,23,16,13,7,20,2,No,1,3,4,3,1,3,16,No,10+ years,High (6-9k),4+ years ago
+EMP0591,37,Female,Sales,Sales Manager,Master,Human Resources,Married,Travel_Rarely,10290,23,3,0,3,4,4,No,3,1,3,3,1,3,8,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0592,22,Female,Sales,Sales Executive,College,Technical Degree,Single,Travel_Rarely,5573,24,0,0,0,1,2,Yes,1,1,2,2,1,4,2,No,0 years,Medium (4-6k),Recently Promoted
+EMP0593,46,Female,IT,Data Analyst,College,Medical,Married,Non-Travel,7667,13,2,2,1,6,2,No,3,1,1,4,4,3,13,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0594,40,Male,IT,Software Engineer,Master,Marketing,Married,Non-Travel,8480,24,13,4,2,17,7,No,1,3,3,2,2,3,7,No,10+ years,High (6-9k),1-3 years ago
+EMP0595,23,Male,Finance,Financial Analyst,Master,Other,Divorced,Travel_Rarely,6581,19,0,0,0,5,0,No,2,1,3,4,1,3,24,No,0 years,High (6-9k),Recently Promoted
+EMP0596,39,Female,Research & Development,Manager,Bachelor,Other,Divorced,Travel_Rarely,13300,12,17,12,13,24,4,No,4,3,1,3,4,4,3,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0597,41,Male,Research & Development,Manager,Bachelor,Medical,Single,Non-Travel,10891,23,2,2,2,9,0,No,2,2,1,1,2,3,19,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0598,44,Male,Research & Development,Research Scientist,Master,Medical,Married,Travel_Rarely,8293,22,19,19,3,24,1,Yes,3,4,1,1,1,3,7,No,10+ years,High (6-9k),1-3 years ago
+EMP0599,36,Male,Sales,Sales Representative,Bachelor,Marketing,Married,Travel_Frequently,2888,14,1,1,1,2,1,Yes,1,2,3,3,2,4,21,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP0600,57,Female,Human Resources,HR Manager,College,Technical Degree,Married,Travel_Rarely,10807,12,12,9,4,17,0,No,3,1,2,3,3,3,11,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0601,26,Female,Marketing,Marketing Executive,College,Technical Degree,Single,Travel_Rarely,5099,23,1,1,1,2,5,No,3,1,4,2,3,4,11,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0602,57,Male,Sales,Sales Representative,Master,Marketing,Married,Travel_Frequently,4991,22,13,9,3,18,3,Yes,1,2,2,3,4,4,25,No,10+ years,Medium (4-6k),1-3 years ago
+EMP0603,29,Male,IT,IT Manager,Master,Other,Married,Travel_Rarely,11468,21,6,2,6,10,3,Yes,3,1,4,1,2,3,26,No,6-10 years,Very High (9k+),4+ years ago
+EMP0604,36,Male,Finance,Financial Analyst,Bachelor,Life Sciences,Married,Non-Travel,6788,20,6,1,4,12,6,No,1,3,3,2,3,3,19,No,6-10 years,High (6-9k),4+ years ago
+EMP0605,40,Male,Research & Development,Research Scientist,College,Life Sciences,Married,Travel_Rarely,9302,24,12,9,11,15,3,No,2,2,4,4,4,3,5,No,10+ years,Very High (9k+),4+ years ago
+EMP0606,53,Male,Research & Development,Research Director,College,Life Sciences,Single,Travel_Rarely,11624,15,7,0,1,11,6,No,2,4,3,2,2,3,5,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0607,46,Male,Finance,Financial Analyst,Master,Human Resources,Divorced,Travel_Frequently,8385,15,20,20,5,21,4,No,4,4,3,2,2,3,15,Yes,10+ years,High (6-9k),4+ years ago
+EMP0608,44,Male,Research & Development,Research Scientist,Bachelor,Technical Degree,Married,Non-Travel,9236,22,21,3,20,28,2,Yes,3,4,1,1,3,4,4,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0609,52,Male,Sales,Sales Representative,Master,Technical Degree,Married,Travel_Frequently,4066,20,5,2,4,7,4,Yes,2,1,4,4,3,3,5,Yes,3-5 years,Medium (4-6k),4+ years ago
+EMP0610,33,Female,Sales,Sales Executive,Doctor,Technical Degree,Married,Travel_Rarely,6800,19,2,0,2,6,1,No,1,4,2,2,2,3,24,No,1-2 years,High (6-9k),1-3 years ago
+EMP0611,27,Female,Research & Development,Research Director,Bachelor,Marketing,Divorced,Travel_Rarely,11006,11,3,0,1,10,2,No,2,1,4,3,2,4,15,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0612,25,Male,Sales,Sales Executive,Master,Medical,Divorced,Travel_Rarely,5229,24,0,0,0,3,6,No,4,3,4,2,4,3,12,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0613,52,Female,Finance,Financial Analyst,Bachelor,Life Sciences,Married,Travel_Frequently,6784,19,10,5,8,16,6,No,4,1,3,2,2,3,16,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0614,49,Male,Sales,Sales Executive,Bachelor,Human Resources,Single,Travel_Rarely,6914,12,5,3,4,7,4,No,4,4,1,1,2,4,12,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0615,44,Male,Finance,Financial Analyst,Bachelor,Human Resources,Divorced,Non-Travel,6599,18,12,10,0,12,6,No,2,3,3,1,1,3,15,No,10+ years,High (6-9k),Recently Promoted
+EMP0616,22,Male,Research & Development,Research Director,Master,Technical Degree,Married,Travel_Rarely,14206,13,0,0,0,6,4,No,3,3,1,3,4,4,29,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0617,42,Male,Research & Development,Research Scientist,Bachelor,Life Sciences,Married,Travel_Rarely,9758,18,13,5,5,13,5,No,3,3,3,2,1,3,15,No,10+ years,Very High (9k+),4+ years ago
+EMP0618,34,Male,Human Resources,Recruiter,Doctor,Other,Married,Travel_Rarely,4510,23,4,4,1,11,1,No,1,3,3,3,4,4,7,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0619,36,Female,Finance,Financial Analyst,Bachelor,Technical Degree,Single,Non-Travel,7463,18,3,1,2,8,7,No,1,3,2,3,1,3,18,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0620,41,Female,Finance,Financial Analyst,Master,Human Resources,Married,Travel_Rarely,7473,17,9,0,7,12,0,Yes,4,4,3,1,4,3,18,No,6-10 years,High (6-9k),4+ years ago
+EMP0621,55,Male,Sales,Sales Executive,Bachelor,Medical,Single,Travel_Frequently,5084,24,1,0,0,3,2,No,2,2,3,1,2,3,16,Yes,1-2 years,Medium (4-6k),Recently Promoted
+EMP0622,33,Male,Research & Development,Manager,Bachelor,Technical Degree,Single,Non-Travel,12051,13,5,3,2,8,6,No,4,2,1,1,1,4,7,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0623,39,Male,IT,IT Support,Bachelor,Technical Degree,Divorced,Travel_Rarely,4562,16,3,2,2,8,5,Yes,1,2,4,1,1,3,3,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0624,39,Female,Research & Development,Manager,Bachelor,Human Resources,Single,Travel_Rarely,13741,16,11,1,1,13,4,No,3,2,1,1,4,3,22,No,10+ years,Very High (9k+),1-3 years ago
+EMP0625,36,Male,Finance,Finance Manager,Bachelor,Life Sciences,Married,Non-Travel,11880,19,9,2,6,12,3,No,3,4,4,2,1,3,6,No,6-10 years,Very High (9k+),4+ years ago
+EMP0626,22,Female,Sales,Sales Executive,Bachelor,Medical,Single,Travel_Rarely,4868,17,0,0,0,0,4,No,1,3,3,2,4,3,4,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0627,41,Male,Finance,Accountant,Bachelor,Marketing,Divorced,Travel_Rarely,6793,12,8,6,1,8,2,No,4,4,2,1,4,3,15,No,6-10 years,High (6-9k),1-3 years ago
+EMP0628,31,Male,IT,Software Engineer,Master,Life Sciences,Single,Travel_Frequently,7918,14,6,6,0,10,4,No,4,4,4,2,4,4,23,No,6-10 years,High (6-9k),Recently Promoted
+EMP0629,37,Male,Sales,Sales Representative,Bachelor,Other,Single,Travel_Rarely,3595,22,5,2,1,8,3,No,1,2,4,4,1,4,3,No,3-5 years,Low (<4k),1-3 years ago
+EMP0630,31,Male,Finance,Finance Manager,Doctor,Life Sciences,Divorced,Travel_Rarely,12228,12,3,0,1,7,6,Yes,1,4,3,2,1,3,4,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0631,53,Male,IT,IT Support,Master,Human Resources,Married,Travel_Frequently,4984,17,13,5,0,14,3,No,3,3,2,2,2,3,23,Yes,10+ years,Medium (4-6k),Recently Promoted
+EMP0632,55,Male,Sales,Sales Manager,Bachelor,Other,Married,Travel_Rarely,11428,18,17,0,17,18,6,Yes,4,3,4,1,1,4,20,No,10+ years,Very High (9k+),4+ years ago
+EMP0633,47,Male,IT,Data Analyst,Master,Human Resources,Married,Travel_Rarely,7898,11,24,3,6,25,0,No,4,2,1,4,1,4,15,No,10+ years,High (6-9k),4+ years ago
+EMP0634,41,Male,Sales,Sales Manager,Master,Other,Single,Travel_Rarely,10334,23,7,7,6,11,7,No,2,3,2,2,4,3,19,No,6-10 years,Very High (9k+),4+ years ago
+EMP0635,51,Male,Research & Development,Research Director,Bachelor,Other,Single,Travel_Rarely,14865,16,2,1,0,6,7,No,2,3,4,2,2,3,8,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0636,43,Male,Research & Development,Research Scientist,College,Marketing,Married,Travel_Rarely,8015,21,7,6,0,11,4,No,2,2,1,2,3,3,19,Yes,6-10 years,High (6-9k),Recently Promoted
+EMP0637,51,Male,Sales,Sales Manager,Bachelor,Life Sciences,Single,Non-Travel,11803,19,20,2,5,23,6,Yes,4,3,2,4,3,3,14,No,10+ years,Very High (9k+),4+ years ago
+EMP0638,39,Female,Sales,Sales Manager,Master,Human Resources,Divorced,Non-Travel,9785,12,0,0,0,3,7,No,4,2,4,3,4,4,22,No,0 years,Very High (9k+),Recently Promoted
+EMP0639,45,Female,Research & Development,Research Director,Doctor,Human Resources,Divorced,Travel_Rarely,13358,20,9,6,6,10,6,No,3,2,1,3,4,3,21,No,6-10 years,Very High (9k+),4+ years ago
+EMP0640,47,Male,IT,IT Support,Bachelor,Life Sciences,Married,Travel_Rarely,4716,23,5,2,3,8,4,No,2,1,1,1,3,3,2,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0641,30,Female,IT,Data Analyst,Bachelor,Human Resources,Married,Travel_Frequently,7100,19,3,0,0,5,2,No,1,3,2,4,2,3,27,No,3-5 years,High (6-9k),Recently Promoted
+EMP0642,28,Male,Sales,Sales Manager,Bachelor,Life Sciences,Married,Non-Travel,9942,12,5,1,5,6,4,Yes,4,3,1,2,2,4,29,No,3-5 years,Very High (9k+),4+ years ago
+EMP0643,47,Female,IT,IT Manager,Master,Human Resources,Married,Travel_Rarely,11875,21,2,1,1,6,7,No,2,1,2,3,2,3,13,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0644,40,Female,Research & Development,Research Director,Master,Life Sciences,Married,Travel_Frequently,16877,11,16,0,5,18,7,Yes,1,2,3,2,3,3,18,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0645,27,Male,Research & Development,Research Director,Below College,Medical,Single,Travel_Rarely,10679,13,1,0,1,5,7,Yes,4,3,1,4,3,3,15,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0646,47,Male,Research & Development,Research Scientist,Master,Technical Degree,Divorced,Travel_Rarely,11279,22,21,11,12,21,2,No,1,1,4,4,1,4,1,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0647,32,Male,IT,Data Analyst,Master,Marketing,Single,Travel_Frequently,7992,22,9,1,9,13,6,No,2,4,3,2,4,4,14,No,6-10 years,High (6-9k),4+ years ago
+EMP0648,23,Female,Sales,Sales Manager,Bachelor,Medical,Single,Travel_Rarely,9377,14,0,0,0,7,5,No,4,4,1,4,4,3,7,No,0 years,Very High (9k+),Recently Promoted
+EMP0649,39,Female,Sales,Sales Representative,Master,Marketing,Divorced,Travel_Frequently,5016,17,9,1,9,15,5,Yes,1,1,2,2,1,3,25,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0650,53,Female,Marketing,Content Specialist,Doctor,Marketing,Single,Non-Travel,5783,18,12,9,3,18,1,No,2,4,3,2,2,4,21,Yes,10+ years,Medium (4-6k),1-3 years ago
+EMP0651,46,Female,Finance,Finance Manager,Doctor,Technical Degree,Single,Travel_Rarely,14237,12,22,11,0,22,1,No,1,4,2,1,4,3,27,Yes,10+ years,Very High (9k+),Recently Promoted
+EMP0652,56,Female,Finance,Finance Manager,Bachelor,Marketing,Married,Travel_Rarely,12144,13,24,22,8,24,5,Yes,4,4,3,4,3,3,15,No,10+ years,Very High (9k+),4+ years ago
+EMP0653,33,Female,Research & Development,Laboratory Technician,Bachelor,Other,Divorced,Travel_Rarely,3957,12,4,2,3,8,1,Yes,4,3,3,1,4,3,17,No,3-5 years,Low (<4k),1-3 years ago
+EMP0654,29,Male,Research & Development,Research Director,College,Marketing,Single,Travel_Frequently,13532,17,6,1,2,6,3,No,1,2,3,4,1,4,20,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0655,34,Female,IT,IT Manager,Bachelor,Technical Degree,Divorced,Travel_Frequently,16236,21,11,7,4,16,6,No,4,2,3,1,2,4,1,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0656,45,Male,Sales,Sales Executive,Doctor,Human Resources,Divorced,Travel_Rarely,7059,11,11,11,7,11,6,Yes,2,2,3,3,1,3,8,No,10+ years,High (6-9k),4+ years ago
+EMP0657,29,Male,Sales,Sales Manager,Doctor,Other,Divorced,Travel_Rarely,12162,15,5,4,4,8,5,Yes,1,3,4,4,3,3,22,No,3-5 years,Very High (9k+),4+ years ago
+EMP0658,41,Female,Research & Development,Laboratory Technician,Master,Medical,Divorced,Travel_Rarely,4122,18,6,2,4,6,2,No,1,1,3,2,2,3,9,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0659,23,Male,Sales,Sales Manager,Doctor,Life Sciences,Divorced,Travel_Rarely,10439,22,1,1,1,7,5,No,3,2,3,2,4,3,16,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0660,24,Female,Research & Development,Manager,Master,Human Resources,Single,Travel_Rarely,10326,15,1,1,0,2,2,Yes,3,4,3,3,2,4,7,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0661,30,Male,IT,IT Manager,Master,Marketing,Divorced,Travel_Frequently,12415,21,6,5,2,9,0,Yes,2,2,2,2,1,3,6,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP0662,43,Male,Research & Development,Research Director,Bachelor,Medical,Divorced,Non-Travel,13778,14,18,6,18,18,0,Yes,4,2,2,4,1,3,21,No,10+ years,Very High (9k+),4+ years ago
+EMP0663,30,Male,Research & Development,Research Scientist,Bachelor,Life Sciences,Single,Travel_Rarely,6645,12,5,5,2,9,6,No,1,3,1,1,3,4,28,No,3-5 years,High (6-9k),1-3 years ago
+EMP0664,22,Male,Research & Development,Laboratory Technician,Master,Other,Divorced,Travel_Frequently,2857,14,0,0,0,2,2,No,2,3,4,3,2,4,6,Yes,0 years,Low (<4k),Recently Promoted
+EMP0665,40,Male,IT,Software Engineer,Bachelor,Other,Single,Travel_Frequently,7867,15,6,1,2,9,1,Yes,4,4,2,2,2,3,3,Yes,6-10 years,High (6-9k),1-3 years ago
+EMP0666,31,Female,Sales,Sales Representative,College,Other,Married,Travel_Rarely,3474,19,1,1,0,5,6,No,2,4,1,4,1,4,2,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0667,43,Male,Sales,Sales Representative,Bachelor,Other,Married,Travel_Frequently,5512,22,17,9,17,17,2,No,2,1,4,1,4,4,13,No,10+ years,Medium (4-6k),4+ years ago
+EMP0668,22,Female,Research & Development,Laboratory Technician,Bachelor,Human Resources,Married,Travel_Rarely,3000,24,0,0,0,7,0,No,2,3,1,2,1,3,22,No,0 years,Low (<4k),Recently Promoted
+EMP0669,29,Female,Human Resources,HR Manager,Doctor,Marketing,Single,Travel_Rarely,9887,21,7,4,6,11,5,No,4,4,1,1,1,3,26,No,6-10 years,Very High (9k+),4+ years ago
+EMP0670,30,Male,Marketing,Content Specialist,Bachelor,Life Sciences,Divorced,Travel_Rarely,3609,16,1,1,0,2,4,No,2,3,1,2,2,3,25,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0671,46,Male,Sales,Sales Executive,College,Life Sciences,Single,Travel_Rarely,6919,14,10,3,5,14,2,Yes,2,3,4,4,2,3,1,No,6-10 years,High (6-9k),4+ years ago
+EMP0672,51,Male,Sales,Sales Executive,Master,Technical Degree,Single,Travel_Rarely,5384,24,0,0,0,7,6,No,4,3,3,4,1,4,2,No,0 years,Medium (4-6k),Recently Promoted
+EMP0673,43,Male,Finance,Financial Analyst,Bachelor,Technical Degree,Married,Travel_Rarely,6438,11,8,4,3,14,0,No,3,4,1,3,4,3,22,No,6-10 years,High (6-9k),1-3 years ago
+EMP0674,31,Male,Research & Development,Research Scientist,Master,Technical Degree,Single,Travel_Rarely,7426,11,9,4,9,10,0,No,3,2,3,3,4,3,4,No,6-10 years,High (6-9k),4+ years ago
+EMP0675,29,Female,Finance,Financial Analyst,Below College,Technical Degree,Single,Travel_Rarely,6133,15,5,1,5,10,6,No,3,3,1,2,1,4,18,No,3-5 years,High (6-9k),4+ years ago
+EMP0676,44,Male,Finance,Accountant,Master,Human Resources,Divorced,Travel_Frequently,4326,22,0,0,0,3,6,No,1,3,3,4,1,3,27,No,0 years,Medium (4-6k),Recently Promoted
+EMP0677,53,Female,Sales,Sales Executive,College,Medical,Married,Travel_Rarely,7050,11,4,0,3,4,3,Yes,3,2,1,2,2,3,20,No,3-5 years,High (6-9k),1-3 years ago
+EMP0678,55,Male,Sales,Sales Manager,Master,Life Sciences,Married,Non-Travel,13054,15,23,0,8,23,1,No,1,1,3,1,4,3,10,No,10+ years,Very High (9k+),4+ years ago
+EMP0679,27,Female,Sales,Sales Manager,Master,Human Resources,Married,Travel_Rarely,8278,22,1,1,1,1,4,No,4,4,4,4,1,3,14,No,1-2 years,High (6-9k),1-3 years ago
+EMP0680,38,Female,Sales,Sales Executive,Bachelor,Technical Degree,Single,Non-Travel,5496,22,2,2,0,4,2,No,3,3,2,1,3,4,2,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0681,39,Male,Human Resources,HR Executive,College,Human Resources,Married,Travel_Rarely,6319,16,12,4,8,19,7,No,1,2,1,4,1,3,15,No,10+ years,High (6-9k),4+ years ago
+EMP0682,27,Male,Research & Development,Manager,Master,Other,Single,Travel_Frequently,11966,11,4,1,3,5,7,No,3,4,1,2,4,3,27,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0683,54,Male,Sales,Sales Representative,Bachelor,Technical Degree,Married,Travel_Rarely,5469,15,14,13,1,19,4,Yes,3,4,3,2,3,3,29,Yes,10+ years,Medium (4-6k),1-3 years ago
+EMP0684,40,Male,IT,Software Engineer,Bachelor,Medical,Single,Travel_Rarely,7627,18,3,0,0,5,4,Yes,3,3,2,3,2,3,2,No,3-5 years,High (6-9k),Recently Promoted
+EMP0685,55,Male,IT,IT Manager,Master,Other,Divorced,Travel_Rarely,14095,14,1,1,1,7,2,No,1,1,2,4,3,4,29,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0686,45,Male,Sales,Sales Representative,Below College,Medical,Divorced,Travel_Frequently,6135,12,18,4,6,20,4,No,1,3,3,4,1,3,15,No,10+ years,High (6-9k),4+ years ago
+EMP0687,25,Female,Sales,Sales Executive,Master,Other,Divorced,Travel_Rarely,5407,24,0,0,0,0,5,No,1,4,1,1,1,3,26,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0688,26,Female,Sales,Sales Executive,Bachelor,Human Resources,Divorced,Travel_Rarely,6089,17,0,0,0,4,1,No,4,4,1,1,3,3,6,Yes,0 years,High (6-9k),Recently Promoted
+EMP0689,22,Female,Sales,Sales Executive,College,Marketing,Married,Travel_Rarely,6400,14,0,0,0,2,2,Yes,2,2,2,1,1,3,13,No,0 years,High (6-9k),Recently Promoted
+EMP0690,47,Female,Sales,Sales Manager,Master,Medical,Married,Non-Travel,14972,14,20,18,4,27,1,No,2,3,3,4,1,3,26,No,10+ years,Very High (9k+),4+ years ago
+EMP0691,37,Female,Research & Development,Research Director,Master,Marketing,Single,Non-Travel,12937,16,6,3,0,13,5,No,4,4,4,2,1,3,25,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0692,50,Male,Finance,Accountant,Bachelor,Life Sciences,Married,Non-Travel,5907,19,7,5,0,10,2,Yes,4,4,2,2,1,4,8,Yes,6-10 years,Medium (4-6k),Recently Promoted
+EMP0693,34,Male,Research & Development,Manager,College,Human Resources,Married,Travel_Rarely,10534,19,3,3,2,6,1,No,1,4,3,1,1,3,13,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0694,53,Female,Finance,Financial Analyst,Master,Human Resources,Married,Travel_Rarely,6512,12,11,8,6,18,3,Yes,3,4,3,1,1,3,6,No,10+ years,High (6-9k),4+ years ago
+EMP0695,50,Male,IT,Software Engineer,Bachelor,Marketing,Married,Travel_Rarely,7379,19,9,7,0,15,4,Yes,1,4,2,2,4,4,6,No,6-10 years,High (6-9k),Recently Promoted
+EMP0696,43,Female,Research & Development,Manager,Doctor,Marketing,Married,Non-Travel,15967,22,21,13,14,24,1,No,2,2,4,1,1,4,8,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0697,39,Male,Sales,Sales Representative,College,Marketing,Single,Travel_Rarely,3669,21,2,1,2,3,7,No,4,2,4,2,3,3,26,No,1-2 years,Low (<4k),1-3 years ago
+EMP0698,26,Male,IT,Software Engineer,Master,Life Sciences,Single,Travel_Rarely,8376,15,3,3,3,3,1,Yes,3,2,2,1,4,3,15,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0699,26,Male,Human Resources,Recruiter,Below College,Life Sciences,Single,Non-Travel,4310,20,2,2,2,7,4,No,1,1,2,2,2,3,4,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP0700,35,Female,IT,IT Manager,Bachelor,Medical,Divorced,Travel_Rarely,12481,13,9,7,1,16,2,No,1,1,1,1,4,4,29,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0701,50,Female,IT,IT Support,Master,Marketing,Married,Travel_Rarely,6622,18,17,17,9,21,5,Yes,2,2,3,1,4,3,13,Yes,10+ years,High (6-9k),4+ years ago
+EMP0702,26,Female,Sales,Sales Executive,Master,Other,Divorced,Travel_Rarely,6770,23,0,0,0,4,5,No,3,3,3,4,3,3,27,No,0 years,High (6-9k),Recently Promoted
+EMP0703,44,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Single,Non-Travel,3747,24,3,0,0,7,3,No,3,4,1,2,3,3,6,Yes,3-5 years,Low (<4k),Recently Promoted
+EMP0704,44,Male,Human Resources,HR Manager,Master,Technical Degree,Single,Travel_Rarely,10506,14,11,2,5,15,0,No,3,4,3,2,2,4,21,No,10+ years,Very High (9k+),4+ years ago
+EMP0705,52,Male,Marketing,Marketing Executive,Bachelor,Other,Divorced,Travel_Frequently,5410,22,17,11,15,22,1,No,1,3,3,3,2,3,19,No,10+ years,Medium (4-6k),4+ years ago
+EMP0706,50,Female,Sales,Sales Executive,Bachelor,Medical,Single,Travel_Rarely,7198,19,10,4,2,16,5,No,1,1,1,2,4,4,25,No,6-10 years,High (6-9k),1-3 years ago
+EMP0707,23,Male,IT,Software Engineer,Bachelor,Technical Degree,Married,Travel_Frequently,6892,12,0,0,0,1,6,No,4,2,3,1,3,3,20,No,0 years,High (6-9k),Recently Promoted
+EMP0708,36,Male,Sales,Sales Executive,Bachelor,Medical,Married,Travel_Rarely,7278,17,6,5,6,7,2,No,1,1,4,2,1,3,28,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0709,27,Male,Research & Development,Research Director,Master,Technical Degree,Married,Travel_Rarely,15170,17,4,4,4,9,5,No,4,4,2,3,4,3,24,No,3-5 years,Very High (9k+),4+ years ago
+EMP0710,29,Male,Human Resources,HR Manager,Bachelor,Other,Single,Travel_Rarely,10935,16,4,3,0,10,0,Yes,4,3,4,1,3,3,27,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0711,44,Female,Sales,Sales Manager,Doctor,Life Sciences,Divorced,Travel_Frequently,9893,15,19,5,8,25,3,No,2,4,2,2,3,3,21,No,10+ years,Very High (9k+),4+ years ago
+EMP0712,22,Male,Marketing,Marketing Manager,Bachelor,Medical,Single,Travel_Rarely,7603,11,0,0,0,4,3,No,2,3,2,3,4,3,3,No,0 years,High (6-9k),Recently Promoted
+EMP0713,35,Male,IT,Data Analyst,Bachelor,Other,Divorced,Travel_Frequently,6094,14,2,0,0,3,1,No,1,2,4,1,3,3,16,No,1-2 years,High (6-9k),Recently Promoted
+EMP0714,53,Female,Sales,Sales Manager,Master,Other,Married,Travel_Rarely,10762,19,20,2,3,25,2,Yes,1,2,3,3,4,3,12,No,10+ years,Very High (9k+),1-3 years ago
+EMP0715,55,Male,Sales,Sales Representative,Bachelor,Marketing,Married,Travel_Frequently,5627,17,22,0,22,23,7,No,1,1,3,3,1,4,8,No,10+ years,Medium (4-6k),4+ years ago
+EMP0716,22,Male,Research & Development,Research Director,Bachelor,Technical Degree,Single,Travel_Frequently,14205,20,0,0,0,6,0,No,4,2,1,2,1,3,22,No,0 years,Very High (9k+),Recently Promoted
+EMP0717,34,Female,IT,Data Analyst,College,Human Resources,Married,Travel_Frequently,6756,16,3,3,3,3,1,No,3,3,4,4,1,3,3,No,3-5 years,High (6-9k),1-3 years ago
+EMP0718,28,Male,IT,IT Manager,Bachelor,Technical Degree,Single,Non-Travel,12283,24,3,1,2,4,4,No,4,1,3,2,3,3,29,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0719,45,Male,Marketing,Marketing Executive,Below College,Medical,Single,Travel_Rarely,5218,11,2,0,1,3,7,No,4,1,2,1,3,3,10,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0720,35,Female,Research & Development,Research Scientist,Bachelor,Technical Degree,Single,Travel_Rarely,6206,17,3,1,3,9,1,No,2,3,2,3,1,3,8,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0721,26,Male,Finance,Financial Analyst,College,Other,Married,Travel_Rarely,6502,23,0,0,0,5,7,No,3,4,3,1,4,4,23,No,0 years,High (6-9k),Recently Promoted
+EMP0722,56,Male,Finance,Finance Manager,Master,Marketing,Single,Travel_Rarely,10664,16,3,3,0,3,4,No,2,3,2,2,4,3,15,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0723,23,Male,Research & Development,Research Director,Doctor,Other,Single,Non-Travel,12908,23,1,1,0,2,0,No,3,1,4,1,2,3,8,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0724,26,Male,Sales,Sales Executive,Doctor,Life Sciences,Married,Travel_Rarely,7279,24,4,0,2,7,6,No,3,3,1,2,4,3,29,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0725,22,Male,Research & Development,Laboratory Technician,Doctor,Other,Married,Travel_Rarely,2945,14,0,0,0,6,0,No,2,2,3,3,2,4,19,Yes,0 years,Low (<4k),Recently Promoted
+EMP0726,38,Female,Marketing,Content Specialist,Master,Medical,Divorced,Non-Travel,4834,19,15,11,4,22,1,Yes,4,4,3,1,4,3,2,No,10+ years,Medium (4-6k),4+ years ago
+EMP0727,38,Male,Marketing,Marketing Executive,Bachelor,Marketing,Married,Travel_Rarely,5565,13,3,1,3,9,6,No,2,2,2,1,2,4,11,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0728,33,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Divorced,Travel_Rarely,3388,18,11,6,5,12,1,No,2,3,3,4,2,4,24,No,10+ years,Low (<4k),4+ years ago
+EMP0729,45,Female,Marketing,Content Specialist,Master,Human Resources,Married,Travel_Rarely,4436,24,2,2,2,3,5,No,1,2,3,1,1,3,2,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0730,47,Female,Human Resources,Recruiter,Master,Other,Married,Travel_Rarely,6357,17,13,9,8,17,4,Yes,4,4,2,1,2,3,11,No,10+ years,High (6-9k),4+ years ago
+EMP0731,42,Female,Sales,Sales Executive,Bachelor,Medical,Single,Travel_Rarely,6990,19,15,4,3,15,0,No,3,1,1,2,4,3,3,No,10+ years,High (6-9k),1-3 years ago
+EMP0732,29,Male,Research & Development,Laboratory Technician,Bachelor,Life Sciences,Divorced,Travel_Frequently,3527,11,6,4,6,8,7,No,1,1,2,1,4,4,3,Yes,6-10 years,Low (<4k),4+ years ago
+EMP0733,53,Female,Human Resources,HR Manager,Master,Medical,Single,Travel_Rarely,12371,23,16,15,3,17,3,No,3,3,1,4,1,3,18,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0734,34,Male,Research & Development,Manager,Master,Medical,Divorced,Travel_Frequently,10250,23,7,4,7,12,0,No,3,1,2,4,2,3,2,No,6-10 years,Very High (9k+),4+ years ago
+EMP0735,31,Male,Sales,Sales Representative,Doctor,Technical Degree,Single,Travel_Rarely,3770,22,5,2,3,5,1,No,4,2,3,4,1,4,8,No,3-5 years,Low (<4k),1-3 years ago
+EMP0736,33,Female,Sales,Sales Representative,Bachelor,Human Resources,Married,Non-Travel,5254,11,11,3,3,17,2,No,3,2,4,3,1,4,5,No,10+ years,Medium (4-6k),1-3 years ago
+EMP0737,34,Male,IT,Data Analyst,Doctor,Human Resources,Married,Travel_Rarely,9188,12,11,4,1,13,4,No,1,2,1,4,2,3,27,No,10+ years,Very High (9k+),1-3 years ago
+EMP0738,51,Female,Research & Development,Laboratory Technician,Below College,Technical Degree,Divorced,Travel_Rarely,3803,24,8,2,1,9,6,No,4,4,4,3,1,4,18,No,6-10 years,Low (<4k),1-3 years ago
+EMP0739,32,Female,IT,Data Analyst,Bachelor,Technical Degree,Married,Travel_Rarely,7869,15,7,3,0,14,6,No,2,3,3,2,1,3,28,No,6-10 years,High (6-9k),Recently Promoted
+EMP0740,45,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Single,Travel_Rarely,2593,14,0,0,0,4,2,Yes,2,2,2,3,2,3,22,No,0 years,Low (<4k),Recently Promoted
+EMP0741,28,Male,Research & Development,Research Scientist,Master,Marketing,Single,Non-Travel,7407,19,5,4,1,11,4,No,4,1,1,4,2,3,2,No,3-5 years,High (6-9k),1-3 years ago
+EMP0742,39,Male,Human Resources,Recruiter,Bachelor,Other,Divorced,Travel_Rarely,3781,24,3,2,2,7,6,Yes,1,3,3,2,4,4,4,Yes,3-5 years,Low (<4k),1-3 years ago
+EMP0743,40,Male,Sales,Sales Manager,Bachelor,Medical,Divorced,Travel_Rarely,10901,15,11,8,3,11,1,No,3,2,1,1,2,3,11,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0744,22,Male,Finance,Finance Manager,Master,Technical Degree,Single,Travel_Rarely,12704,18,0,0,0,2,0,No,1,1,4,2,1,3,21,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0745,47,Male,IT,Software Engineer,Bachelor,Marketing,Married,Non-Travel,9813,18,11,10,6,17,1,Yes,4,4,2,3,4,3,28,No,10+ years,Very High (9k+),4+ years ago
+EMP0746,45,Female,Research & Development,Manager,Doctor,Life Sciences,Married,Travel_Rarely,14977,12,14,13,1,17,2,Yes,1,4,2,1,1,3,3,No,10+ years,Very High (9k+),1-3 years ago
+EMP0747,31,Female,Sales,Sales Manager,Bachelor,Marketing,Married,Non-Travel,9148,13,2,0,1,2,3,Yes,3,1,3,1,3,3,29,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0748,42,Female,IT,IT Manager,Bachelor,Life Sciences,Single,Non-Travel,13863,14,19,6,8,19,7,No,2,2,3,3,4,3,15,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0749,37,Male,Finance,Accountant,Master,Technical Degree,Single,Travel_Frequently,6486,16,9,9,4,11,0,No,4,3,3,4,2,3,13,No,6-10 years,High (6-9k),4+ years ago
+EMP0750,50,Male,Human Resources,HR Executive,Master,Human Resources,Single,Non-Travel,7136,16,15,6,10,21,2,No,1,4,2,2,2,3,14,Yes,10+ years,High (6-9k),4+ years ago
+EMP0751,43,Male,Research & Development,Manager,Bachelor,Human Resources,Married,Travel_Rarely,14404,13,13,9,9,16,6,No,2,2,3,1,4,3,25,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0752,35,Female,Research & Development,Research Scientist,Bachelor,Other,Divorced,Travel_Rarely,6983,15,9,1,5,14,7,No,3,3,4,3,1,4,27,No,6-10 years,High (6-9k),4+ years ago
+EMP0753,30,Male,Sales,Sales Representative,College,Human Resources,Divorced,Travel_Frequently,2990,21,0,0,0,2,7,Yes,3,4,2,3,2,3,14,No,0 years,Low (<4k),Recently Promoted
+EMP0754,45,Male,Sales,Sales Representative,Master,Life Sciences,Divorced,Travel_Rarely,4557,23,13,2,13,15,5,No,2,4,3,3,3,3,20,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0755,45,Female,Research & Development,Research Scientist,Master,Human Resources,Single,Travel_Frequently,7747,21,10,1,1,17,7,Yes,2,2,3,2,2,3,10,No,6-10 years,High (6-9k),1-3 years ago
+EMP0756,51,Female,Research & Development,Research Scientist,Master,Marketing,Single,Travel_Rarely,7103,20,4,3,4,8,1,No,3,4,1,3,3,4,18,No,3-5 years,High (6-9k),4+ years ago
+EMP0757,54,Female,IT,Data Analyst,Doctor,Medical,Married,Travel_Frequently,8751,22,16,4,0,20,7,No,1,4,1,2,3,4,22,No,10+ years,High (6-9k),Recently Promoted
+EMP0758,30,Male,Sales,Sales Representative,Doctor,Other,Married,Travel_Rarely,4335,12,4,2,1,7,7,No,4,3,2,1,4,3,28,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP0759,23,Male,Sales,Sales Manager,College,Marketing,Single,Non-Travel,8341,14,1,0,1,3,3,No,2,3,1,3,4,3,3,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0760,53,Male,Marketing,Marketing Manager,Bachelor,Life Sciences,Single,Travel_Rarely,11119,15,6,2,6,13,1,No,4,4,3,1,3,3,4,No,6-10 years,Very High (9k+),4+ years ago
+EMP0761,26,Female,Research & Development,Research Director,Master,Marketing,Single,Travel_Rarely,12478,15,4,1,2,10,2,No,2,2,3,4,4,3,26,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0762,56,Female,Sales,Sales Representative,Master,Marketing,Married,Travel_Frequently,5137,15,18,11,5,21,7,Yes,2,2,4,4,1,3,1,No,10+ years,Medium (4-6k),4+ years ago
+EMP0763,39,Male,Sales,Sales Manager,Master,Marketing,Single,Travel_Rarely,13238,18,14,8,11,18,3,No,1,1,4,2,4,3,17,No,10+ years,Very High (9k+),4+ years ago
+EMP0764,25,Female,Research & Development,Research Scientist,College,Other,Single,Travel_Rarely,6210,16,0,0,0,5,0,No,3,2,1,3,2,3,7,No,0 years,High (6-9k),Recently Promoted
+EMP0765,55,Female,Finance,Accountant,Below College,Medical,Married,Travel_Frequently,7255,19,18,7,10,25,2,No,2,1,3,1,3,4,19,No,10+ years,High (6-9k),4+ years ago
+EMP0766,50,Female,Sales,Sales Executive,Master,Technical Degree,Married,Travel_Rarely,7146,15,7,0,5,7,4,No,1,2,4,3,3,3,5,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0767,43,Male,Sales,Sales Manager,Master,Medical,Married,Travel_Rarely,11180,20,1,0,1,2,6,Yes,2,3,1,1,3,4,15,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0768,34,Male,Sales,Sales Executive,Bachelor,Medical,Single,Non-Travel,5555,14,2,0,1,4,6,No,1,2,2,1,2,3,13,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP0769,39,Male,Research & Development,Research Director,Bachelor,Marketing,Married,Travel_Rarely,15360,19,12,9,0,16,1,Yes,3,2,3,3,3,4,23,No,10+ years,Very High (9k+),Recently Promoted
+EMP0770,24,Male,Sales,Sales Representative,College,Life Sciences,Married,Travel_Rarely,3256,20,0,0,0,1,5,No,2,2,1,4,1,4,27,Yes,0 years,Low (<4k),Recently Promoted
+EMP0771,36,Female,IT,Data Analyst,Bachelor,Other,Married,Non-Travel,7522,24,3,0,1,6,6,No,3,4,1,1,4,3,22,No,3-5 years,High (6-9k),1-3 years ago
+EMP0772,40,Female,Sales,Sales Executive,Bachelor,Life Sciences,Single,Travel_Rarely,7600,11,6,4,2,7,3,No,2,4,4,1,4,4,8,Yes,6-10 years,High (6-9k),1-3 years ago
+EMP0773,40,Male,Finance,Finance Manager,Master,Life Sciences,Married,Travel_Rarely,10592,15,9,5,3,13,4,Yes,4,4,4,1,2,3,16,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0774,31,Male,IT,IT Manager,Bachelor,Other,Single,Travel_Rarely,11284,21,2,1,2,6,5,Yes,3,2,1,4,3,3,2,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0775,56,Male,Sales,Sales Manager,Master,Other,Married,Travel_Rarely,9726,11,4,3,3,11,5,No,3,1,1,4,2,3,22,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0776,27,Female,Sales,Sales Manager,Master,Medical,Single,Travel_Rarely,9287,21,3,1,1,4,6,Yes,2,2,4,3,3,3,9,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0777,55,Male,IT,Data Analyst,Bachelor,Technical Degree,Single,Travel_Rarely,8176,12,9,2,0,15,2,No,3,1,2,1,2,3,9,No,6-10 years,High (6-9k),Recently Promoted
+EMP0778,37,Male,Marketing,Content Specialist,Doctor,Human Resources,Divorced,Non-Travel,4985,14,12,8,4,19,6,No,4,3,4,2,1,3,17,No,10+ years,Medium (4-6k),4+ years ago
+EMP0779,56,Female,Research & Development,Manager,Bachelor,Other,Married,Travel_Rarely,13953,23,10,2,0,13,5,No,4,3,3,1,4,4,23,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0780,40,Male,Marketing,Marketing Manager,Bachelor,Marketing,Married,Travel_Rarely,10756,19,13,10,5,18,5,No,3,1,4,1,1,4,6,No,10+ years,Very High (9k+),4+ years ago
+EMP0781,52,Male,Research & Development,Research Scientist,Master,Technical Degree,Single,Travel_Rarely,7175,20,4,1,0,6,6,No,3,4,2,1,3,4,10,No,3-5 years,High (6-9k),Recently Promoted
+EMP0782,56,Male,Marketing,Marketing Manager,Master,Marketing,Single,Travel_Frequently,12254,14,24,23,11,26,2,No,2,4,2,2,4,3,13,No,10+ years,Very High (9k+),4+ years ago
+EMP0783,47,Female,IT,IT Manager,Master,Life Sciences,Single,Travel_Rarely,15472,11,24,21,12,28,1,No,4,3,2,3,3,3,24,No,10+ years,Very High (9k+),4+ years ago
+EMP0784,38,Male,Human Resources,Recruiter,Bachelor,Medical,Single,Travel_Rarely,5717,16,12,6,8,15,0,No,3,3,3,2,1,4,22,No,10+ years,Medium (4-6k),4+ years ago
+EMP0785,34,Male,Research & Development,Laboratory Technician,Below College,Medical,Single,Travel_Rarely,5205,22,12,7,10,19,3,No,1,1,1,4,2,3,14,No,10+ years,Medium (4-6k),4+ years ago
+EMP0786,57,Male,Marketing,Marketing Executive,Bachelor,Other,Married,Travel_Rarely,4713,18,6,2,5,11,3,Yes,4,2,3,3,2,3,6,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0787,35,Female,Research & Development,Research Director,Master,Marketing,Single,Travel_Frequently,15264,14,3,2,3,5,2,No,4,2,4,2,2,3,5,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0788,40,Male,Human Resources,HR Executive,Doctor,Human Resources,Divorced,Travel_Rarely,4849,13,8,0,3,9,3,No,3,4,1,3,4,4,5,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0789,40,Female,Sales,Sales Executive,College,Technical Degree,Married,Travel_Rarely,6312,19,7,6,4,13,7,No,3,3,1,1,2,3,8,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0790,25,Female,Sales,Sales Manager,Bachelor,Technical Degree,Single,Travel_Rarely,9228,11,0,0,0,3,4,Yes,2,2,4,2,3,3,16,No,0 years,Very High (9k+),Recently Promoted
+EMP0791,47,Male,Sales,Sales Executive,College,Medical,Divorced,Non-Travel,7143,23,4,2,1,10,2,No,2,2,2,1,3,4,14,Yes,3-5 years,High (6-9k),1-3 years ago
+EMP0792,40,Male,Marketing,Marketing Manager,Bachelor,Other,Single,Travel_Rarely,11609,23,10,1,10,10,0,No,4,3,4,2,2,3,6,No,6-10 years,Very High (9k+),4+ years ago
+EMP0793,52,Female,Sales,Sales Manager,Bachelor,Human Resources,Divorced,Travel_Rarely,11451,24,11,4,3,12,5,Yes,2,1,3,2,4,4,14,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0794,45,Male,IT,Data Analyst,Master,Human Resources,Married,Non-Travel,8048,12,9,5,9,11,0,No,3,1,3,4,4,4,25,No,6-10 years,High (6-9k),4+ years ago
+EMP0795,55,Male,Sales,Sales Executive,Below College,Life Sciences,Divorced,Travel_Rarely,7928,24,18,8,4,22,2,No,4,4,4,4,4,4,17,Yes,10+ years,High (6-9k),4+ years ago
+EMP0796,32,Female,Finance,Accountant,Master,Other,Married,Travel_Rarely,5541,12,5,0,5,6,3,No,4,1,3,3,4,4,29,No,3-5 years,Medium (4-6k),4+ years ago
+EMP0797,32,Male,Human Resources,HR Manager,Doctor,Other,Single,Travel_Rarely,12456,24,10,4,3,14,6,Yes,3,4,1,3,1,3,6,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0798,57,Male,Research & Development,Research Director,Master,Life Sciences,Married,Travel_Frequently,14419,11,13,10,5,20,6,No,2,1,1,3,4,3,15,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0799,55,Male,Human Resources,HR Manager,Doctor,Life Sciences,Single,Travel_Rarely,11452,16,17,11,2,23,4,No,1,2,4,4,4,3,22,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0800,43,Male,Sales,Sales Manager,Master,Medical,Single,Travel_Rarely,10090,23,3,0,2,10,7,No,2,2,1,4,3,4,8,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0801,37,Female,Sales,Sales Executive,Bachelor,Technical Degree,Single,Travel_Frequently,7484,18,8,0,6,13,4,No,4,4,2,2,3,3,29,No,6-10 years,High (6-9k),4+ years ago
+EMP0802,52,Male,Human Resources,HR Executive,Master,Other,Married,Travel_Rarely,6222,24,12,11,2,16,6,No,1,1,3,4,1,3,18,No,10+ years,High (6-9k),1-3 years ago
+EMP0803,35,Female,Research & Development,Manager,Bachelor,Life Sciences,Married,Travel_Rarely,9427,12,0,0,0,7,7,No,3,4,2,2,2,3,13,No,0 years,Very High (9k+),Recently Promoted
+EMP0804,41,Female,IT,IT Manager,Bachelor,Medical,Divorced,Travel_Rarely,13123,22,11,7,11,12,4,Yes,4,1,3,2,2,3,1,No,10+ years,Very High (9k+),4+ years ago
+EMP0805,37,Male,Sales,Sales Representative,Below College,Technical Degree,Divorced,Travel_Rarely,4654,17,12,9,1,15,2,No,2,3,2,2,1,3,14,No,10+ years,Medium (4-6k),1-3 years ago
+EMP0806,33,Male,Sales,Sales Manager,Bachelor,Life Sciences,Married,Travel_Rarely,9504,14,2,2,2,6,0,No,3,3,2,2,4,3,11,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0807,27,Male,Sales,Sales Manager,Doctor,Medical,Married,Travel_Rarely,11026,20,5,2,4,9,7,No,2,4,2,1,4,3,29,No,3-5 years,Very High (9k+),4+ years ago
+EMP0808,44,Male,Finance,Accountant,College,Medical,Divorced,Travel_Rarely,6052,15,1,0,1,2,4,No,1,1,2,1,3,3,10,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0809,29,Female,Research & Development,Manager,Bachelor,Medical,Married,Non-Travel,14397,18,6,4,5,12,6,No,4,3,1,2,4,3,17,No,6-10 years,Very High (9k+),4+ years ago
+EMP0810,48,Female,IT,IT Support,Master,Technical Degree,Married,Travel_Rarely,6668,23,19,4,18,25,3,No,2,2,4,3,1,4,4,No,10+ years,High (6-9k),4+ years ago
+EMP0811,54,Female,Marketing,Content Specialist,Master,Marketing,Married,Travel_Rarely,5156,16,8,7,7,10,0,No,1,2,1,2,3,4,7,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0812,44,Male,Research & Development,Laboratory Technician,College,Medical,Divorced,Travel_Rarely,2925,18,4,2,0,6,3,No,1,1,2,3,1,3,28,No,3-5 years,Low (<4k),Recently Promoted
+EMP0813,49,Female,Research & Development,Laboratory Technician,Bachelor,Medical,Married,Travel_Rarely,3690,16,3,3,0,6,3,No,1,4,2,4,2,3,13,No,3-5 years,Low (<4k),Recently Promoted
+EMP0814,32,Female,Finance,Financial Analyst,Bachelor,Marketing,Married,Travel_Rarely,8409,11,9,2,1,16,4,No,4,4,3,4,1,4,9,No,6-10 years,High (6-9k),1-3 years ago
+EMP0815,26,Male,IT,Data Analyst,Doctor,Life Sciences,Married,Non-Travel,7301,22,0,0,0,4,3,Yes,3,1,3,4,2,3,23,Yes,0 years,High (6-9k),Recently Promoted
+EMP0816,47,Male,Sales,Sales Executive,Doctor,Medical,Divorced,Travel_Rarely,8386,14,24,6,0,31,7,No,3,2,2,4,4,3,12,Yes,10+ years,High (6-9k),Recently Promoted
+EMP0817,53,Male,Marketing,Content Specialist,College,Medical,Single,Travel_Rarely,4192,22,8,7,0,15,5,No,2,2,2,1,1,4,21,Yes,6-10 years,Medium (4-6k),Recently Promoted
+EMP0818,36,Male,Sales,Sales Representative,College,Other,Married,Non-Travel,4115,11,6,6,1,10,1,No,1,1,4,4,1,3,22,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0819,43,Female,Sales,Sales Manager,Doctor,Other,Divorced,Travel_Frequently,9764,12,13,13,1,18,4,Yes,2,4,1,1,3,3,5,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP0820,57,Male,Research & Development,Research Scientist,Bachelor,Marketing,Single,Travel_Rarely,10030,16,24,3,22,28,4,No,4,3,1,3,3,4,6,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0821,54,Female,Research & Development,Research Scientist,Master,Other,Married,Travel_Frequently,8709,23,10,9,4,13,2,No,4,4,2,2,4,3,4,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0822,30,Female,IT,IT Manager,Bachelor,Technical Degree,Divorced,Travel_Rarely,12402,21,4,0,0,4,3,Yes,1,2,1,2,1,3,4,Yes,3-5 years,Very High (9k+),Recently Promoted
+EMP0823,35,Female,Research & Development,Research Director,Master,Life Sciences,Single,Travel_Rarely,12915,11,2,2,2,7,6,Yes,1,3,3,4,3,3,24,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0824,55,Female,IT,Software Engineer,Master,Marketing,Single,Non-Travel,10714,24,17,17,5,20,6,No,4,4,2,3,1,3,1,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0825,23,Male,IT,Data Analyst,Master,Marketing,Married,Non-Travel,7328,23,0,0,0,2,2,No,3,2,3,1,1,3,4,No,0 years,High (6-9k),Recently Promoted
+EMP0826,37,Male,Sales,Sales Manager,Doctor,Technical Degree,Married,Non-Travel,8295,18,2,2,1,2,3,Yes,1,1,4,2,4,3,16,No,1-2 years,High (6-9k),1-3 years ago
+EMP0827,35,Male,Research & Development,Laboratory Technician,College,Marketing,Married,Travel_Rarely,4085,19,6,3,1,13,7,No,3,1,2,4,4,3,23,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP0828,47,Male,Finance,Financial Analyst,College,Technical Degree,Married,Travel_Rarely,9917,16,20,14,11,27,5,No,3,3,3,1,1,3,2,No,10+ years,Very High (9k+),4+ years ago
+EMP0829,55,Male,Research & Development,Manager,Master,Marketing,Single,Travel_Rarely,11680,24,21,21,4,22,7,No,1,1,2,2,3,3,23,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0830,35,Female,Research & Development,Laboratory Technician,Bachelor,Marketing,Married,Travel_Rarely,3242,15,1,1,0,2,3,No,3,4,3,2,2,4,6,No,1-2 years,Low (<4k),Recently Promoted
+EMP0831,52,Male,Sales,Sales Representative,Master,Medical,Single,Travel_Rarely,3818,19,4,0,1,4,2,No,3,2,1,1,1,3,13,No,3-5 years,Low (<4k),1-3 years ago
+EMP0832,46,Male,Research & Development,Research Director,Bachelor,Life Sciences,Single,Travel_Rarely,11396,17,5,2,0,11,3,Yes,3,4,3,2,3,3,26,No,3-5 years,Very High (9k+),Recently Promoted
+EMP0833,37,Female,Sales,Sales Representative,Bachelor,Human Resources,Single,Travel_Rarely,3846,13,6,6,4,7,7,No,3,1,2,4,2,3,22,No,6-10 years,Low (<4k),4+ years ago
+EMP0834,52,Female,Research & Development,Research Director,Bachelor,Medical,Single,Travel_Rarely,15414,19,3,0,0,3,1,No,1,4,1,3,4,3,20,Yes,3-5 years,Very High (9k+),Recently Promoted
+EMP0835,30,Male,IT,IT Support,College,Medical,Divorced,Travel_Frequently,4297,16,8,6,7,11,5,No,4,1,4,3,3,3,15,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0836,55,Female,Marketing,Marketing Executive,Bachelor,Human Resources,Married,Travel_Frequently,5357,15,5,2,0,11,2,Yes,4,1,2,4,1,3,15,Yes,3-5 years,Medium (4-6k),Recently Promoted
+EMP0837,47,Male,Sales,Sales Executive,Below College,Marketing,Divorced,Travel_Frequently,6281,20,2,2,0,7,1,No,4,3,1,4,1,3,25,No,1-2 years,High (6-9k),Recently Promoted
+EMP0838,49,Male,IT,Software Engineer,Doctor,Life Sciences,Married,Travel_Rarely,8891,23,17,3,8,18,0,No,3,3,3,1,2,3,19,No,10+ years,High (6-9k),4+ years ago
+EMP0839,57,Female,IT,Data Analyst,Doctor,Medical,Single,Travel_Frequently,9662,19,19,13,4,23,7,No,4,4,4,1,1,3,3,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0840,38,Male,Sales,Sales Manager,Bachelor,Other,Single,Travel_Frequently,8658,18,3,0,3,5,6,Yes,3,1,4,3,1,4,2,No,3-5 years,High (6-9k),1-3 years ago
+EMP0841,54,Male,Finance,Accountant,Below College,Other,Divorced,Non-Travel,6641,13,22,8,5,27,6,No,4,1,4,3,1,3,8,No,10+ years,High (6-9k),4+ years ago
+EMP0842,23,Male,Marketing,Content Specialist,Bachelor,Technical Degree,Single,Non-Travel,3437,20,0,0,0,0,7,Yes,4,4,4,2,2,3,3,No,0 years,Low (<4k),Recently Promoted
+EMP0843,27,Female,Sales,Sales Representative,Bachelor,Marketing,Divorced,Travel_Rarely,3603,18,4,2,0,11,0,No,4,2,3,1,3,3,16,No,3-5 years,Low (<4k),Recently Promoted
+EMP0844,48,Male,Human Resources,HR Manager,Master,Marketing,Married,Travel_Rarely,12114,11,11,5,7,18,0,No,4,1,1,4,2,3,2,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0845,54,Male,IT,IT Support,Below College,Other,Married,Travel_Rarely,4055,16,6,6,1,8,1,Yes,3,3,1,2,1,3,6,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP0846,51,Male,Finance,Financial Analyst,Master,Life Sciences,Married,Travel_Rarely,8101,22,12,6,3,15,2,Yes,4,4,4,2,4,3,24,No,10+ years,High (6-9k),1-3 years ago
+EMP0847,35,Male,IT,IT Support,Bachelor,Life Sciences,Single,Travel_Rarely,5696,12,13,11,5,16,0,Yes,2,3,1,3,2,3,8,No,10+ years,Medium (4-6k),4+ years ago
+EMP0848,25,Female,Sales,Sales Representative,College,Medical,Single,Travel_Rarely,3571,17,3,3,3,3,1,No,1,3,1,4,2,4,22,No,3-5 years,Low (<4k),1-3 years ago
+EMP0849,27,Male,Sales,Sales Manager,Bachelor,Marketing,Married,Travel_Rarely,9157,18,3,3,2,7,6,Yes,1,2,1,3,1,3,25,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0850,29,Female,IT,IT Support,Bachelor,Other,Married,Travel_Frequently,4696,11,6,6,4,12,7,No,3,1,2,3,3,4,25,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0851,30,Female,Research & Development,Research Director,Bachelor,Technical Degree,Single,Travel_Rarely,12734,19,0,0,0,5,6,No,3,4,1,2,3,3,19,No,0 years,Very High (9k+),Recently Promoted
+EMP0852,28,Male,Marketing,Marketing Manager,Below College,Technical Degree,Married,Travel_Rarely,8051,16,3,3,0,6,0,No,4,4,1,4,3,3,9,No,3-5 years,High (6-9k),Recently Promoted
+EMP0853,23,Female,Finance,Finance Manager,Doctor,Human Resources,Single,Travel_Rarely,10757,13,1,1,1,6,6,No,3,1,2,1,4,4,14,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0854,31,Male,Marketing,Marketing Manager,Bachelor,Technical Degree,Married,Travel_Rarely,8442,16,3,2,0,9,1,No,4,3,3,4,1,3,9,No,3-5 years,High (6-9k),Recently Promoted
+EMP0855,46,Female,Research & Development,Research Scientist,College,Marketing,Single,Travel_Frequently,8643,18,12,5,6,15,7,No,4,1,2,3,4,3,27,No,10+ years,High (6-9k),4+ years ago
+EMP0856,31,Female,Sales,Sales Representative,Bachelor,Human Resources,Divorced,Travel_Rarely,3328,18,2,1,0,9,2,No,4,2,3,1,1,3,27,No,1-2 years,Low (<4k),Recently Promoted
+EMP0857,31,Male,Finance,Financial Analyst,Bachelor,Technical Degree,Married,Travel_Frequently,7142,13,2,0,1,5,4,No,1,3,1,4,4,4,21,No,1-2 years,High (6-9k),1-3 years ago
+EMP0858,57,Female,Research & Development,Manager,Master,Human Resources,Single,Non-Travel,12704,22,11,5,2,12,4,No,4,4,1,4,2,3,1,No,10+ years,Very High (9k+),1-3 years ago
+EMP0859,39,Female,IT,Data Analyst,Bachelor,Medical,Married,Travel_Rarely,10283,11,13,10,8,17,1,No,2,4,1,1,3,3,19,No,10+ years,Very High (9k+),4+ years ago
+EMP0860,38,Female,Research & Development,Research Scientist,Master,Human Resources,Divorced,Non-Travel,8420,19,8,8,4,15,0,Yes,2,2,2,1,4,4,24,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0861,38,Male,IT,Software Engineer,Below College,Other,Divorced,Non-Travel,7153,18,2,1,1,3,5,No,2,3,2,3,4,3,19,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0862,29,Female,Sales,Sales Manager,Master,Marketing,Married,Non-Travel,8952,14,4,3,0,10,6,Yes,4,4,4,4,1,3,11,No,3-5 years,High (6-9k),Recently Promoted
+EMP0863,41,Male,Sales,Sales Manager,Master,Medical,Married,Travel_Rarely,10580,20,16,2,14,21,1,No,2,2,4,3,3,3,4,No,10+ years,Very High (9k+),4+ years ago
+EMP0864,35,Female,Finance,Finance Manager,Master,Technical Degree,Married,Travel_Frequently,10823,18,12,10,4,12,6,No,1,1,4,4,3,3,22,No,10+ years,Very High (9k+),4+ years ago
+EMP0865,45,Female,Research & Development,Laboratory Technician,Doctor,Life Sciences,Single,Travel_Rarely,4338,24,16,15,5,22,6,Yes,1,1,4,4,2,3,22,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0866,37,Male,Marketing,Marketing Executive,College,Marketing,Married,Travel_Rarely,6598,22,15,1,9,21,7,No,1,3,3,4,4,3,27,No,10+ years,High (6-9k),4+ years ago
+EMP0867,41,Male,IT,IT Support,Master,Technical Degree,Divorced,Travel_Rarely,6056,24,16,9,8,21,6,Yes,3,4,4,3,4,4,18,Yes,10+ years,High (6-9k),4+ years ago
+EMP0868,48,Male,Research & Development,Research Scientist,Master,Medical,Married,Travel_Rarely,8133,16,9,2,8,10,6,No,3,1,4,3,4,3,5,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0869,48,Male,IT,Data Analyst,Bachelor,Life Sciences,Married,Travel_Rarely,7172,22,16,12,14,18,7,Yes,4,1,3,1,3,3,4,Yes,10+ years,High (6-9k),4+ years ago
+EMP0870,30,Male,Sales,Sales Representative,Below College,Other,Divorced,Travel_Frequently,4424,13,7,4,3,12,5,Yes,2,4,2,4,4,3,12,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0871,47,Female,Sales,Sales Representative,Bachelor,Human Resources,Married,Non-Travel,4550,19,11,7,9,18,0,No,1,1,4,1,3,3,29,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0872,45,Male,Research & Development,Research Director,Bachelor,Medical,Single,Non-Travel,16039,12,13,4,4,17,7,No,3,2,4,4,4,3,18,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0873,25,Male,Sales,Sales Executive,Bachelor,Human Resources,Single,Travel_Frequently,6678,16,2,0,0,8,7,No,1,3,3,4,1,3,25,Yes,1-2 years,High (6-9k),Recently Promoted
+EMP0874,46,Female,IT,Data Analyst,Master,Human Resources,Married,Non-Travel,9586,11,12,10,11,15,7,No,1,1,1,2,1,3,18,No,10+ years,Very High (9k+),4+ years ago
+EMP0875,34,Male,Human Resources,HR Manager,Master,Medical,Single,Travel_Rarely,9090,19,4,4,3,8,3,No,3,2,2,2,4,3,5,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP0876,23,Female,IT,Software Engineer,College,Life Sciences,Married,Travel_Frequently,8190,14,0,0,0,7,0,No,2,4,2,1,4,4,29,Yes,0 years,High (6-9k),Recently Promoted
+EMP0877,53,Male,Finance,Accountant,Master,Human Resources,Married,Travel_Frequently,7461,13,21,6,21,25,2,No,1,3,1,2,2,3,23,Yes,10+ years,High (6-9k),4+ years ago
+EMP0878,35,Male,Sales,Sales Representative,Bachelor,Life Sciences,Married,Travel_Frequently,3202,20,4,4,1,10,6,No,4,2,1,3,2,3,6,No,3-5 years,Low (<4k),1-3 years ago
+EMP0879,53,Female,Research & Development,Manager,Bachelor,Technical Degree,Married,Travel_Frequently,13125,16,7,7,5,7,3,No,3,2,3,3,4,4,7,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0880,49,Female,Research & Development,Laboratory Technician,Master,Other,Married,Travel_Frequently,3891,24,6,1,2,6,7,Yes,1,1,3,4,3,4,1,No,6-10 years,Low (<4k),1-3 years ago
+EMP0881,46,Male,Finance,Accountant,Bachelor,Marketing,Single,Travel_Rarely,5270,20,9,1,0,16,2,Yes,2,1,1,1,2,3,12,Yes,6-10 years,Medium (4-6k),Recently Promoted
+EMP0882,46,Female,Research & Development,Manager,Master,Technical Degree,Single,Travel_Rarely,12689,21,10,4,9,13,7,Yes,2,1,1,1,4,3,22,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0883,48,Female,Research & Development,Manager,Master,Marketing,Married,Travel_Rarely,15060,24,18,12,2,25,3,No,4,3,1,1,1,3,16,No,10+ years,Very High (9k+),1-3 years ago
+EMP0884,41,Female,Marketing,Marketing Executive,Bachelor,Human Resources,Single,Travel_Rarely,6818,22,19,12,16,25,6,No,1,1,3,2,3,3,19,No,10+ years,High (6-9k),4+ years ago
+EMP0885,50,Male,Research & Development,Research Scientist,College,Other,Married,Travel_Rarely,8018,18,13,10,10,14,5,No,1,2,3,1,2,3,2,No,10+ years,High (6-9k),4+ years ago
+EMP0886,39,Female,Marketing,Content Specialist,Bachelor,Medical,Divorced,Travel_Rarely,3976,13,4,1,3,7,4,No,1,2,1,3,2,3,27,No,3-5 years,Low (<4k),1-3 years ago
+EMP0887,29,Male,Research & Development,Laboratory Technician,Bachelor,Medical,Married,Travel_Rarely,3638,23,7,4,4,11,0,No,1,4,2,3,3,4,20,Yes,6-10 years,Low (<4k),4+ years ago
+EMP0888,55,Male,Finance,Finance Manager,College,Other,Married,Travel_Rarely,12490,23,7,1,6,7,6,No,1,2,1,3,1,3,2,No,6-10 years,Very High (9k+),4+ years ago
+EMP0889,47,Male,Sales,Sales Representative,Master,Other,Divorced,Travel_Rarely,3855,15,7,4,1,9,7,No,4,1,2,4,3,3,6,No,6-10 years,Low (<4k),1-3 years ago
+EMP0890,45,Female,Human Resources,HR Executive,Bachelor,Technical Degree,Single,Travel_Frequently,7485,20,21,12,16,26,1,No,4,3,2,4,2,4,28,No,10+ years,High (6-9k),4+ years ago
+EMP0891,39,Male,IT,IT Support,College,Human Resources,Married,Travel_Rarely,5565,16,14,8,12,14,6,Yes,2,4,3,1,3,3,25,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP0892,30,Male,Research & Development,Manager,Bachelor,Life Sciences,Divorced,Travel_Rarely,13031,11,2,2,0,8,5,No,4,3,2,2,3,4,2,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0893,32,Female,Sales,Sales Executive,College,Medical,Single,Travel_Frequently,8056,17,10,7,7,16,3,No,1,2,2,4,1,4,12,No,6-10 years,High (6-9k),4+ years ago
+EMP0894,25,Male,Sales,Sales Executive,College,Medical,Married,Travel_Rarely,5957,17,1,0,0,8,3,Yes,3,2,2,1,4,3,19,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0895,51,Male,Sales,Sales Representative,Master,Human Resources,Divorced,Travel_Rarely,5330,20,20,20,18,20,0,No,1,3,4,4,1,4,26,No,10+ years,Medium (4-6k),4+ years ago
+EMP0896,26,Male,IT,IT Manager,Bachelor,Medical,Married,Travel_Rarely,14238,12,0,0,0,6,3,Yes,4,4,1,4,4,3,20,No,0 years,Very High (9k+),Recently Promoted
+EMP0897,22,Male,Human Resources,Recruiter,Master,Technical Degree,Single,Travel_Frequently,4241,23,0,0,0,1,6,Yes,3,1,4,4,2,4,18,No,0 years,Medium (4-6k),Recently Promoted
+EMP0898,54,Female,Sales,Sales Representative,Doctor,Medical,Divorced,Non-Travel,4432,14,10,1,5,12,0,No,4,3,2,1,2,3,12,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0899,23,Male,Research & Development,Research Director,Bachelor,Human Resources,Divorced,Travel_Rarely,12051,21,1,1,0,4,7,Yes,2,3,2,3,2,3,22,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP0900,32,Female,Finance,Financial Analyst,Doctor,Technical Degree,Married,Travel_Rarely,6315,19,2,0,1,7,6,No,4,3,1,2,2,3,6,No,1-2 years,High (6-9k),1-3 years ago
+EMP0901,39,Male,Research & Development,Manager,Doctor,Other,Married,Travel_Rarely,9997,11,3,0,1,5,6,No,4,1,1,1,3,4,5,No,3-5 years,Very High (9k+),1-3 years ago
+EMP0902,31,Male,Research & Development,Manager,Master,Marketing,Divorced,Travel_Rarely,11164,22,9,9,8,13,7,No,4,2,4,4,3,3,10,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0903,24,Male,Sales,Sales Manager,College,Medical,Married,Travel_Frequently,10724,17,0,0,0,3,3,No,3,4,1,4,4,3,23,No,0 years,Very High (9k+),Recently Promoted
+EMP0904,27,Male,Sales,Sales Representative,Master,Medical,Married,Travel_Rarely,2942,14,1,1,0,6,0,No,2,2,4,3,2,3,10,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0905,42,Male,Research & Development,Research Director,Bachelor,Technical Degree,Divorced,Travel_Rarely,13179,21,7,5,1,13,1,No,2,4,1,2,1,3,15,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0906,36,Male,Research & Development,Research Director,Master,Marketing,Divorced,Travel_Frequently,14942,17,14,5,7,21,3,No,4,1,1,3,4,3,5,No,10+ years,Very High (9k+),4+ years ago
+EMP0907,31,Male,Finance,Finance Manager,Doctor,Technical Degree,Married,Travel_Frequently,11703,17,0,0,0,2,0,No,3,2,3,3,3,3,23,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0908,51,Male,Research & Development,Research Scientist,Master,Technical Degree,Married,Travel_Rarely,7395,17,15,6,8,17,5,Yes,1,3,3,2,4,3,1,No,10+ years,High (6-9k),4+ years ago
+EMP0909,43,Male,IT,IT Manager,Bachelor,Other,Divorced,Non-Travel,11502,11,2,1,1,6,4,No,2,2,2,1,3,3,6,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0910,35,Male,Human Resources,HR Manager,Doctor,Human Resources,Married,Travel_Rarely,8286,15,3,2,0,9,6,No,3,4,1,4,1,3,23,No,3-5 years,High (6-9k),Recently Promoted
+EMP0911,24,Male,Finance,Financial Analyst,Bachelor,Human Resources,Married,Travel_Rarely,6638,22,2,1,2,2,2,No,3,2,3,4,2,3,20,No,1-2 years,High (6-9k),1-3 years ago
+EMP0912,24,Female,Sales,Sales Executive,Bachelor,Other,Divorced,Non-Travel,6076,16,2,1,1,2,6,No,4,4,3,4,1,3,22,Yes,1-2 years,High (6-9k),1-3 years ago
+EMP0913,49,Male,IT,Software Engineer,Master,Medical,Single,Travel_Rarely,11392,14,20,9,16,22,2,No,4,4,1,1,4,4,9,No,10+ years,Very High (9k+),4+ years ago
+EMP0914,24,Female,Research & Development,Research Director,Master,Life Sciences,Married,Travel_Rarely,13409,18,1,1,1,3,7,No,4,2,3,2,2,4,23,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0915,37,Male,Finance,Financial Analyst,Bachelor,Medical,Married,Non-Travel,7210,14,1,1,1,7,3,No,3,2,4,1,1,3,16,No,1-2 years,High (6-9k),1-3 years ago
+EMP0916,43,Male,Research & Development,Research Director,Bachelor,Other,Married,Travel_Rarely,12536,19,21,1,21,28,3,No,4,4,1,3,1,3,2,No,10+ years,Very High (9k+),4+ years ago
+EMP0917,30,Female,Marketing,Content Specialist,Bachelor,Technical Degree,Married,Travel_Rarely,3789,21,1,0,0,4,3,No,2,4,2,3,3,3,20,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0918,48,Male,Sales,Sales Executive,Master,Medical,Divorced,Non-Travel,7707,20,21,16,4,24,0,Yes,3,3,2,2,2,4,27,Yes,10+ years,High (6-9k),4+ years ago
+EMP0919,27,Female,Sales,Sales Representative,Master,Human Resources,Married,Travel_Frequently,3641,23,2,2,2,4,7,No,3,4,1,2,4,3,18,No,1-2 years,Low (<4k),1-3 years ago
+EMP0920,22,Male,Research & Development,Laboratory Technician,Bachelor,Other,Single,Travel_Rarely,3012,21,0,0,0,4,6,No,4,3,3,1,2,4,17,Yes,0 years,Low (<4k),Recently Promoted
+EMP0921,39,Female,Sales,Sales Manager,Bachelor,Technical Degree,Single,Travel_Rarely,10175,11,13,13,5,19,0,No,4,4,3,4,4,3,11,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0922,30,Male,Sales,Sales Representative,College,Marketing,Divorced,Travel_Rarely,3645,21,0,0,0,2,4,No,4,1,2,2,1,3,12,Yes,0 years,Low (<4k),Recently Promoted
+EMP0923,55,Female,Sales,Sales Representative,Bachelor,Marketing,Married,Travel_Rarely,4584,20,7,3,4,14,3,No,4,3,4,2,3,3,9,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0924,26,Female,IT,IT Support,Master,Life Sciences,Divorced,Travel_Rarely,3180,24,1,1,0,6,0,No,4,4,2,1,2,4,17,No,1-2 years,Low (<4k),Recently Promoted
+EMP0925,27,Female,IT,IT Support,Master,Technical Degree,Single,Travel_Frequently,4207,12,0,0,0,5,2,No,2,4,3,1,4,4,19,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP0926,36,Male,Finance,Accountant,Bachelor,Human Resources,Married,Travel_Frequently,5881,14,0,0,0,6,6,No,1,3,1,3,4,3,22,No,0 years,Medium (4-6k),Recently Promoted
+EMP0927,29,Male,Research & Development,Manager,Master,Human Resources,Divorced,Non-Travel,14107,23,6,1,0,12,3,No,1,1,4,3,3,3,4,Yes,6-10 years,Very High (9k+),Recently Promoted
+EMP0928,53,Female,Finance,Finance Manager,Bachelor,Marketing,Married,Travel_Rarely,14087,21,10,1,6,14,0,No,2,3,3,2,4,4,4,No,6-10 years,Very High (9k+),4+ years ago
+EMP0929,55,Female,IT,Data Analyst,Master,Other,Single,Travel_Rarely,9970,12,23,8,13,24,6,No,3,1,3,2,4,3,26,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0930,33,Male,Sales,Sales Executive,Bachelor,Technical Degree,Married,Travel_Rarely,5033,16,0,0,0,1,7,No,2,3,3,1,2,3,19,No,0 years,Medium (4-6k),Recently Promoted
+EMP0931,27,Female,Marketing,Content Specialist,Master,Other,Divorced,Travel_Rarely,3529,23,1,1,0,3,5,No,3,3,2,3,3,3,7,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP0932,28,Male,Sales,Sales Manager,Bachelor,Other,Divorced,Travel_Rarely,8469,11,0,0,0,2,6,No,4,4,4,4,4,4,12,Yes,0 years,High (6-9k),Recently Promoted
+EMP0933,31,Male,IT,Data Analyst,Master,Technical Degree,Married,Travel_Rarely,7928,24,4,1,0,5,4,No,3,1,1,3,4,3,2,No,3-5 years,High (6-9k),Recently Promoted
+EMP0934,54,Female,Sales,Sales Representative,College,Other,Divorced,Travel_Rarely,4783,20,7,1,4,11,1,No,4,2,3,4,2,3,5,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0935,25,Male,Research & Development,Research Director,College,Life Sciences,Single,Travel_Frequently,11012,19,3,2,0,3,6,Yes,4,4,2,1,4,3,29,Yes,3-5 years,Very High (9k+),Recently Promoted
+EMP0936,31,Male,Sales,Sales Executive,Bachelor,Life Sciences,Married,Travel_Rarely,5979,17,8,8,5,11,4,No,1,2,1,3,1,4,10,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0937,41,Female,IT,IT Support,Bachelor,Human Resources,Single,Travel_Frequently,4371,15,3,1,0,6,7,No,4,3,4,3,1,3,13,No,3-5 years,Medium (4-6k),Recently Promoted
+EMP0938,51,Male,Finance,Finance Manager,Bachelor,Marketing,Single,Travel_Rarely,10649,13,2,2,1,7,4,No,4,3,2,4,3,3,6,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0939,55,Male,Marketing,Marketing Manager,Bachelor,Human Resources,Married,Travel_Rarely,11479,15,18,6,10,20,2,No,4,2,2,3,1,3,6,No,10+ years,Very High (9k+),4+ years ago
+EMP0940,53,Female,Human Resources,HR Manager,Bachelor,Human Resources,Divorced,Travel_Rarely,12208,15,15,11,15,17,6,No,2,2,2,2,2,3,14,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0941,41,Male,Research & Development,Laboratory Technician,Below College,Other,Married,Travel_Rarely,4585,20,9,2,1,14,1,Yes,3,2,2,4,3,4,19,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0942,23,Male,Finance,Finance Manager,College,Human Resources,Single,Travel_Rarely,11782,16,0,0,0,1,4,No,3,2,4,3,3,3,26,Yes,0 years,Very High (9k+),Recently Promoted
+EMP0943,35,Male,Sales,Sales Representative,Master,Medical,Single,Travel_Rarely,5135,22,9,3,1,9,0,No,2,1,1,4,4,3,12,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP0944,24,Male,Sales,Sales Manager,Bachelor,Marketing,Married,Travel_Frequently,9907,22,1,1,0,4,2,No,3,4,4,1,2,4,8,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0945,38,Male,Finance,Finance Manager,Bachelor,Medical,Single,Travel_Rarely,14021,17,14,0,2,21,3,No,4,3,2,2,2,3,3,No,10+ years,Very High (9k+),1-3 years ago
+EMP0946,43,Female,IT,Data Analyst,Bachelor,Human Resources,Single,Travel_Rarely,8090,13,5,5,5,6,0,No,1,4,2,4,3,4,22,Yes,3-5 years,High (6-9k),4+ years ago
+EMP0947,37,Female,Research & Development,Manager,Bachelor,Life Sciences,Married,Travel_Rarely,13467,12,15,7,2,18,5,No,3,3,2,4,3,3,20,No,10+ years,Very High (9k+),1-3 years ago
+EMP0948,41,Male,Research & Development,Research Director,Bachelor,Human Resources,Married,Non-Travel,14668,12,6,5,1,11,3,Yes,4,4,1,4,3,3,28,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0949,56,Female,IT,IT Support,College,Other,Married,Travel_Rarely,6373,15,21,9,10,26,2,No,3,2,4,4,3,3,27,No,10+ years,High (6-9k),4+ years ago
+EMP0950,55,Male,Finance,Finance Manager,Bachelor,Other,Single,Travel_Rarely,12179,11,7,5,7,13,1,No,4,3,2,4,2,3,25,No,6-10 years,Very High (9k+),4+ years ago
+EMP0951,42,Male,Sales,Sales Executive,Bachelor,Technical Degree,Single,Travel_Rarely,5421,15,2,1,0,8,7,No,2,1,4,4,1,3,6,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0952,38,Male,Sales,Sales Manager,Bachelor,Marketing,Single,Travel_Rarely,12047,11,4,1,4,4,5,Yes,3,3,4,1,2,3,18,No,3-5 years,Very High (9k+),4+ years ago
+EMP0953,43,Female,IT,Software Engineer,College,Life Sciences,Single,Travel_Rarely,9382,17,15,12,5,16,5,No,2,4,2,1,2,3,2,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0954,42,Male,IT,IT Manager,College,Other,Married,Non-Travel,14290,14,15,5,0,16,1,No,2,4,1,2,3,3,16,No,10+ years,Very High (9k+),Recently Promoted
+EMP0955,32,Female,Sales,Sales Executive,Master,Other,Single,Non-Travel,5867,15,9,2,6,9,0,Yes,3,4,1,4,2,3,29,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0956,40,Male,Marketing,Marketing Manager,Master,Medical,Married,Travel_Rarely,10341,21,6,6,1,6,7,No,3,4,4,2,4,4,18,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0957,57,Male,IT,IT Manager,College,Other,Married,Travel_Rarely,13056,23,22,21,6,22,4,No,4,1,3,4,2,3,16,No,10+ years,Very High (9k+),4+ years ago
+EMP0958,28,Male,Sales,Sales Manager,Bachelor,Other,Married,Non-Travel,12007,16,2,0,1,8,6,No,1,4,2,4,2,4,3,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP0959,43,Male,IT,IT Manager,Bachelor,Other,Divorced,Travel_Rarely,11245,16,1,1,0,1,6,Yes,1,1,1,4,2,4,11,No,1-2 years,Very High (9k+),Recently Promoted
+EMP0960,38,Male,Research & Development,Research Scientist,Master,Medical,Married,Travel_Rarely,8715,22,13,8,6,19,2,No,4,4,4,1,2,3,17,Yes,10+ years,High (6-9k),4+ years ago
+EMP0961,47,Male,Sales,Sales Representative,Doctor,Technical Degree,Divorced,Non-Travel,6419,11,17,1,6,23,0,No,3,2,3,1,3,3,19,No,10+ years,High (6-9k),4+ years ago
+EMP0962,26,Male,Marketing,Marketing Executive,College,Other,Married,Travel_Rarely,4881,23,3,0,3,10,4,No,2,2,4,1,1,3,20,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP0963,23,Female,IT,Software Engineer,Master,Medical,Divorced,Travel_Frequently,7799,19,1,1,1,3,0,No,2,1,2,4,3,4,1,No,1-2 years,High (6-9k),1-3 years ago
+EMP0964,56,Male,Human Resources,Recruiter,Master,Marketing,Divorced,Travel_Frequently,5056,24,9,1,9,10,0,No,3,4,2,3,2,3,9,No,6-10 years,Medium (4-6k),4+ years ago
+EMP0965,30,Female,IT,IT Support,Bachelor,Life Sciences,Single,Travel_Rarely,3610,15,4,0,3,7,3,No,2,4,2,2,3,3,11,Yes,3-5 years,Low (<4k),1-3 years ago
+EMP0966,46,Female,Research & Development,Research Director,Doctor,Human Resources,Single,Travel_Rarely,13090,13,7,2,0,7,0,Yes,1,2,2,2,3,4,12,Yes,6-10 years,Very High (9k+),Recently Promoted
+EMP0967,41,Male,Marketing,Content Specialist,Bachelor,Other,Single,Travel_Frequently,4359,17,4,4,4,11,3,No,4,2,3,4,2,3,1,No,3-5 years,Medium (4-6k),4+ years ago
+EMP0968,51,Male,Sales,Sales Manager,Doctor,Other,Divorced,Travel_Frequently,9564,11,6,2,4,12,6,No,1,4,2,1,2,3,25,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP0969,32,Male,Sales,Sales Executive,Doctor,Life Sciences,Married,Travel_Rarely,7119,15,8,3,8,9,7,No,1,4,4,4,4,3,15,Yes,6-10 years,High (6-9k),4+ years ago
+EMP0970,49,Male,Human Resources,Recruiter,Bachelor,Technical Degree,Married,Travel_Rarely,6311,16,12,9,8,13,6,No,4,2,2,4,3,4,27,No,10+ years,High (6-9k),4+ years ago
+EMP0971,42,Female,Marketing,Content Specialist,Master,Medical,Single,Non-Travel,3472,17,0,0,0,4,3,No,3,3,1,3,2,3,10,Yes,0 years,Low (<4k),Recently Promoted
+EMP0972,42,Female,Research & Development,Research Scientist,Bachelor,Technical Degree,Single,Travel_Rarely,7193,15,5,0,4,7,3,No,3,1,3,2,3,3,18,No,3-5 years,High (6-9k),4+ years ago
+EMP0973,38,Male,Finance,Financial Analyst,Bachelor,Human Resources,Single,Travel_Rarely,6557,22,8,5,6,13,1,No,4,4,4,1,1,3,13,No,6-10 years,High (6-9k),4+ years ago
+EMP0974,57,Male,IT,IT Manager,Bachelor,Other,Single,Travel_Rarely,10849,17,9,7,2,16,4,No,3,2,3,1,1,3,25,No,6-10 years,Very High (9k+),1-3 years ago
+EMP0975,56,Male,Sales,Sales Executive,College,Human Resources,Married,Travel_Rarely,7846,11,18,11,7,25,7,No,1,4,2,2,3,3,10,Yes,10+ years,High (6-9k),4+ years ago
+EMP0976,23,Female,Marketing,Marketing Manager,Doctor,Marketing,Married,Non-Travel,10969,20,1,0,1,2,0,No,4,2,2,1,1,3,1,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0977,51,Female,Finance,Accountant,Bachelor,Marketing,Married,Non-Travel,6783,12,8,0,2,12,5,Yes,3,3,1,1,3,3,11,No,6-10 years,High (6-9k),1-3 years ago
+EMP0978,43,Female,Sales,Sales Manager,Master,Technical Degree,Married,Travel_Frequently,10694,16,14,12,11,15,4,No,2,3,1,4,4,3,4,No,10+ years,Very High (9k+),4+ years ago
+EMP0979,35,Male,Sales,Sales Representative,Master,Medical,Married,Non-Travel,5059,17,13,8,13,18,0,No,4,2,3,3,1,3,2,No,10+ years,Medium (4-6k),4+ years ago
+EMP0980,27,Male,Marketing,Marketing Manager,Bachelor,Other,Divorced,Travel_Rarely,9285,15,2,2,1,3,6,No,3,1,4,4,2,4,9,No,1-2 years,Very High (9k+),1-3 years ago
+EMP0981,49,Female,Research & Development,Research Director,Below College,Medical,Married,Travel_Rarely,14983,16,23,14,6,24,0,Yes,1,2,2,4,3,3,22,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0982,26,Male,Marketing,Marketing Executive,Master,Life Sciences,Married,Travel_Rarely,5456,14,4,4,4,7,6,No,4,4,1,2,4,3,17,Yes,3-5 years,Medium (4-6k),4+ years ago
+EMP0983,22,Male,Sales,Sales Manager,Doctor,Human Resources,Single,Travel_Rarely,8583,20,0,0,0,4,1,No,1,2,2,3,2,4,5,No,0 years,High (6-9k),Recently Promoted
+EMP0984,40,Female,Sales,Sales Manager,Bachelor,Technical Degree,Divorced,Non-Travel,11275,11,6,5,0,12,6,No,2,2,4,1,1,4,26,No,6-10 years,Very High (9k+),Recently Promoted
+EMP0985,57,Male,Sales,Sales Manager,Master,Human Resources,Married,Travel_Rarely,11245,19,11,0,0,18,0,Yes,1,2,4,3,4,3,1,No,10+ years,Very High (9k+),Recently Promoted
+EMP0986,45,Male,IT,IT Manager,Bachelor,Marketing,Single,Travel_Rarely,15496,14,23,17,23,25,3,No,3,3,2,1,3,3,5,Yes,10+ years,Very High (9k+),4+ years ago
+EMP0987,50,Male,Finance,Accountant,College,Other,Married,Travel_Rarely,6826,18,7,4,6,14,5,No,1,3,1,3,1,4,3,No,6-10 years,High (6-9k),4+ years ago
+EMP0988,28,Male,Human Resources,HR Manager,Master,Other,Married,Travel_Rarely,8837,21,0,0,0,3,3,No,4,2,3,3,2,4,28,No,0 years,High (6-9k),Recently Promoted
+EMP0989,41,Male,Sales,Sales Representative,Doctor,Technical Degree,Divorced,Non-Travel,4431,18,6,3,4,11,1,No,2,2,4,3,4,4,24,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP0990,24,Female,Sales,Sales Manager,Master,Marketing,Married,Travel_Frequently,9646,15,0,0,0,7,5,No,3,4,1,2,3,3,15,No,0 years,Very High (9k+),Recently Promoted
+EMP0991,35,Female,Research & Development,Research Director,Master,Marketing,Divorced,Travel_Rarely,12449,15,8,2,7,9,2,No,2,3,1,1,1,3,13,No,6-10 years,Very High (9k+),4+ years ago
+EMP0992,37,Male,Research & Development,Research Scientist,Below College,Technical Degree,Divorced,Travel_Rarely,7074,15,4,3,4,7,3,Yes,1,1,4,1,3,3,8,No,3-5 years,High (6-9k),4+ years ago
+EMP0993,47,Female,IT,Data Analyst,Master,Other,Married,Travel_Rarely,7865,16,16,1,15,21,6,No,3,2,3,2,3,4,18,No,10+ years,High (6-9k),4+ years ago
+EMP0994,39,Male,Finance,Accountant,Bachelor,Technical Degree,Divorced,Travel_Rarely,6779,15,9,7,0,15,4,Yes,4,3,1,2,4,4,29,No,6-10 years,High (6-9k),Recently Promoted
+EMP0995,40,Female,Human Resources,HR Manager,Master,Human Resources,Married,Travel_Rarely,10857,15,15,7,12,19,6,No,4,1,4,1,1,4,20,No,10+ years,Very High (9k+),4+ years ago
+EMP0996,25,Female,Marketing,Marketing Executive,College,Life Sciences,Divorced,Travel_Rarely,4200,22,2,0,0,8,4,Yes,2,2,4,1,4,4,1,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP0997,52,Female,Sales,Sales Manager,Doctor,Human Resources,Married,Travel_Rarely,8988,24,0,0,0,0,4,No,1,1,3,1,3,3,9,No,0 years,High (6-9k),Recently Promoted
+EMP0998,41,Male,Research & Development,Research Director,Master,Life Sciences,Single,Travel_Rarely,16453,19,16,11,3,17,2,Yes,3,1,3,1,2,3,27,No,10+ years,Very High (9k+),1-3 years ago
+EMP0999,49,Female,Finance,Accountant,Bachelor,Human Resources,Single,Travel_Rarely,4832,14,4,4,3,9,6,Yes,3,4,1,4,4,3,18,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP1000,33,Female,Sales,Sales Manager,Bachelor,Human Resources,Single,Non-Travel,12888,11,10,10,10,10,4,Yes,3,3,2,3,3,3,5,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP1001,53,Male,Human Resources,Recruiter,Bachelor,Other,Married,Travel_Frequently,5551,15,7,3,1,13,3,No,3,1,2,1,2,4,1,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP1002,23,Male,Research & Development,Laboratory Technician,Doctor,Medical,Single,Travel_Frequently,2590,23,1,0,0,4,2,Yes,2,3,4,2,1,3,24,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP1003,55,Female,IT,IT Manager,Bachelor,Technical Degree,Divorced,Travel_Rarely,17432,19,21,19,18,23,3,No,2,2,2,2,1,3,25,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1004,47,Female,IT,Data Analyst,Bachelor,Marketing,Married,Travel_Rarely,8172,23,5,2,4,10,2,Yes,1,4,3,3,2,3,17,Yes,3-5 years,High (6-9k),4+ years ago
+EMP1005,23,Male,Marketing,Content Specialist,Master,Other,Single,Travel_Rarely,4163,18,0,0,0,1,1,Yes,4,4,3,1,3,4,19,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP1006,47,Female,IT,Software Engineer,Below College,Human Resources,Divorced,Travel_Rarely,7246,23,5,2,5,8,1,No,2,1,1,1,1,3,14,No,3-5 years,High (6-9k),4+ years ago
+EMP1007,57,Male,IT,IT Manager,Bachelor,Other,Single,Travel_Rarely,12248,20,9,9,3,12,2,Yes,1,3,3,1,3,3,5,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1008,39,Female,Research & Development,Laboratory Technician,Bachelor,Life Sciences,Married,Non-Travel,2980,22,0,0,0,4,3,No,2,3,4,1,3,3,3,Yes,0 years,Low (<4k),Recently Promoted
+EMP1009,41,Male,Research & Development,Research Director,Master,Medical,Single,Travel_Rarely,16927,19,15,14,3,16,7,Yes,4,4,4,1,1,3,12,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP1010,40,Male,Sales,Sales Manager,College,Other,Married,Travel_Frequently,10191,12,16,8,1,18,3,No,3,3,4,3,1,3,11,No,10+ years,Very High (9k+),1-3 years ago
+EMP1011,42,Male,IT,Data Analyst,Master,Technical Degree,Divorced,Travel_Rarely,7986,17,12,1,5,17,7,No,2,4,2,1,4,4,19,No,10+ years,High (6-9k),4+ years ago
+EMP1012,42,Female,Research & Development,Research Director,Bachelor,Marketing,Married,Travel_Rarely,14573,19,17,8,3,17,2,No,2,4,3,1,2,3,7,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP1013,42,Male,Marketing,Content Specialist,Bachelor,Human Resources,Divorced,Non-Travel,3851,23,2,1,1,6,1,No,4,4,2,4,1,4,28,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP1014,28,Female,Sales,Sales Manager,Bachelor,Technical Degree,Divorced,Travel_Rarely,11533,11,2,0,0,8,5,Yes,3,4,2,2,1,3,13,No,1-2 years,Very High (9k+),Recently Promoted
+EMP1015,51,Male,Research & Development,Manager,Below College,Medical,Single,Travel_Rarely,10809,21,0,0,0,0,2,No,4,1,1,4,3,3,21,No,0 years,Very High (9k+),Recently Promoted
+EMP1016,33,Male,Finance,Finance Manager,College,Medical,Divorced,Travel_Frequently,12546,11,2,2,1,3,2,No,2,4,4,1,2,3,14,No,1-2 years,Very High (9k+),1-3 years ago
+EMP1017,54,Female,Research & Development,Research Scientist,Bachelor,Human Resources,Married,Travel_Rarely,9966,22,18,3,1,18,0,No,1,4,4,3,3,4,24,No,10+ years,Very High (9k+),1-3 years ago
+EMP1018,43,Male,Research & Development,Manager,Master,Marketing,Married,Non-Travel,13963,19,20,8,2,20,4,No,2,1,3,2,1,3,28,No,10+ years,Very High (9k+),1-3 years ago
+EMP1019,37,Female,Marketing,Content Specialist,Bachelor,Human Resources,Married,Non-Travel,6774,23,12,6,2,18,6,No,4,2,3,4,1,3,15,No,10+ years,High (6-9k),1-3 years ago
+EMP1020,32,Female,Human Resources,Recruiter,Bachelor,Life Sciences,Divorced,Travel_Rarely,3984,15,1,0,0,5,0,Yes,1,4,4,3,3,3,8,No,1-2 years,Low (<4k),Recently Promoted
+EMP1021,36,Female,Sales,Sales Representative,Master,Marketing,Married,Travel_Frequently,4794,20,9,6,8,14,3,No,3,1,2,3,4,3,18,No,6-10 years,Medium (4-6k),4+ years ago
+EMP1022,39,Female,Sales,Sales Manager,Doctor,Marketing,Divorced,Travel_Rarely,10287,23,6,6,0,12,1,No,3,1,3,3,1,3,25,No,6-10 years,Very High (9k+),Recently Promoted
+EMP1023,31,Male,Sales,Sales Executive,Master,Marketing,Married,Travel_Rarely,6820,24,0,0,0,5,4,Yes,1,1,2,4,4,3,1,No,0 years,High (6-9k),Recently Promoted
+EMP1024,50,Female,Finance,Finance Manager,Bachelor,Technical Degree,Married,Travel_Rarely,9439,17,2,2,0,5,1,Yes,3,4,4,3,3,3,17,No,1-2 years,Very High (9k+),Recently Promoted
+EMP1025,51,Female,Research & Development,Laboratory Technician,Master,Life Sciences,Married,Travel_Rarely,5990,17,21,20,0,22,4,No,4,1,1,1,3,3,14,No,10+ years,Medium (4-6k),Recently Promoted
+EMP1026,50,Female,Sales,Sales Manager,Master,Medical,Married,Travel_Rarely,11606,21,7,5,7,13,3,Yes,2,1,2,1,1,3,28,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP1027,37,Female,Marketing,Marketing Manager,Bachelor,Medical,Single,Travel_Rarely,10121,14,5,4,0,6,2,No,4,1,4,4,1,3,22,No,3-5 years,Very High (9k+),Recently Promoted
+EMP1028,39,Female,Sales,Sales Manager,Below College,Life Sciences,Divorced,Travel_Rarely,12919,23,14,12,2,14,5,No,4,1,1,2,2,3,16,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP1029,35,Male,IT,IT Manager,Master,Life Sciences,Single,Travel_Rarely,13554,14,12,12,10,19,3,Yes,3,2,3,1,3,3,2,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1030,38,Male,IT,IT Manager,Master,Technical Degree,Divorced,Travel_Rarely,13830,23,9,3,7,10,5,Yes,2,4,4,2,4,3,3,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP1031,33,Male,IT,IT Support,Master,Other,Married,Travel_Rarely,4380,21,4,4,3,9,0,No,2,2,1,4,1,3,26,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP1032,38,Female,Sales,Sales Representative,College,Human Resources,Married,Non-Travel,4574,16,8,3,2,12,4,Yes,1,4,1,1,2,3,19,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP1033,42,Female,Human Resources,HR Executive,Bachelor,Human Resources,Married,Non-Travel,6056,20,19,19,7,26,5,No,3,4,1,4,3,3,9,Yes,10+ years,High (6-9k),4+ years ago
+EMP1034,52,Female,IT,IT Manager,Bachelor,Medical,Single,Travel_Rarely,10999,12,3,3,2,3,6,No,3,1,2,4,3,4,14,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1035,45,Female,Research & Development,Research Director,Master,Marketing,Married,Travel_Frequently,12828,20,13,1,4,18,5,No,2,2,2,3,2,3,12,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1036,36,Female,Research & Development,Laboratory Technician,Master,Medical,Married,Non-Travel,4142,14,12,12,0,12,6,No,3,2,2,1,3,3,8,No,10+ years,Medium (4-6k),Recently Promoted
+EMP1037,44,Female,Sales,Sales Manager,Bachelor,Technical Degree,Single,Travel_Rarely,9264,17,11,6,10,11,6,No,3,2,1,3,2,3,6,No,10+ years,Very High (9k+),4+ years ago
+EMP1038,23,Female,IT,Data Analyst,Bachelor,Medical,Married,Travel_Rarely,5823,16,0,0,0,5,4,Yes,1,4,2,4,4,4,28,No,0 years,Medium (4-6k),Recently Promoted
+EMP1039,36,Male,Sales,Sales Executive,Doctor,Technical Degree,Married,Travel_Rarely,7375,18,6,1,1,7,6,Yes,3,4,3,1,4,3,12,No,6-10 years,High (6-9k),1-3 years ago
+EMP1040,56,Male,Finance,Finance Manager,Master,Medical,Divorced,Non-Travel,15303,16,24,21,7,31,6,No,2,4,4,3,4,3,17,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1041,55,Female,Sales,Sales Manager,College,Technical Degree,Married,Non-Travel,13207,15,15,12,4,21,7,No,4,4,3,2,4,3,27,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1042,38,Female,IT,IT Manager,Doctor,Medical,Divorced,Non-Travel,10757,12,9,3,6,14,3,Yes,3,4,1,3,4,3,20,No,6-10 years,Very High (9k+),4+ years ago
+EMP1043,25,Male,Research & Development,Research Scientist,Master,Human Resources,Divorced,Travel_Rarely,6565,16,1,1,0,3,3,No,3,4,1,3,4,4,23,No,1-2 years,High (6-9k),Recently Promoted
+EMP1044,33,Female,Human Resources,HR Executive,Master,Human Resources,Married,Non-Travel,5006,12,4,4,4,10,3,Yes,2,2,1,4,1,3,11,Yes,3-5 years,Medium (4-6k),4+ years ago
+EMP1045,27,Female,Research & Development,Manager,Bachelor,Marketing,Single,Travel_Frequently,12701,21,3,2,2,9,1,Yes,4,1,3,2,3,4,29,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1046,25,Male,Finance,Accountant,Master,Technical Degree,Married,Travel_Rarely,4595,12,3,2,0,7,0,No,1,2,4,1,1,3,28,No,3-5 years,Medium (4-6k),Recently Promoted
+EMP1047,55,Female,Research & Development,Laboratory Technician,Bachelor,Other,Single,Travel_Rarely,5119,17,12,5,11,18,5,No,1,3,4,3,3,3,18,No,10+ years,Medium (4-6k),4+ years ago
+EMP1048,30,Male,Finance,Financial Analyst,Bachelor,Human Resources,Single,Travel_Frequently,5963,24,0,0,0,3,5,No,2,3,4,3,4,4,16,No,0 years,Medium (4-6k),Recently Promoted
+EMP1049,54,Female,Marketing,Content Specialist,Master,Marketing,Single,Non-Travel,5410,23,6,5,3,7,1,No,3,4,3,1,2,3,8,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP1050,32,Female,Finance,Financial Analyst,Bachelor,Technical Degree,Married,Travel_Rarely,5213,13,0,0,0,0,4,No,1,4,4,3,4,3,11,No,0 years,Medium (4-6k),Recently Promoted
+EMP1051,53,Male,Finance,Accountant,Bachelor,Marketing,Married,Travel_Frequently,5756,24,7,6,2,9,6,Yes,2,4,1,4,2,4,22,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP1052,52,Female,Human Resources,HR Manager,Bachelor,Marketing,Single,Travel_Rarely,11158,17,10,2,1,13,4,No,1,4,2,3,2,3,6,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1053,49,Male,IT,Data Analyst,College,Medical,Married,Travel_Frequently,7251,20,4,0,0,5,3,Yes,1,2,2,4,1,3,6,Yes,3-5 years,High (6-9k),Recently Promoted
+EMP1054,37,Female,Sales,Sales Manager,Master,Other,Single,Travel_Rarely,12239,17,10,2,0,15,5,Yes,2,1,2,2,4,4,26,No,6-10 years,Very High (9k+),Recently Promoted
+EMP1055,34,Male,Research & Development,Research Scientist,Bachelor,Marketing,Married,Travel_Frequently,6204,23,6,0,0,8,6,No,3,4,4,3,4,3,19,No,6-10 years,High (6-9k),Recently Promoted
+EMP1056,37,Male,Sales,Sales Representative,Master,Marketing,Married,Travel_Rarely,4227,22,7,5,4,13,0,No,3,4,2,3,3,3,16,No,6-10 years,Medium (4-6k),4+ years ago
+EMP1057,48,Female,Research & Development,Research Director,Bachelor,Technical Degree,Single,Travel_Frequently,13513,21,6,2,4,10,5,No,2,1,1,2,1,3,8,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP1058,48,Male,IT,Software Engineer,Master,Human Resources,Single,Travel_Rarely,8418,20,13,9,10,20,4,Yes,3,4,2,4,4,3,15,Yes,10+ years,High (6-9k),4+ years ago
+EMP1059,30,Female,Research & Development,Manager,Master,Other,Divorced,Travel_Rarely,11186,17,8,7,3,13,7,No,2,1,1,4,2,3,2,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1060,23,Male,Human Resources,Recruiter,College,Human Resources,Divorced,Non-Travel,4714,11,1,1,0,3,7,No,1,3,1,2,4,3,28,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP1061,48,Male,Sales,Sales Executive,Doctor,Technical Degree,Married,Non-Travel,5391,22,2,2,0,9,5,No,2,2,1,1,1,3,9,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP1062,38,Male,Finance,Financial Analyst,Master,Medical,Married,Travel_Rarely,7256,20,3,3,2,3,0,No,4,4,1,4,2,4,17,No,3-5 years,High (6-9k),1-3 years ago
+EMP1063,38,Female,Research & Development,Research Director,Doctor,Human Resources,Married,Travel_Frequently,14941,23,7,2,2,8,1,Yes,1,2,3,2,1,3,3,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1064,35,Female,IT,Software Engineer,Bachelor,Human Resources,Married,Travel_Frequently,8719,20,9,2,8,9,7,No,3,4,1,1,1,3,28,No,6-10 years,High (6-9k),4+ years ago
+EMP1065,55,Male,Human Resources,HR Manager,Bachelor,Technical Degree,Married,Travel_Frequently,10250,14,7,3,5,10,4,No,4,3,3,4,3,3,28,No,6-10 years,Very High (9k+),4+ years ago
+EMP1066,37,Male,Sales,Sales Representative,Doctor,Marketing,Single,Travel_Rarely,4735,14,7,1,1,9,4,No,2,1,1,1,1,3,5,Yes,6-10 years,Medium (4-6k),1-3 years ago
+EMP1067,53,Female,IT,IT Support,Bachelor,Medical,Divorced,Travel_Rarely,5628,14,10,8,2,14,4,Yes,3,4,2,1,4,3,2,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP1068,35,Female,Sales,Sales Representative,Master,Other,Single,Travel_Frequently,4797,20,9,2,6,12,6,No,4,3,2,2,4,3,2,No,6-10 years,Medium (4-6k),4+ years ago
+EMP1069,57,Female,Finance,Financial Analyst,Bachelor,Technical Degree,Single,Travel_Rarely,9180,14,20,16,3,24,4,No,3,4,3,1,4,4,16,No,10+ years,Very High (9k+),1-3 years ago
+EMP1070,30,Male,Research & Development,Research Director,Master,Medical,Married,Non-Travel,11274,18,6,2,4,8,6,Yes,2,3,3,3,3,4,29,No,6-10 years,Very High (9k+),4+ years ago
+EMP1071,29,Male,IT,IT Manager,Master,Technical Degree,Married,Travel_Rarely,13461,21,5,4,3,7,5,Yes,4,3,2,3,1,3,24,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1072,25,Male,IT,IT Support,College,Other,Married,Non-Travel,3611,14,0,0,0,1,2,Yes,2,3,2,4,2,3,24,No,0 years,Low (<4k),Recently Promoted
+EMP1073,36,Female,Finance,Financial Analyst,Bachelor,Technical Degree,Married,Travel_Rarely,7215,18,13,4,11,14,7,No,3,3,1,1,4,4,21,No,10+ years,High (6-9k),4+ years ago
+EMP1074,32,Male,Research & Development,Research Scientist,Master,Life Sciences,Single,Travel_Rarely,5916,23,3,3,2,5,5,Yes,1,2,2,3,2,4,24,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP1075,52,Male,Research & Development,Research Director,Bachelor,Medical,Single,Travel_Rarely,14766,15,14,10,7,18,7,No,3,4,3,2,1,4,24,No,10+ years,Very High (9k+),4+ years ago
+EMP1076,45,Female,Sales,Sales Executive,Master,Other,Married,Travel_Rarely,7148,14,4,1,2,9,2,No,2,4,4,2,1,4,10,No,3-5 years,High (6-9k),1-3 years ago
+EMP1077,33,Female,IT,IT Manager,Bachelor,Other,Married,Non-Travel,13050,18,6,1,4,13,5,No,1,4,2,2,2,4,22,No,6-10 years,Very High (9k+),4+ years ago
+EMP1078,22,Female,Research & Development,Manager,Master,Technical Degree,Single,Non-Travel,13067,11,0,0,0,5,5,Yes,3,4,1,4,4,4,5,Yes,0 years,Very High (9k+),Recently Promoted
+EMP1079,51,Male,Research & Development,Laboratory Technician,College,Technical Degree,Married,Travel_Rarely,5137,17,14,8,11,16,3,No,2,2,2,4,3,3,11,No,10+ years,Medium (4-6k),4+ years ago
+EMP1080,52,Male,Research & Development,Manager,Master,Life Sciences,Single,Travel_Rarely,12276,17,12,3,11,16,7,No,2,1,2,2,4,3,12,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1081,38,Male,IT,Data Analyst,Bachelor,Technical Degree,Single,Non-Travel,7220,17,8,5,6,12,7,No,1,4,1,1,1,3,25,Yes,6-10 years,High (6-9k),4+ years ago
+EMP1082,25,Male,Sales,Sales Executive,Master,Marketing,Married,Travel_Rarely,5044,19,2,0,1,9,6,No,2,1,4,4,4,3,22,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP1083,23,Female,Research & Development,Laboratory Technician,Doctor,Marketing,Single,Travel_Rarely,3365,20,0,0,0,6,6,Yes,3,2,1,1,4,4,14,No,0 years,Low (<4k),Recently Promoted
+EMP1084,51,Female,Finance,Financial Analyst,Bachelor,Marketing,Single,Travel_Rarely,7734,22,16,15,7,23,3,No,1,2,4,1,2,3,25,No,10+ years,High (6-9k),4+ years ago
+EMP1085,51,Male,IT,Software Engineer,Bachelor,Marketing,Divorced,Travel_Rarely,8805,19,8,4,3,9,5,No,1,4,3,1,4,4,24,No,6-10 years,High (6-9k),1-3 years ago
+EMP1086,29,Female,Finance,Accountant,Master,Marketing,Single,Travel_Rarely,5370,24,3,0,0,7,2,Yes,3,2,1,2,2,3,7,No,3-5 years,Medium (4-6k),Recently Promoted
+EMP1087,28,Female,Research & Development,Research Director,Bachelor,Human Resources,Single,Travel_Rarely,13498,14,6,2,2,7,2,No,4,3,1,3,2,3,17,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1088,23,Male,Research & Development,Research Scientist,Master,Medical,Married,Non-Travel,6727,20,0,0,0,7,0,No,4,3,2,1,1,4,16,Yes,0 years,High (6-9k),Recently Promoted
+EMP1089,36,Male,Research & Development,Research Scientist,Doctor,Medical,Married,Travel_Frequently,7622,21,7,1,3,9,4,Yes,4,1,3,3,2,4,14,No,6-10 years,High (6-9k),1-3 years ago
+EMP1090,26,Female,Sales,Sales Representative,Master,Medical,Married,Travel_Rarely,3673,18,0,0,0,3,3,No,1,2,1,1,4,3,19,Yes,0 years,Low (<4k),Recently Promoted
+EMP1091,24,Male,Sales,Sales Representative,Bachelor,Medical,Single,Travel_Rarely,3470,11,2,0,2,2,3,No,1,2,4,1,4,4,4,Yes,1-2 years,Low (<4k),1-3 years ago
+EMP1092,48,Male,Sales,Sales Manager,Doctor,Technical Degree,Single,Non-Travel,9460,21,4,0,2,5,0,Yes,4,2,2,1,2,3,20,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1093,42,Male,Finance,Finance Manager,Bachelor,Medical,Single,Non-Travel,12842,15,11,1,6,13,3,No,2,1,3,1,1,4,21,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1094,47,Male,Marketing,Content Specialist,College,Technical Degree,Single,Travel_Rarely,5426,12,6,4,4,9,1,No,3,3,4,3,1,4,15,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP1095,50,Female,Research & Development,Manager,Below College,Marketing,Married,Non-Travel,12146,22,8,3,3,10,3,No,4,1,1,4,1,3,22,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1096,34,Male,IT,Software Engineer,Bachelor,Life Sciences,Divorced,Travel_Rarely,8823,16,6,2,5,6,5,No,3,3,4,4,1,3,2,No,6-10 years,High (6-9k),4+ years ago
+EMP1097,50,Male,Sales,Sales Executive,Master,Life Sciences,Single,Travel_Rarely,9719,24,22,17,13,22,3,Yes,2,4,1,4,2,3,19,No,10+ years,Very High (9k+),4+ years ago
+EMP1098,35,Female,Human Resources,HR Manager,Below College,Technical Degree,Married,Travel_Frequently,11743,24,3,3,0,7,0,Yes,4,1,3,2,1,3,20,No,3-5 years,Very High (9k+),Recently Promoted
+EMP1099,52,Female,Finance,Financial Analyst,Bachelor,Human Resources,Married,Travel_Rarely,6931,13,2,0,0,5,5,No,4,2,3,4,4,4,22,No,1-2 years,High (6-9k),Recently Promoted
+EMP1100,24,Male,Finance,Accountant,Bachelor,Human Resources,Married,Travel_Rarely,4655,21,1,0,1,8,3,No,1,2,2,1,1,3,12,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP1101,41,Female,IT,IT Manager,College,Other,Married,Travel_Rarely,10806,19,5,5,2,11,5,No,1,1,4,2,2,3,18,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1102,29,Male,Marketing,Content Specialist,Master,Technical Degree,Single,Travel_Rarely,3685,18,2,1,1,7,2,No,3,3,4,4,3,3,17,No,1-2 years,Low (<4k),1-3 years ago
+EMP1103,50,Female,Research & Development,Manager,Master,Medical,Married,Travel_Rarely,13883,19,18,8,9,22,7,No,1,2,4,4,1,4,18,No,10+ years,Very High (9k+),4+ years ago
+EMP1104,54,Male,Marketing,Content Specialist,Bachelor,Other,Divorced,Travel_Rarely,5746,15,18,1,12,18,6,No,3,2,3,1,4,3,13,No,10+ years,Medium (4-6k),4+ years ago
+EMP1105,23,Female,Research & Development,Manager,Below College,Marketing,Married,Travel_Rarely,11391,20,0,0,0,1,4,Yes,3,2,3,1,1,4,7,No,0 years,Very High (9k+),Recently Promoted
+EMP1106,23,Male,IT,Software Engineer,Master,Other,Married,Travel_Rarely,7806,19,1,1,0,1,2,No,1,1,1,3,3,3,27,No,1-2 years,High (6-9k),Recently Promoted
+EMP1107,33,Male,IT,Data Analyst,Master,Marketing,Married,Travel_Rarely,7884,22,2,2,2,2,1,No,4,3,3,3,3,3,20,No,1-2 years,High (6-9k),1-3 years ago
+EMP1108,24,Female,Marketing,Marketing Executive,Master,Marketing,Single,Travel_Rarely,4767,22,1,1,1,7,3,No,1,2,2,3,1,4,22,Yes,1-2 years,Medium (4-6k),1-3 years ago
+EMP1109,33,Male,Finance,Finance Manager,Bachelor,Technical Degree,Married,Travel_Rarely,13597,15,8,7,5,14,0,Yes,1,3,4,1,3,3,5,No,6-10 years,Very High (9k+),4+ years ago
+EMP1110,33,Male,Sales,Sales Manager,Master,Human Resources,Divorced,Travel_Rarely,10691,17,4,4,1,5,7,No,2,4,2,3,1,3,15,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1111,42,Female,Sales,Sales Manager,Master,Human Resources,Divorced,Travel_Rarely,11769,12,2,2,1,6,3,Yes,3,1,1,3,4,4,24,Yes,1-2 years,Very High (9k+),1-3 years ago
+EMP1112,43,Male,Research & Development,Research Scientist,Bachelor,Technical Degree,Married,Travel_Rarely,6868,15,14,11,13,20,6,No,2,1,4,4,4,3,23,Yes,10+ years,High (6-9k),4+ years ago
+EMP1113,36,Male,Research & Development,Research Director,College,Life Sciences,Single,Travel_Rarely,11932,21,5,5,0,11,6,No,2,3,1,4,4,3,27,Yes,3-5 years,Very High (9k+),Recently Promoted
+EMP1114,23,Female,Finance,Finance Manager,College,Medical,Married,Non-Travel,12290,15,0,0,0,7,1,Yes,1,3,3,4,3,3,19,No,0 years,Very High (9k+),Recently Promoted
+EMP1115,27,Male,Human Resources,HR Manager,Doctor,Technical Degree,Divorced,Travel_Frequently,8488,15,0,0,0,5,1,No,3,3,4,2,2,3,6,No,0 years,High (6-9k),Recently Promoted
+EMP1116,56,Female,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Married,Non-Travel,5698,15,22,5,2,22,1,No,2,2,3,4,1,3,25,Yes,10+ years,Medium (4-6k),1-3 years ago
+EMP1117,33,Male,Sales,Sales Manager,Master,Technical Degree,Married,Travel_Rarely,11280,14,10,0,10,14,0,No,4,2,4,4,2,4,15,Yes,6-10 years,Very High (9k+),4+ years ago
+EMP1118,31,Male,Finance,Financial Analyst,Master,Other,Married,Travel_Rarely,6131,13,3,0,1,10,1,No,3,2,1,4,2,3,12,No,3-5 years,High (6-9k),1-3 years ago
+EMP1119,33,Male,Research & Development,Laboratory Technician,Bachelor,Technical Degree,Divorced,Travel_Rarely,4069,12,7,2,5,14,3,No,4,3,1,1,1,3,23,No,6-10 years,Medium (4-6k),4+ years ago
+EMP1120,39,Female,Sales,Sales Representative,Master,Life Sciences,Married,Travel_Rarely,3181,21,3,3,0,3,1,No,2,4,1,4,2,4,16,No,3-5 years,Low (<4k),Recently Promoted
+EMP1121,39,Female,Finance,Financial Analyst,Bachelor,Marketing,Married,Travel_Rarely,7984,15,7,2,4,7,1,Yes,1,4,1,2,2,4,8,No,6-10 years,High (6-9k),4+ years ago
+EMP1122,53,Female,IT,IT Support,Master,Human Resources,Married,Travel_Rarely,5200,24,15,3,5,18,5,No,4,4,1,4,4,4,12,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP1123,33,Male,Finance,Accountant,Bachelor,Other,Married,Travel_Rarely,4157,12,0,0,0,7,1,Yes,2,3,2,1,2,3,28,Yes,0 years,Medium (4-6k),Recently Promoted
+EMP1124,40,Male,Finance,Finance Manager,Bachelor,Medical,Single,Travel_Rarely,10652,18,10,8,6,16,6,Yes,3,1,4,2,4,3,12,No,6-10 years,Very High (9k+),4+ years ago
+EMP1125,32,Male,Finance,Financial Analyst,Bachelor,Medical,Divorced,Travel_Rarely,6612,17,7,4,2,12,4,No,4,2,2,3,3,3,7,No,6-10 years,High (6-9k),1-3 years ago
+EMP1126,35,Male,Sales,Sales Executive,Bachelor,Life Sciences,Single,Travel_Rarely,7049,14,9,8,6,14,2,No,4,2,3,3,4,3,12,No,6-10 years,High (6-9k),4+ years ago
+EMP1127,52,Female,Research & Development,Research Scientist,Bachelor,Life Sciences,Single,Travel_Rarely,7763,14,8,3,1,13,0,Yes,4,1,2,1,3,3,7,No,6-10 years,High (6-9k),1-3 years ago
+EMP1128,41,Female,Sales,Sales Manager,Master,Marketing,Single,Travel_Rarely,11643,19,17,9,4,24,5,Yes,1,3,2,4,4,4,6,No,10+ years,Very High (9k+),4+ years ago
+EMP1129,27,Male,Finance,Accountant,Bachelor,Technical Degree,Married,Travel_Rarely,5388,22,1,1,1,3,4,No,1,1,1,4,1,3,17,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP1130,56,Male,Marketing,Content Specialist,Bachelor,Human Resources,Single,Non-Travel,5528,13,10,8,4,14,1,No,2,3,1,1,4,4,19,No,6-10 years,Medium (4-6k),4+ years ago
+EMP1131,36,Female,IT,Software Engineer,Master,Life Sciences,Single,Non-Travel,9656,23,14,5,2,19,5,Yes,1,1,4,2,1,3,8,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP1132,26,Male,Sales,Sales Representative,Bachelor,Marketing,Married,Non-Travel,3389,20,0,0,0,0,0,No,4,4,3,2,1,3,8,No,0 years,Low (<4k),Recently Promoted
+EMP1133,33,Female,Research & Development,Manager,College,Human Resources,Married,Travel_Frequently,12037,12,9,4,4,12,2,No,4,4,4,1,4,4,23,No,6-10 years,Very High (9k+),4+ years ago
+EMP1134,32,Male,IT,Software Engineer,Doctor,Other,Single,Travel_Rarely,8455,17,1,0,1,6,6,No,3,3,3,2,1,3,4,No,1-2 years,High (6-9k),1-3 years ago
+EMP1135,25,Male,Research & Development,Laboratory Technician,Bachelor,Other,Married,Travel_Rarely,2486,22,1,0,1,7,0,No,2,4,2,2,1,4,28,No,1-2 years,Low (<4k),1-3 years ago
+EMP1136,35,Female,Sales,Sales Manager,Below College,Human Resources,Single,Travel_Rarely,11531,13,5,5,4,10,7,Yes,1,2,3,1,3,3,18,No,3-5 years,Very High (9k+),4+ years ago
+EMP1137,22,Female,Sales,Sales Representative,Master,Marketing,Married,Travel_Rarely,3798,19,0,0,0,6,4,No,2,4,4,2,4,3,16,Yes,0 years,Low (<4k),Recently Promoted
+EMP1138,37,Male,Sales,Sales Representative,Master,Medical,Single,Travel_Frequently,3760,18,4,0,0,7,6,No,2,3,3,2,2,4,4,Yes,3-5 years,Low (<4k),Recently Promoted
+EMP1139,48,Female,Sales,Sales Manager,College,Life Sciences,Divorced,Travel_Rarely,13183,16,15,8,3,20,7,Yes,4,3,3,1,2,3,1,No,10+ years,Very High (9k+),1-3 years ago
+EMP1140,38,Male,IT,IT Support,College,Other,Married,Travel_Rarely,3885,12,3,1,1,8,3,No,1,4,2,4,4,4,22,Yes,3-5 years,Low (<4k),1-3 years ago
+EMP1141,30,Male,Marketing,Marketing Executive,Master,Technical Degree,Divorced,Travel_Rarely,4820,13,7,2,7,7,5,No,1,2,3,1,3,4,18,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP1142,33,Male,Marketing,Content Specialist,Doctor,Technical Degree,Single,Travel_Rarely,4872,14,8,1,0,11,3,No,3,3,1,2,1,4,9,No,6-10 years,Medium (4-6k),Recently Promoted
+EMP1143,36,Male,Finance,Accountant,Bachelor,Human Resources,Single,Travel_Rarely,7385,15,14,0,2,19,7,No,4,2,3,4,1,3,14,No,10+ years,High (6-9k),1-3 years ago
+EMP1144,22,Male,IT,IT Support,Doctor,Life Sciences,Married,Non-Travel,3490,15,0,0,0,3,3,No,4,1,4,3,3,3,6,No,0 years,Low (<4k),Recently Promoted
+EMP1145,37,Female,IT,Software Engineer,Below College,Life Sciences,Married,Travel_Rarely,8546,19,13,6,12,13,4,No,2,2,4,3,4,3,11,No,10+ years,High (6-9k),4+ years ago
+EMP1146,27,Female,Marketing,Marketing Executive,Bachelor,Medical,Married,Travel_Frequently,5108,21,3,3,1,6,7,Yes,4,2,4,3,1,3,14,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP1147,56,Male,IT,IT Manager,Master,Medical,Divorced,Travel_Rarely,16781,16,22,22,4,29,0,No,3,2,3,2,4,3,27,No,10+ years,Very High (9k+),4+ years ago
+EMP1148,23,Female,Research & Development,Manager,Doctor,Other,Married,Travel_Frequently,13506,16,0,0,0,0,0,No,4,3,4,1,4,4,3,No,0 years,Very High (9k+),Recently Promoted
+EMP1149,53,Male,Sales,Sales Representative,Below College,Other,Divorced,Travel_Rarely,4540,23,13,5,11,18,1,No,2,2,1,1,1,3,5,Yes,10+ years,Medium (4-6k),4+ years ago
+EMP1150,39,Male,Research & Development,Laboratory Technician,Master,Technical Degree,Single,Travel_Frequently,3234,23,0,0,0,5,2,No,4,1,3,2,1,3,19,No,0 years,Low (<4k),Recently Promoted
+EMP1151,34,Female,Marketing,Content Specialist,Bachelor,Other,Married,Travel_Rarely,4261,24,4,3,2,5,3,No,4,1,4,2,3,3,25,Yes,3-5 years,Medium (4-6k),1-3 years ago
+EMP1152,27,Male,IT,Data Analyst,Master,Life Sciences,Married,Travel_Frequently,6620,20,4,2,0,11,7,Yes,4,1,3,3,4,3,19,No,3-5 years,High (6-9k),Recently Promoted
+EMP1153,28,Female,IT,IT Support,Bachelor,Life Sciences,Married,Travel_Rarely,3809,16,6,6,0,11,3,No,4,3,3,3,2,4,10,No,6-10 years,Low (<4k),Recently Promoted
+EMP1154,43,Male,Human Resources,HR Executive,Master,Life Sciences,Single,Travel_Rarely,7915,15,19,15,16,26,1,Yes,2,4,4,4,1,3,5,Yes,10+ years,High (6-9k),4+ years ago
+EMP1155,32,Male,Marketing,Marketing Executive,Master,Marketing,Single,Travel_Rarely,5411,15,2,0,0,8,1,No,1,1,2,2,4,3,20,No,1-2 years,Medium (4-6k),Recently Promoted
+EMP1156,29,Female,Research & Development,Laboratory Technician,College,Life Sciences,Married,Travel_Rarely,3605,21,1,1,0,2,3,No,4,4,1,4,2,3,27,Yes,1-2 years,Low (<4k),Recently Promoted
+EMP1157,28,Male,Finance,Financial Analyst,Doctor,Marketing,Married,Travel_Rarely,6639,24,6,5,6,6,3,Yes,3,4,2,3,1,3,7,Yes,6-10 years,High (6-9k),4+ years ago
+EMP1158,39,Female,Sales,Sales Manager,College,Marketing,Single,Travel_Rarely,9582,20,11,3,7,13,4,No,4,2,3,3,1,3,16,No,10+ years,Very High (9k+),4+ years ago
+EMP1159,57,Male,Finance,Accountant,Bachelor,Medical,Married,Travel_Frequently,7158,16,18,1,1,25,0,Yes,1,2,4,3,3,4,9,No,10+ years,High (6-9k),1-3 years ago
+EMP1160,26,Female,Sales,Sales Representative,Bachelor,Marketing,Married,Non-Travel,4041,12,3,0,1,6,1,No,4,4,1,4,2,4,13,No,3-5 years,Medium (4-6k),1-3 years ago
+EMP1161,42,Male,Marketing,Content Specialist,Bachelor,Marketing,Single,Travel_Rarely,5497,19,8,5,4,11,6,Yes,4,3,3,4,3,3,25,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP1162,47,Female,Sales,Sales Manager,Master,Technical Degree,Single,Travel_Rarely,12831,24,13,7,12,16,0,No,3,1,3,3,2,4,9,No,10+ years,Very High (9k+),4+ years ago
+EMP1163,30,Female,Sales,Sales Representative,Bachelor,Life Sciences,Married,Travel_Rarely,4685,20,8,2,7,14,6,No,2,2,2,4,1,3,13,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP1164,49,Male,Marketing,Marketing Manager,Doctor,Other,Divorced,Travel_Rarely,10019,15,15,9,3,20,4,No,1,4,1,4,2,3,26,Yes,10+ years,Very High (9k+),1-3 years ago
+EMP1165,32,Female,Finance,Accountant,Bachelor,Marketing,Married,Non-Travel,6234,24,10,2,3,15,1,Yes,4,2,3,1,1,3,5,No,6-10 years,High (6-9k),1-3 years ago
+EMP1166,42,Female,Finance,Finance Manager,Master,Marketing,Married,Travel_Rarely,10756,13,8,7,2,14,5,No,1,1,3,1,4,3,16,Yes,6-10 years,Very High (9k+),1-3 years ago
+EMP1167,53,Female,IT,IT Manager,Bachelor,Medical,Married,Travel_Rarely,10817,14,10,10,3,14,3,No,1,4,2,4,3,4,3,No,6-10 years,Very High (9k+),1-3 years ago
+EMP1168,41,Male,Research & Development,Research Scientist,College,Medical,Single,Travel_Rarely,8723,23,14,4,14,21,7,No,3,4,4,4,4,3,19,Yes,10+ years,High (6-9k),4+ years ago
+EMP1169,25,Female,Finance,Finance Manager,Master,Human Resources,Married,Non-Travel,11755,24,1,1,0,1,6,No,3,4,4,2,3,4,26,Yes,1-2 years,Very High (9k+),Recently Promoted
+EMP1170,55,Male,Human Resources,HR Executive,Master,Marketing,Married,Travel_Rarely,4764,12,1,1,0,6,0,Yes,2,4,2,2,1,3,1,Yes,1-2 years,Medium (4-6k),Recently Promoted
+EMP1171,57,Male,IT,IT Support,Bachelor,Other,Divorced,Travel_Frequently,4082,13,6,5,6,11,0,Yes,1,1,1,2,3,3,5,Yes,6-10 years,Medium (4-6k),4+ years ago
+EMP1172,34,Female,Sales,Sales Manager,Bachelor,Marketing,Single,Travel_Rarely,13023,11,8,6,6,13,5,No,3,4,1,1,1,4,6,No,6-10 years,Very High (9k+),4+ years ago
+EMP1173,22,Male,IT,IT Support,College,Technical Degree,Single,Travel_Rarely,3002,19,0,0,0,4,0,No,1,1,2,1,3,3,23,Yes,0 years,Low (<4k),Recently Promoted
+EMP1174,25,Male,Research & Development,Research Director,College,Human Resources,Divorced,Travel_Rarely,12520,13,0,0,0,2,5,No,3,4,3,3,3,4,14,Yes,0 years,Very High (9k+),Recently Promoted
+EMP1175,39,Female,Sales,Sales Executive,Master,Human Resources,Married,Travel_Rarely,8278,21,14,13,8,19,0,Yes,2,1,3,4,4,3,29,No,10+ years,High (6-9k),4+ years ago
+EMP1176,42,Male,Sales,Sales Executive,Bachelor,Technical Degree,Married,Travel_Rarely,6249,18,10,9,1,13,4,No,3,4,4,1,2,3,22,No,6-10 years,High (6-9k),1-3 years ago
+EMP1177,43,Male,Finance,Finance Manager,Master,Medical,Single,Travel_Frequently,12010,24,4,3,1,8,6,No,4,2,2,3,3,3,24,Yes,3-5 years,Very High (9k+),1-3 years ago
+EMP1178,38,Female,Sales,Sales Executive,Bachelor,Life Sciences,Single,Travel_Frequently,6284,13,16,1,0,22,7,Yes,3,2,1,3,3,4,21,Yes,10+ years,High (6-9k),Recently Promoted
+EMP1179,45,Male,Sales,Sales Executive,Master,Human Resources,Divorced,Travel_Rarely,5473,20,7,1,2,12,6,No,3,2,3,1,3,4,19,No,6-10 years,Medium (4-6k),1-3 years ago
+EMP1180,49,Male,Research & Development,Research Scientist,Bachelor,Medical,Divorced,Travel_Frequently,9691,23,17,2,8,24,3,No,1,3,4,2,4,3,4,No,10+ years,Very High (9k+),4+ years ago
+EMP1181,48,Male,IT,Software Engineer,Master,Other,Married,Non-Travel,10623,18,14,0,9,17,2,No,3,2,3,1,4,3,7,Yes,10+ years,Very High (9k+),4+ years ago
+EMP1182,50,Female,Research & Development,Research Director,College,Technical Degree,Married,Non-Travel,13049,19,23,7,15,23,5,No,2,2,4,4,3,3,17,No,10+ years,Very High (9k+),4+ years ago
+EMP1183,24,Male,Human Resources,HR Manager,Master,Technical Degree,Married,Travel_Rarely,9304,12,1,1,1,1,4,Yes,3,2,3,3,2,3,7,No,1-2 years,Very High (9k+),1-3 years ago
+EMP1184,34,Male,Sales,Sales Executive,Master,Life Sciences,Divorced,Travel_Rarely,6306,24,11,2,6,14,1,No,3,3,4,3,1,4,10,No,10+ years,High (6-9k),4+ years ago
+EMP1185,26,Male,Human Resources,HR Executive,Bachelor,Other,Married,Travel_Rarely,5773,13,2,1,0,5,5,No,2,4,2,4,4,4,4,Yes,1-2 years,Medium (4-6k),Recently Promoted
+EMP1186,23,Male,Human Resources,Recruiter,Bachelor,Human Resources,Married,Travel_Rarely,4199,24,1,1,1,4,1,No,3,3,2,4,4,3,1,No,1-2 years,Medium (4-6k),1-3 years ago
+EMP1187,51,Female,IT,IT Manager,Bachelor,Other,Married,Non-Travel,14921,22,15,8,0,17,0,Yes,4,1,3,1,4,3,26,No,10+ years,Very High (9k+),Recently Promoted
+EMP1188,46,Male,Research & Development,Research Director,Master,Other,Divorced,Non-Travel,14057,19,19,12,14,23,6,Yes,2,4,4,4,4,3,11,No,10+ years,Very High (9k+),4+ years ago
+EMP1189,57,Female,Human Resources,HR Executive,Master,Marketing,Married,Travel_Rarely,4750,18,3,3,0,6,0,Yes,1,3,4,2,3,3,20,No,3-5 years,Medium (4-6k),Recently Promoted
+EMP1190,34,Female,Human Resources,HR Executive,Below College,Technical Degree,Married,Travel_Rarely,6185,18,7,4,0,13,5,No,4,4,1,4,2,4,24,No,6-10 years,High (6-9k),Recently Promoted
+EMP1191,29,Female,Finance,Financial Analyst,Bachelor,Human Resources,Single,Travel_Rarely,6635,11,5,4,5,10,0,No,4,1,4,2,2,4,25,No,3-5 years,High (6-9k),4+ years ago
+EMP1192,26,Female,IT,Data Analyst,College,Technical Degree,Married,Travel_Rarely,6473,21,0,0,0,4,5,No,2,1,1,1,1,3,1,Yes,0 years,High (6-9k),Recently Promoted
+EMP1193,42,Male,Finance,Financial Analyst,Bachelor,Technical Degree,Divorced,Travel_Rarely,8008,16,12,12,12,16,6,No,1,3,4,1,2,4,1,No,10+ years,High (6-9k),4+ years ago
+EMP1194,51,Female,Sales,Sales Manager,Master,Life Sciences,Single,Non-Travel,11509,15,0,0,0,7,1,Yes,2,2,2,2,4,3,26,Yes,0 years,Very High (9k+),Recently Promoted
+EMP1195,38,Male,Research & Development,Research Director,Below College,Other,Married,Travel_Rarely,12774,20,14,9,11,17,1,No,1,1,4,4,3,3,13,No,10+ years,Very High (9k+),4+ years ago
+EMP1196,40,Male,Research & Development,Research Director,Master,Technical Degree,Divorced,Travel_Rarely,16301,14,14,6,0,17,4,No,1,2,3,2,2,3,29,No,10+ years,Very High (9k+),Recently Promoted
+EMP1197,45,Female,IT,IT Support,Bachelor,Marketing,Married,Travel_Rarely,4601,15,4,4,4,7,4,No,4,4,2,1,4,3,21,No,3-5 years,Medium (4-6k),4+ years ago
+EMP1198,50,Male,Finance,Financial Analyst,Master,Human Resources,Married,Travel_Rarely,6897,18,6,5,5,7,6,No,1,1,4,3,2,3,7,No,6-10 years,High (6-9k),4+ years ago
+EMP1199,32,Female,Sales,Sales Representative,Bachelor,Human Resources,Single,Travel_Frequently,4998,19,10,10,10,10,3,Yes,3,3,3,1,3,3,23,No,6-10 years,Medium (4-6k),4+ years ago
+EMP1200,57,Female,Sales,Sales Executive,College,Life Sciences,Married,Travel_Rarely,7305,12,4,1,2,5,0,No,4,1,4,3,4,4,9,No,3-5 years,High (6-9k),1-3 years ago
