@@ -1,0 +1,7 @@
+Department,Employees,Attrition_Count,Attrition_Rate,Avg_Income,Avg_Tenure,Avg_JobSatisfaction
+IT,209,87,41.63,8829.08,8.0,2.49
+Marketing,96,37,38.54,6666.22,7.56,2.66
+Research & Development,305,110,36.07,9406.18,7.82,2.64
+Sales,349,125,35.82,7153.8,7.11,2.52
+Human Resources,89,29,32.58,7503.85,8.26,2.42
+Finance,152,45,29.61,8609.67,8.07,2.41
